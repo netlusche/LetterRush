@@ -111,7 +111,7 @@ interface GameState {
 }
 ```
 
-`GamePhase` = `'SETUP' | 'CATEGORY_SELECTION' | 'PASS_DEVICE' | 'SORTING' | 'SCORE_LOCK' | 'ROUND_REVEAL' | 'FINAL_RESULTS'`.
+`GamePhase` = `'LANDING' | 'SETUP' | 'CATEGORY_SELECTION' | 'PASS_DEVICE' | 'SORTING' | 'SCORE_LOCK' | 'ROUND_REVEAL' | 'FINAL_RESULTS'`.
 
 ### Reducer
 
@@ -139,7 +139,7 @@ interface GameState {
 ## 4. Game Flow
 
 ```
-SETUP ──Weiter──▶ CATEGORY_SELECTION ──Spiel starten──▶ PASS_DEVICE
+LANDING ──Los geht's!──▶ SETUP ──Weiter──▶ CATEGORY_SELECTION ──Spiel starten──▶ PASS_DEVICE
                                                             │ Start
                                                             ▼
                                                          SORTING
@@ -230,6 +230,7 @@ See **`manuals/data.md`** for the full data system. In short:
 
 | Component | Role |
 |---|---|
+| `LandingScreen` | Splash on first launch — logo (pulse animation), "Let's play!" CTA, social share footer (WhatsApp · Facebook · Telegram · Reddit · Copy + native share on mobile) |
 | `GameSetup` | Step 1 — players (1–6), rounds (1–5), round timer (45/50/60 s) + penalty toggle, language, theme dropdown, high-score list |
 | `CategoryScreen` | Step 2 — core grid + bonus toggle, readiness hint, Back / Start (MelodyMatch-style grid) |
 | `PassDeviceScreen` | Covered hand-off, shows round + player + categories |

@@ -77,6 +77,12 @@ export const translations = {
 
     selectAtLeastOne: 'Select at least one category.',
     nonCommercial: 'Non-commercial hobby project',
+
+    letsPlay: "Let's play!",
+    shareGame: 'Share with friends',
+    copyLink: 'Copy link',
+    copied: 'Copied!',
+    shareText: 'LetterRush – the word swiping game!',
   },
   de: {
     title: 'LetterRush',
@@ -156,6 +162,12 @@ export const translations = {
 
     selectAtLeastOne: 'Wähle mindestens eine Kategorie.',
     nonCommercial: 'Nicht-kommerzielles Hobbyprojekt',
+
+    letsPlay: 'Los geht\'s!',
+    shareGame: 'Mit Freunden teilen',
+    copyLink: 'Link kopieren',
+    copied: 'Kopiert!',
+    shareText: 'LetterRush – das Stadt-Land-Fluss-Wischspiel!',
   },
 } as const;
 

@@ -20,6 +20,7 @@ export type GameAction =
   | { type: 'NEXT_ROUND' }
   | { type: 'PLAY_AGAIN' }
   | { type: 'SET_THEME'; payload: { theme: Theme } }
+  | { type: 'GO_TO_SETUP' }
   | { type: 'RESET_GAME' };
 
 export const initialState: GameState = {
@@ -29,7 +30,7 @@ export const initialState: GameState = {
   currentPlayerIndex: 0,
   currentRound: 1,
   totalRounds: 3,
-  phase: 'SETUP',
+  phase: 'LANDING',
   selectedCategoryIds: defaultSelectedIds(),
   settings: { roundSeconds: 50, timePenalty: false },
   round: null,
@@ -127,6 +128,8 @@ export const gameReducer = (state: GameState, action: GameAction): GameState => 
     }
     case 'SET_THEME':
       return { ...state, theme: action.payload.theme };
+    case 'GO_TO_SETUP':
+      return { ...state, phase: 'SETUP' };
     case 'RESET_GAME':
       return { ...initialState, theme: state.theme, lang: state.lang };
     default:

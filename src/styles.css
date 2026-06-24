@@ -143,6 +143,52 @@ body {
   text-align: center;
 }
 
+/* Landing / Splash Screen */
+.landing-screen {
+  align-items: center;
+  justify-content: space-between;
+  text-align: center;
+  padding: 2rem 1.5rem 1.5rem;
+  min-height: 100vh;
+}
+
+.landing-logo-wrap {
+  width: 120px;
+  height: 120px;
+  border-radius: 28px;
+  overflow: hidden;
+  box-shadow: 0 8px 32px rgba(0,0,0,0.3);
+  margin-bottom: 0.25rem;
+  flex-shrink: 0;
+  animation: logoPulse 2.8s ease-in-out infinite;
+}
+
+@keyframes logoPulse {
+  0%, 100% { transform: scale(1); box-shadow: 0 8px 32px rgba(0,0,0,0.3); }
+  50%       { transform: scale(1.06); box-shadow: 0 12px 40px rgba(0,0,0,0.45); }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .landing-logo-wrap { animation: none; }
+}
+
+.landing-logo {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+.landing-share-footer {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 1.25rem;
+  border-top: 1px solid var(--border);
+  margin-top: 0.5rem;
+}
+
 .fade-in {
   animation: fadeIn 0.4s ease-out forwards;
 }

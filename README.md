@@ -30,6 +30,12 @@ A fast-paced, modern **local multiplayer word-sorting game** — *Stadt-Land-Flu
 ### 🥇 High Scores
 - Top-10 scores persist across sessions in `localStorage`. A new entry is highlighted, a **"New record!"** badge appears on the winner screen, and the list is also viewable (and clearable) from the setup screen.
 
+### 📣 Splash Screen & Social Sharing
+- **Splash screen** on first launch: logo (with pulse animation), "Let's play!" button, and a share footer.
+- **Share buttons**: WhatsApp, Facebook, Telegram, Reddit, and a copy-link button — opens the correct platform share URL directly.
+- **Native share** (`navigator.share`) shown additionally on mobile browsers that support it.
+- **Social previews** (WhatsApp, iMessage, Telegram, …) use `og:image`, `og:title`, and `og:description` from `index.html`.
+
 ### 🎨 Themes & Visuals
 - **15 visual themes** — Default (the LetterRush petrol/orange palette), Plain White, Plain Dark, Matrix, Vaporwave, Westeros, Sakura, LCARS, Frutiger Aero, Synthwave, Heavy Metal, Post Punk, Rock Legends, Kraftwerk, and **Neon Party** — each with its own color palette and canvas background animation.
 - **Canvas background animations**: high-performance `<canvas>` loop with theme-specific effects (drifting orbs, Matrix rain, fire embers, cherry blossoms, bubbles, …). Respects `prefers-reduced-motion`.

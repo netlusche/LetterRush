@@ -9,11 +9,14 @@ import { ScoreLockScreen } from './components/ScoreLockScreen';
 import { RoundReveal } from './components/RoundReveal';
 import { WinnerScreen } from './components/WinnerScreen';
 import { BackgroundEffects } from './components/BackgroundEffects';
+import { LandingScreen } from './components/LandingScreen';
 import { translations } from './i18n/translations';
 
 const MainContent: React.FC = () => {
   const { state } = useGame();
   switch (state.phase) {
+    case 'LANDING':
+      return <LandingScreen />;
     case 'SETUP':
       return <GameSetup />;
     case 'CATEGORY_SELECTION':
@@ -38,7 +41,7 @@ const MainApp: React.FC = () => {
   const t = translations[state.lang as keyof typeof translations] || translations.en;
   const [showStartOverConfirm, setShowStartOverConfirm] = React.useState(false);
 
-  const inGame = state.phase !== 'SETUP' && state.phase !== 'CATEGORY_SELECTION';
+  const inGame = state.phase !== 'LANDING' && state.phase !== 'SETUP' && state.phase !== 'CATEGORY_SELECTION';
   useWakeLock(inGame);
 
   React.useEffect(() => {

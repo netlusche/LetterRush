@@ -22,7 +22,7 @@
       "anfangsbuchstabe": "A"
     },
     {
-      "wort": "Apache",
+      "wort": "Apache 207",
       "anfangsbuchstabe": "A"
     },
     {
@@ -42,7 +42,7 @@
       "anfangsbuchstabe": "B"
     },
     {
-      "wort": "Bonez",
+      "wort": "Bonez MC",
       "anfangsbuchstabe": "B"
     },
     {
@@ -122,7 +122,7 @@
       "anfangsbuchstabe": "F"
     },
     {
-      "wort": "Farin",
+      "wort": "Farin Urlaub",
       "anfangsbuchstabe": "F"
     },
     {
@@ -162,10 +162,6 @@
       "anfangsbuchstabe": "H"
     },
     {
-      "wort": "Herbert",
-      "anfangsbuchstabe": "H"
-    },
-    {
       "wort": "Halsey",
       "anfangsbuchstabe": "H"
     },
@@ -182,7 +178,7 @@
       "anfangsbuchstabe": "I"
     },
     {
-      "wort": "Inxs",
+      "wort": "INXS",
       "anfangsbuchstabe": "I"
     },
     {
@@ -258,7 +254,7 @@
       "anfangsbuchstabe": "M"
     },
     {
-      "wort": "Maroon",
+      "wort": "Maroon 5",
       "anfangsbuchstabe": "M"
     },
     {
@@ -406,6 +402,10 @@
       "anfangsbuchstabe": "T"
     },
     {
+      "wort": "Toten Hosen",
+      "anfangsbuchstabe": "T"
+    },
+    {
       "wort": "U2",
       "anfangsbuchstabe": "U"
     },
@@ -438,7 +438,7 @@
       "anfangsbuchstabe": "W"
     },
     {
-      "wort": "Wham",
+      "wort": "Wham!",
       "anfangsbuchstabe": "W"
     },
     {
@@ -538,12 +538,8 @@
       "anfangsbuchstabe": "D"
     },
     {
-      "wort": "Die Toten Hosen",
-      "anfangsbuchstabe": "D"
-    },
-    {
-      "wort": "Die Ärzte",
-      "anfangsbuchstabe": "D"
+      "wort": "Ärzte",
+      "anfangsbuchstabe": "A"
     },
     {
       "wort": "Dua Lipa",
@@ -578,7 +574,7 @@
       "anfangsbuchstabe": "F"
     },
     {
-      "wort": "Florence",
+      "wort": "Florence and the Machine",
       "anfangsbuchstabe": "F"
     },
     {
@@ -670,7 +666,7 @@
       "anfangsbuchstabe": "L"
     },
     {
-      "wort": "Lil Nas",
+      "wort": "Lil Nas X",
       "anfangsbuchstabe": "L"
     },
     {
@@ -710,7 +706,7 @@
       "anfangsbuchstabe": "O"
     },
     {
-      "wort": "Of Monsters",
+      "wort": "Of Monsters and Men",
       "anfangsbuchstabe": "O"
     },
     {
@@ -774,8 +770,8 @@
       "anfangsbuchstabe": "T"
     },
     {
-      "wort": "The Police",
-      "anfangsbuchstabe": "T"
+      "wort": "Police",
+      "anfangsbuchstabe": "P"
     },
     {
       "wort": "Tom Petty",
