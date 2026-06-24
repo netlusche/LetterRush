@@ -231,7 +231,7 @@ See **`manuals/data.md`** for the full data system. In short:
 | Component | Role |
 |---|---|
 | `LandingScreen` | Splash on first launch — logo (pulse animation), "Let's play!" CTA, social share footer via `ShareFooter` |
-| `ShareFooter` | Reusable share row — WhatsApp · Facebook · Telegram · Reddit · Copy link; used on LandingScreen and WinnerScreen |
+| `ShareFooter` | Reusable share row — WhatsApp · Facebook · Telegram · Reddit · native share (when `navigator.share` available) · Copy link; used on LandingScreen and WinnerScreen |
 | `GameSetup` | Step 1 — players (1–6), rounds (1–5), round timer (45/50/60 s) + penalty toggle, language, theme dropdown, high-score list |
 | `CategoryScreen` | Step 2 — core grid + bonus toggle, readiness hint, Back / Start (MelodyMatch-style grid) |
 | `PassDeviceScreen` | Covered hand-off, shows round + player + categories |
@@ -240,7 +240,7 @@ See **`manuals/data.md`** for the full data system. In short:
 | `Timer` | Gradient countdown bar, turns red under 10 s |
 | `ScoreLockScreen` | Score hidden until the reveal |
 | `RoundReveal` | Sorted per-round results + the round's target list |
-| `WinnerScreen` | Trophy, medals (top 3), leaderboard, high scores, round history, confetti, Play again |
+| `WinnerScreen` | Trophy, medals (top 3), leaderboard, high scores, round history, confetti, Play again, share footer, version footer |
 
 ---
 

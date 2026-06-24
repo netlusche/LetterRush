@@ -7,6 +7,7 @@ import { ShareFooter } from './ShareFooter';
 import confetti from 'canvas-confetti';
 import { getThemeConfettiColors } from '../utils/confettiColors';
 import { recordScores, HighscoreEntry } from '../services/highscores';
+import packageInfo from '../../package.json';
 
 const medalColor = (index: number): string | null => {
   if (index === 0) return 'var(--gold)';
@@ -204,6 +205,9 @@ export const WinnerScreen: React.FC = () => {
       </div>
 
       <ShareFooter />
+      <div style={{ marginTop: '0.75rem', color: 'var(--text-muted)', fontSize: '0.72rem', opacity: 0.55, textAlign: 'center' }}>
+        {t.nonCommercial} · v{packageInfo.version}
+      </div>
     </div>
   );
 };

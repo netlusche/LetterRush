@@ -32,7 +32,7 @@ A fast-paced, modern **local multiplayer word-sorting game** — *Stadt-Land-Flu
 
 ### 📣 Splash Screen & Social Sharing
 - **Splash screen** on first launch: logo (with pulse animation), "Let's play!" button, and a share footer.
-- **Share buttons**: WhatsApp, Facebook, Telegram, Reddit, and a copy-link button — on both the splash screen and the winner screen.
+- **Share buttons**: WhatsApp, Facebook, Telegram, Reddit, native share (when supported by the browser), and a copy-link button — on both the splash screen and the winner screen. Buttons are large 44 px rounded squares with branded gradient backgrounds.
 - **Social previews** (WhatsApp, iMessage, Telegram, …) use `og:image`, `og:title`, and `og:description` from `index.html`.
 
 ### 🎨 Themes & Visuals
