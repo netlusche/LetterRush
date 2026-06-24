@@ -1,0 +1,901 @@
+{
+  "kategorie": "Marken",
+  "eintraege": [
+    {
+      "wort": "Adidas",
+      "anfangsbuchstabe": "A"
+    },
+    {
+      "wort": "Apple",
+      "anfangsbuchstabe": "A"
+    },
+    {
+      "wort": "Audi",
+      "anfangsbuchstabe": "A"
+    },
+    {
+      "wort": "Amazon",
+      "anfangsbuchstabe": "A"
+    },
+    {
+      "wort": "Armani",
+      "anfangsbuchstabe": "A"
+    },
+    {
+      "wort": "Asus",
+      "anfangsbuchstabe": "A"
+    },
+    {
+      "wort": "Aldi",
+      "anfangsbuchstabe": "A"
+    },
+    {
+      "wort": "BMW",
+      "anfangsbuchstabe": "B"
+    },
+    {
+      "wort": "Boss",
+      "anfangsbuchstabe": "B"
+    },
+    {
+      "wort": "Bosch",
+      "anfangsbuchstabe": "B"
+    },
+    {
+      "wort": "Burberry",
+      "anfangsbuchstabe": "B"
+    },
+    {
+      "wort": "Bugatti",
+      "anfangsbuchstabe": "B"
+    },
+    {
+      "wort": "Beats",
+      "anfangsbuchstabe": "B"
+    },
+    {
+      "wort": "Chanel",
+      "anfangsbuchstabe": "C"
+    },
+    {
+      "wort": "Cisco",
+      "anfangsbuchstabe": "C"
+    },
+    {
+      "wort": "Coca-Cola",
+      "anfangsbuchstabe": "C"
+    },
+    {
+      "wort": "Citroën",
+      "anfangsbuchstabe": "C"
+    },
+    {
+      "wort": "Converse",
+      "anfangsbuchstabe": "C"
+    },
+    {
+      "wort": "Canon",
+      "anfangsbuchstabe": "C"
+    },
+    {
+      "wort": "Dell",
+      "anfangsbuchstabe": "D"
+    },
+    {
+      "wort": "Dior",
+      "anfangsbuchstabe": "D"
+    },
+    {
+      "wort": "Disney",
+      "anfangsbuchstabe": "D"
+    },
+    {
+      "wort": "Dyson",
+      "anfangsbuchstabe": "D"
+    },
+    {
+      "wort": "Dacia",
+      "anfangsbuchstabe": "D"
+    },
+    {
+      "wort": "Ebay",
+      "anfangsbuchstabe": "E"
+    },
+    {
+      "wort": "Esprit",
+      "anfangsbuchstabe": "E"
+    },
+    {
+      "wort": "Ericsson",
+      "anfangsbuchstabe": "E"
+    },
+    {
+      "wort": "Facebook",
+      "anfangsbuchstabe": "F"
+    },
+    {
+      "wort": "Ferrari",
+      "anfangsbuchstabe": "F"
+    },
+    {
+      "wort": "Fiat",
+      "anfangsbuchstabe": "F"
+    },
+    {
+      "wort": "Ford",
+      "anfangsbuchstabe": "F"
+    },
+    {
+      "wort": "Fendi",
+      "anfangsbuchstabe": "F"
+    },
+    {
+      "wort": "Fila",
+      "anfangsbuchstabe": "F"
+    },
+    {
+      "wort": "Gucci",
+      "anfangsbuchstabe": "G"
+    },
+    {
+      "wort": "Google",
+      "anfangsbuchstabe": "G"
+    },
+    {
+      "wort": "Garmin",
+      "anfangsbuchstabe": "G"
+    },
+    {
+      "wort": "General Motors",
+      "anfangsbuchstabe": "G"
+    },
+    {
+      "wort": "HP",
+      "anfangsbuchstabe": "H"
+    },
+    {
+      "wort": "Honda",
+      "anfangsbuchstabe": "H"
+    },
+    {
+      "wort": "Huawei",
+      "anfangsbuchstabe": "H"
+    },
+    {
+      "wort": "Hermès",
+      "anfangsbuchstabe": "H"
+    },
+    {
+      "wort": "Hyundai",
+      "anfangsbuchstabe": "H"
+    },
+    {
+      "wort": "H&M",
+      "anfangsbuchstabe": "H"
+    },
+    {
+      "wort": "IBM",
+      "anfangsbuchstabe": "I"
+    },
+    {
+      "wort": "Ikea",
+      "anfangsbuchstabe": "I"
+    },
+    {
+      "wort": "Intel",
+      "anfangsbuchstabe": "I"
+    },
+    {
+      "wort": "Instagram",
+      "anfangsbuchstabe": "I"
+    },
+    {
+      "wort": "Jaguar",
+      "anfangsbuchstabe": "J"
+    },
+    {
+      "wort": "Jeep",
+      "anfangsbuchstabe": "J"
+    },
+    {
+      "wort": "JBL",
+      "anfangsbuchstabe": "J"
+    },
+    {
+      "wort": "Kia",
+      "anfangsbuchstabe": "K"
+    },
+    {
+      "wort": "Kodak",
+      "anfangsbuchstabe": "K"
+    },
+    {
+      "wort": "Kärcher",
+      "anfangsbuchstabe": "K"
+    },
+    {
+      "wort": "Kawasaki",
+      "anfangsbuchstabe": "K"
+    },
+    {
+      "wort": "Lacoste",
+      "anfangsbuchstabe": "L"
+    },
+    {
+      "wort": "Lamborghini",
+      "anfangsbuchstabe": "L"
+    },
+    {
+      "wort": "Lego",
+      "anfangsbuchstabe": "L"
+    },
+    {
+      "wort": "Lenovo",
+      "anfangsbuchstabe": "L"
+    },
+    {
+      "wort": "Levis",
+      "anfangsbuchstabe": "L"
+    },
+    {
+      "wort": "LG",
+      "anfangsbuchstabe": "L"
+    },
+    {
+      "wort": "Maserati",
+      "anfangsbuchstabe": "M"
+    },
+    {
+      "wort": "Mazda",
+      "anfangsbuchstabe": "M"
+    },
+    {
+      "wort": "McDonalds",
+      "anfangsbuchstabe": "M"
+    },
+    {
+      "wort": "Mercedes",
+      "anfangsbuchstabe": "M"
+    },
+    {
+      "wort": "Microsoft",
+      "anfangsbuchstabe": "M"
+    },
+    {
+      "wort": "Miele",
+      "anfangsbuchstabe": "M"
+    },
+    {
+      "wort": "Mini",
+      "anfangsbuchstabe": "M"
+    },
+    {
+      "wort": "Netflix",
+      "anfangsbuchstabe": "N"
+    },
+    {
+      "wort": "Nike",
+      "anfangsbuchstabe": "N"
+    },
+    {
+      "wort": "Nikon",
+      "anfangsbuchstabe": "N"
+    },
+    {
+      "wort": "Nintendo",
+      "anfangsbuchstabe": "N"
+    },
+    {
+      "wort": "Nivea",
+      "anfangsbuchstabe": "N"
+    },
+    {
+      "wort": "Nokia",
+      "anfangsbuchstabe": "N"
+    },
+    {
+      "wort": "Opel",
+      "anfangsbuchstabe": "O"
+    },
+    {
+      "wort": "Oracle",
+      "anfangsbuchstabe": "O"
+    },
+    {
+      "wort": "Oreo",
+      "anfangsbuchstabe": "O"
+    },
+    {
+      "wort": "Panasonic",
+      "anfangsbuchstabe": "P"
+    },
+    {
+      "wort": "Pepsi",
+      "anfangsbuchstabe": "P"
+    },
+    {
+      "wort": "Peugeot",
+      "anfangsbuchstabe": "P"
+    },
+    {
+      "wort": "Philips",
+      "anfangsbuchstabe": "P"
+    },
+    {
+      "wort": "Porsche",
+      "anfangsbuchstabe": "P"
+    },
+    {
+      "wort": "Prada",
+      "anfangsbuchstabe": "P"
+    },
+    {
+      "wort": "Puma",
+      "anfangsbuchstabe": "P"
+    },
+    {
+      "wort": "Quiksilver",
+      "anfangsbuchstabe": "Q"
+    },
+    {
+      "wort": "Renault",
+      "anfangsbuchstabe": "R"
+    },
+    {
+      "wort": "Ralph Lauren",
+      "anfangsbuchstabe": "R"
+    },
+    {
+      "wort": "Rolex",
+      "anfangsbuchstabe": "R"
+    },
+    {
+      "wort": "Rolls-Royce",
+      "anfangsbuchstabe": "R"
+    },
+    {
+      "wort": "Rossmann",
+      "anfangsbuchstabe": "R"
+    },
+    {
+      "wort": "Samsung",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "Seat",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "Shell",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "Siemens",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "Sony",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "Spotify",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "Subaru",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "Tesla",
+      "anfangsbuchstabe": "T"
+    },
+    {
+      "wort": "Toyota",
+      "anfangsbuchstabe": "T"
+    },
+    {
+      "wort": "Tommy",
+      "anfangsbuchstabe": "T"
+    },
+    {
+      "wort": "Twitter",
+      "anfangsbuchstabe": "T"
+    },
+    {
+      "wort": "Tupperware",
+      "anfangsbuchstabe": "T"
+    },
+    {
+      "wort": "Uber",
+      "anfangsbuchstabe": "U"
+    },
+    {
+      "wort": "Under Armour",
+      "anfangsbuchstabe": "U"
+    },
+    {
+      "wort": "Ubisoft",
+      "anfangsbuchstabe": "U"
+    },
+    {
+      "wort": "Versace",
+      "anfangsbuchstabe": "V"
+    },
+    {
+      "wort": "Volvo",
+      "anfangsbuchstabe": "V"
+    },
+    {
+      "wort": "Vodafone",
+      "anfangsbuchstabe": "V"
+    },
+    {
+      "wort": "Volkswagen",
+      "anfangsbuchstabe": "V"
+    },
+    {
+      "wort": "Vans",
+      "anfangsbuchstabe": "V"
+    },
+    {
+      "wort": "Whirlpool",
+      "anfangsbuchstabe": "W"
+    },
+    {
+      "wort": "WhatsApp",
+      "anfangsbuchstabe": "W"
+    },
+    {
+      "wort": "Wrangler",
+      "anfangsbuchstabe": "W"
+    },
+    {
+      "wort": "Yamaha",
+      "anfangsbuchstabe": "Y"
+    },
+    {
+      "wort": "Yahoo",
+      "anfangsbuchstabe": "Y"
+    },
+    {
+      "wort": "YouTube",
+      "anfangsbuchstabe": "Y"
+    },
+    {
+      "wort": "Zalando",
+      "anfangsbuchstabe": "Z"
+    },
+    {
+      "wort": "Zara",
+      "anfangsbuchstabe": "Z"
+    },
+    {
+      "wort": "Airbus",
+      "anfangsbuchstabe": "A"
+    },
+    {
+      "wort": "Aral",
+      "anfangsbuchstabe": "A"
+    },
+    {
+      "wort": "Allianz",
+      "anfangsbuchstabe": "A"
+    },
+    {
+      "wort": "Asics",
+      "anfangsbuchstabe": "A"
+    },
+    {
+      "wort": "Acer",
+      "anfangsbuchstabe": "A"
+    },
+    {
+      "wort": "AEG",
+      "anfangsbuchstabe": "A"
+    },
+    {
+      "wort": "Avon",
+      "anfangsbuchstabe": "A"
+    },
+    {
+      "wort": "Barilla",
+      "anfangsbuchstabe": "B"
+    },
+    {
+      "wort": "Bayer",
+      "anfangsbuchstabe": "B"
+    },
+    {
+      "wort": "Braun",
+      "anfangsbuchstabe": "B"
+    },
+    {
+      "wort": "Bridgestone",
+      "anfangsbuchstabe": "B"
+    },
+    {
+      "wort": "Burger King",
+      "anfangsbuchstabe": "B"
+    },
+    {
+      "wort": "Bacardi",
+      "anfangsbuchstabe": "B"
+    },
+    {
+      "wort": "Cartier",
+      "anfangsbuchstabe": "C"
+    },
+    {
+      "wort": "Caterpillar",
+      "anfangsbuchstabe": "C"
+    },
+    {
+      "wort": "Colgate",
+      "anfangsbuchstabe": "C"
+    },
+    {
+      "wort": "Continental",
+      "anfangsbuchstabe": "C"
+    },
+    {
+      "wort": "Danone",
+      "anfangsbuchstabe": "D"
+    },
+    {
+      "wort": "Decathlon",
+      "anfangsbuchstabe": "D"
+    },
+    {
+      "wort": "Dr. Oetker",
+      "anfangsbuchstabe": "D"
+    },
+    {
+      "wort": "Durex",
+      "anfangsbuchstabe": "D"
+    },
+    {
+      "wort": "Deichmann",
+      "anfangsbuchstabe": "D"
+    },
+    {
+      "wort": "Electrolux",
+      "anfangsbuchstabe": "E"
+    },
+    {
+      "wort": "Emirates",
+      "anfangsbuchstabe": "E"
+    },
+    {
+      "wort": "Energizer",
+      "anfangsbuchstabe": "E"
+    },
+    {
+      "wort": "FedEx",
+      "anfangsbuchstabe": "F"
+    },
+    {
+      "wort": "Fjällräven",
+      "anfangsbuchstabe": "F"
+    },
+    {
+      "wort": "Fossil",
+      "anfangsbuchstabe": "F"
+    },
+    {
+      "wort": "Foot Locker",
+      "anfangsbuchstabe": "F"
+    },
+    {
+      "wort": "Gillette",
+      "anfangsbuchstabe": "G"
+    },
+    {
+      "wort": "Goodyear",
+      "anfangsbuchstabe": "G"
+    },
+    {
+      "wort": "GoPro",
+      "anfangsbuchstabe": "G"
+    },
+    {
+      "wort": "Guinness",
+      "anfangsbuchstabe": "G"
+    },
+    {
+      "wort": "Haribo",
+      "anfangsbuchstabe": "H"
+    },
+    {
+      "wort": "Heineken",
+      "anfangsbuchstabe": "H"
+    },
+    {
+      "wort": "Henkel",
+      "anfangsbuchstabe": "H"
+    },
+    {
+      "wort": "Hilton",
+      "anfangsbuchstabe": "H"
+    },
+    {
+      "wort": "Hitachi",
+      "anfangsbuchstabe": "H"
+    },
+    {
+      "wort": "Hasbro",
+      "anfangsbuchstabe": "H"
+    },
+    {
+      "wort": "Iveco",
+      "anfangsbuchstabe": "I"
+    },
+    {
+      "wort": "Innocent",
+      "anfangsbuchstabe": "I"
+    },
+    {
+      "wort": "John Deere",
+      "anfangsbuchstabe": "J"
+    },
+    {
+      "wort": "Johnson",
+      "anfangsbuchstabe": "J"
+    },
+    {
+      "wort": "Jägermeister",
+      "anfangsbuchstabe": "J"
+    },
+    {
+      "wort": "Kellogg's",
+      "anfangsbuchstabe": "K"
+    },
+    {
+      "wort": "KFC",
+      "anfangsbuchstabe": "K"
+    },
+    {
+      "wort": "Knorr",
+      "anfangsbuchstabe": "K"
+    },
+    {
+      "wort": "Komatsu",
+      "anfangsbuchstabe": "K"
+    },
+    {
+      "wort": "Kraft",
+      "anfangsbuchstabe": "K"
+    },
+    {
+      "wort": "Lidl",
+      "anfangsbuchstabe": "L"
+    },
+    {
+      "wort": "Lindt",
+      "anfangsbuchstabe": "L"
+    },
+    {
+      "wort": "L'Oréal",
+      "anfangsbuchstabe": "L"
+    },
+    {
+      "wort": "Lufthansa",
+      "anfangsbuchstabe": "L"
+    },
+    {
+      "wort": "Louis Vuitton",
+      "anfangsbuchstabe": "L"
+    },
+    {
+      "wort": "Mastercard",
+      "anfangsbuchstabe": "M"
+    },
+    {
+      "wort": "Mattel",
+      "anfangsbuchstabe": "M"
+    },
+    {
+      "wort": "Michelin",
+      "anfangsbuchstabe": "M"
+    },
+    {
+      "wort": "Mitsubishi",
+      "anfangsbuchstabe": "M"
+    },
+    {
+      "wort": "Monster",
+      "anfangsbuchstabe": "M"
+    },
+    {
+      "wort": "Moët",
+      "anfangsbuchstabe": "M"
+    },
+    {
+      "wort": "Nestlé",
+      "anfangsbuchstabe": "N"
+    },
+    {
+      "wort": "New Balance",
+      "anfangsbuchstabe": "N"
+    },
+    {
+      "wort": "North Face",
+      "anfangsbuchstabe": "N"
+    },
+    {
+      "wort": "Novartis",
+      "anfangsbuchstabe": "N"
+    },
+    {
+      "wort": "Omega",
+      "anfangsbuchstabe": "O"
+    },
+    {
+      "wort": "Otto",
+      "anfangsbuchstabe": "O"
+    },
+    {
+      "wort": "PayPal",
+      "anfangsbuchstabe": "P"
+    },
+    {
+      "wort": "Pampers",
+      "anfangsbuchstabe": "P"
+    },
+    {
+      "wort": "Patagonia",
+      "anfangsbuchstabe": "P"
+    },
+    {
+      "wort": "Pirelli",
+      "anfangsbuchstabe": "P"
+    },
+    {
+      "wort": "Playmobil",
+      "anfangsbuchstabe": "P"
+    },
+    {
+      "wort": "Pringles",
+      "anfangsbuchstabe": "P"
+    },
+    {
+      "wort": "Qatar Airways",
+      "anfangsbuchstabe": "Q"
+    },
+    {
+      "wort": "Red Bull",
+      "anfangsbuchstabe": "R"
+    },
+    {
+      "wort": "Reebok",
+      "anfangsbuchstabe": "R"
+    },
+    {
+      "wort": "Ritter Sport",
+      "anfangsbuchstabe": "R"
+    },
+    {
+      "wort": "Rituals",
+      "anfangsbuchstabe": "R"
+    },
+    {
+      "wort": "Ryanair",
+      "anfangsbuchstabe": "R"
+    },
+    {
+      "wort": "Salomon",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "Samsonite",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "SAP",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "Sennheiser",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "Skoda",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "Starbucks",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "Suzuki",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "Tag Heuer",
+      "anfangsbuchstabe": "T"
+    },
+    {
+      "wort": "Target",
+      "anfangsbuchstabe": "T"
+    },
+    {
+      "wort": "Tchibo",
+      "anfangsbuchstabe": "T"
+    },
+    {
+      "wort": "Tesco",
+      "anfangsbuchstabe": "T"
+    },
+    {
+      "wort": "Timberland",
+      "anfangsbuchstabe": "T"
+    },
+    {
+      "wort": "TikTok",
+      "anfangsbuchstabe": "T"
+    },
+    {
+      "wort": "Toshiba",
+      "anfangsbuchstabe": "T"
+    },
+    {
+      "wort": "Uniqlo",
+      "anfangsbuchstabe": "U"
+    },
+    {
+      "wort": "UPS",
+      "anfangsbuchstabe": "U"
+    },
+    {
+      "wort": "Visa",
+      "anfangsbuchstabe": "V"
+    },
+    {
+      "wort": "Vaude",
+      "anfangsbuchstabe": "V"
+    },
+    {
+      "wort": "Vichy",
+      "anfangsbuchstabe": "V"
+    },
+    {
+      "wort": "Vitra",
+      "anfangsbuchstabe": "V"
+    },
+    {
+      "wort": "Warner",
+      "anfangsbuchstabe": "W"
+    },
+    {
+      "wort": "WMF",
+      "anfangsbuchstabe": "W"
+    },
+    {
+      "wort": "Wella",
+      "anfangsbuchstabe": "W"
+    },
+    {
+      "wort": "Western Digital",
+      "anfangsbuchstabe": "W"
+    },
+    {
+      "wort": "Xerox",
+      "anfangsbuchstabe": "X"
+    },
+    {
+      "wort": "Xiaomi",
+      "anfangsbuchstabe": "X"
+    },
+    {
+      "wort": "Yves Saint Laurent",
+      "anfangsbuchstabe": "Y"
+    },
+    {
+      "wort": "Zeiss",
+      "anfangsbuchstabe": "Z"
+    },
+    {
+      "wort": "Zoom",
+      "anfangsbuchstabe": "Z"
+    }
+  ]
+}

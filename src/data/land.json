@@ -1,0 +1,661 @@
+{
+  "kategorie": "Land",
+  "eintraege": [
+    {
+      "wort": "Ägypten",
+      "anfangsbuchstabe": "A"
+    },
+    {
+      "wort": "Albanien",
+      "anfangsbuchstabe": "A"
+    },
+    {
+      "wort": "Algerien",
+      "anfangsbuchstabe": "A"
+    },
+    {
+      "wort": "Andorra",
+      "anfangsbuchstabe": "A"
+    },
+    {
+      "wort": "Angola",
+      "anfangsbuchstabe": "A"
+    },
+    {
+      "wort": "Argentinien",
+      "anfangsbuchstabe": "A"
+    },
+    {
+      "wort": "Armenien",
+      "anfangsbuchstabe": "A"
+    },
+    {
+      "wort": "Australien",
+      "anfangsbuchstabe": "A"
+    },
+    {
+      "wort": "Aserbaidschan",
+      "anfangsbuchstabe": "A"
+    },
+    {
+      "wort": "Äthiopien",
+      "anfangsbuchstabe": "A"
+    },
+    {
+      "wort": "Bangladesch",
+      "anfangsbuchstabe": "B"
+    },
+    {
+      "wort": "Belgien",
+      "anfangsbuchstabe": "B"
+    },
+    {
+      "wort": "Bolivien",
+      "anfangsbuchstabe": "B"
+    },
+    {
+      "wort": "Brasilien",
+      "anfangsbuchstabe": "B"
+    },
+    {
+      "wort": "Bulgarien",
+      "anfangsbuchstabe": "B"
+    },
+    {
+      "wort": "Belize",
+      "anfangsbuchstabe": "B"
+    },
+    {
+      "wort": "Bhutan",
+      "anfangsbuchstabe": "B"
+    },
+    {
+      "wort": "Botswana",
+      "anfangsbuchstabe": "B"
+    },
+    {
+      "wort": "Bahrain",
+      "anfangsbuchstabe": "B"
+    },
+    {
+      "wort": "Chile",
+      "anfangsbuchstabe": "C"
+    },
+    {
+      "wort": "China",
+      "anfangsbuchstabe": "C"
+    },
+    {
+      "wort": "Costa Rica",
+      "anfangsbuchstabe": "C"
+    },
+    {
+      "wort": "Kolumbien",
+      "anfangsbuchstabe": "K"
+    },
+    {
+      "wort": "Dänemark",
+      "anfangsbuchstabe": "D"
+    },
+    {
+      "wort": "Deutschland",
+      "anfangsbuchstabe": "D"
+    },
+    {
+      "wort": "Dominica",
+      "anfangsbuchstabe": "D"
+    },
+    {
+      "wort": "Ecuador",
+      "anfangsbuchstabe": "E"
+    },
+    {
+      "wort": "Estland",
+      "anfangsbuchstabe": "E"
+    },
+    {
+      "wort": "El Salvador",
+      "anfangsbuchstabe": "E"
+    },
+    {
+      "wort": "Eritrea",
+      "anfangsbuchstabe": "E"
+    },
+    {
+      "wort": "Finnland",
+      "anfangsbuchstabe": "F"
+    },
+    {
+      "wort": "Frankreich",
+      "anfangsbuchstabe": "F"
+    },
+    {
+      "wort": "Fidschi",
+      "anfangsbuchstabe": "F"
+    },
+    {
+      "wort": "Gabun",
+      "anfangsbuchstabe": "G"
+    },
+    {
+      "wort": "Georgien",
+      "anfangsbuchstabe": "G"
+    },
+    {
+      "wort": "Ghana",
+      "anfangsbuchstabe": "G"
+    },
+    {
+      "wort": "Griechenland",
+      "anfangsbuchstabe": "G"
+    },
+    {
+      "wort": "Guatemala",
+      "anfangsbuchstabe": "G"
+    },
+    {
+      "wort": "Guinea",
+      "anfangsbuchstabe": "G"
+    },
+    {
+      "wort": "Haiti",
+      "anfangsbuchstabe": "H"
+    },
+    {
+      "wort": "Honduras",
+      "anfangsbuchstabe": "H"
+    },
+    {
+      "wort": "Indien",
+      "anfangsbuchstabe": "I"
+    },
+    {
+      "wort": "Indonesien",
+      "anfangsbuchstabe": "I"
+    },
+    {
+      "wort": "Irak",
+      "anfangsbuchstabe": "I"
+    },
+    {
+      "wort": "Iran",
+      "anfangsbuchstabe": "I"
+    },
+    {
+      "wort": "Irland",
+      "anfangsbuchstabe": "I"
+    },
+    {
+      "wort": "Island",
+      "anfangsbuchstabe": "I"
+    },
+    {
+      "wort": "Israel",
+      "anfangsbuchstabe": "I"
+    },
+    {
+      "wort": "Italien",
+      "anfangsbuchstabe": "I"
+    },
+    {
+      "wort": "Jamaika",
+      "anfangsbuchstabe": "J"
+    },
+    {
+      "wort": "Japan",
+      "anfangsbuchstabe": "J"
+    },
+    {
+      "wort": "Jemen",
+      "anfangsbuchstabe": "J"
+    },
+    {
+      "wort": "Jordanien",
+      "anfangsbuchstabe": "J"
+    },
+    {
+      "wort": "Kambodscha",
+      "anfangsbuchstabe": "K"
+    },
+    {
+      "wort": "Kamerun",
+      "anfangsbuchstabe": "K"
+    },
+    {
+      "wort": "Kanada",
+      "anfangsbuchstabe": "K"
+    },
+    {
+      "wort": "Kasachstan",
+      "anfangsbuchstabe": "K"
+    },
+    {
+      "wort": "Katar",
+      "anfangsbuchstabe": "K"
+    },
+    {
+      "wort": "Kenia",
+      "anfangsbuchstabe": "K"
+    },
+    {
+      "wort": "Kroatien",
+      "anfangsbuchstabe": "K"
+    },
+    {
+      "wort": "Kuba",
+      "anfangsbuchstabe": "K"
+    },
+    {
+      "wort": "Kuwait",
+      "anfangsbuchstabe": "K"
+    },
+    {
+      "wort": "Kirgisistan",
+      "anfangsbuchstabe": "K"
+    },
+    {
+      "wort": "Laos",
+      "anfangsbuchstabe": "L"
+    },
+    {
+      "wort": "Lettland",
+      "anfangsbuchstabe": "L"
+    },
+    {
+      "wort": "Libanon",
+      "anfangsbuchstabe": "L"
+    },
+    {
+      "wort": "Liberia",
+      "anfangsbuchstabe": "L"
+    },
+    {
+      "wort": "Libyen",
+      "anfangsbuchstabe": "L"
+    },
+    {
+      "wort": "Litauen",
+      "anfangsbuchstabe": "L"
+    },
+    {
+      "wort": "Luxemburg",
+      "anfangsbuchstabe": "L"
+    },
+    {
+      "wort": "Madagaskar",
+      "anfangsbuchstabe": "M"
+    },
+    {
+      "wort": "Malaysia",
+      "anfangsbuchstabe": "M"
+    },
+    {
+      "wort": "Mali",
+      "anfangsbuchstabe": "M"
+    },
+    {
+      "wort": "Malta",
+      "anfangsbuchstabe": "M"
+    },
+    {
+      "wort": "Marokko",
+      "anfangsbuchstabe": "M"
+    },
+    {
+      "wort": "Mexiko",
+      "anfangsbuchstabe": "M"
+    },
+    {
+      "wort": "Moldau",
+      "anfangsbuchstabe": "M"
+    },
+    {
+      "wort": "Monaco",
+      "anfangsbuchstabe": "M"
+    },
+    {
+      "wort": "Mongolei",
+      "anfangsbuchstabe": "M"
+    },
+    {
+      "wort": "Mosambik",
+      "anfangsbuchstabe": "M"
+    },
+    {
+      "wort": "Namibia",
+      "anfangsbuchstabe": "N"
+    },
+    {
+      "wort": "Nepal",
+      "anfangsbuchstabe": "N"
+    },
+    {
+      "wort": "Neuseeland",
+      "anfangsbuchstabe": "N"
+    },
+    {
+      "wort": "Niederlande",
+      "anfangsbuchstabe": "N"
+    },
+    {
+      "wort": "Nigeria",
+      "anfangsbuchstabe": "N"
+    },
+    {
+      "wort": "Nicaragua",
+      "anfangsbuchstabe": "N"
+    },
+    {
+      "wort": "Norwegen",
+      "anfangsbuchstabe": "N"
+    },
+    {
+      "wort": "Österreich",
+      "anfangsbuchstabe": "O"
+    },
+    {
+      "wort": "Oman",
+      "anfangsbuchstabe": "O"
+    },
+    {
+      "wort": "Pakistan",
+      "anfangsbuchstabe": "P"
+    },
+    {
+      "wort": "Panama",
+      "anfangsbuchstabe": "P"
+    },
+    {
+      "wort": "Paraguay",
+      "anfangsbuchstabe": "P"
+    },
+    {
+      "wort": "Peru",
+      "anfangsbuchstabe": "P"
+    },
+    {
+      "wort": "Philippinen",
+      "anfangsbuchstabe": "P"
+    },
+    {
+      "wort": "Polen",
+      "anfangsbuchstabe": "P"
+    },
+    {
+      "wort": "Portugal",
+      "anfangsbuchstabe": "P"
+    },
+    {
+      "wort": "Ruanda",
+      "anfangsbuchstabe": "R"
+    },
+    {
+      "wort": "Rumänien",
+      "anfangsbuchstabe": "R"
+    },
+    {
+      "wort": "Russland",
+      "anfangsbuchstabe": "R"
+    },
+    {
+      "wort": "Sambia",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "Schweden",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "Schweiz",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "Senegal",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "Serbien",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "Singapur",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "Slowakei",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "Slowenien",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "Somalia",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "Spanien",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "Südafrika",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "Syrien",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "Tansania",
+      "anfangsbuchstabe": "T"
+    },
+    {
+      "wort": "Thailand",
+      "anfangsbuchstabe": "T"
+    },
+    {
+      "wort": "Togo",
+      "anfangsbuchstabe": "T"
+    },
+    {
+      "wort": "Tschad",
+      "anfangsbuchstabe": "T"
+    },
+    {
+      "wort": "Tschechien",
+      "anfangsbuchstabe": "T"
+    },
+    {
+      "wort": "Tunesien",
+      "anfangsbuchstabe": "T"
+    },
+    {
+      "wort": "Türkei",
+      "anfangsbuchstabe": "T"
+    },
+    {
+      "wort": "Turkmenistan",
+      "anfangsbuchstabe": "T"
+    },
+    {
+      "wort": "Uganda",
+      "anfangsbuchstabe": "U"
+    },
+    {
+      "wort": "Ukraine",
+      "anfangsbuchstabe": "U"
+    },
+    {
+      "wort": "Ungarn",
+      "anfangsbuchstabe": "U"
+    },
+    {
+      "wort": "Uruguay",
+      "anfangsbuchstabe": "U"
+    },
+    {
+      "wort": "Usbekistan",
+      "anfangsbuchstabe": "U"
+    },
+    {
+      "wort": "Venezuela",
+      "anfangsbuchstabe": "V"
+    },
+    {
+      "wort": "Vietnam",
+      "anfangsbuchstabe": "V"
+    },
+    {
+      "wort": "Zypern",
+      "anfangsbuchstabe": "Z"
+    },
+    {
+      "wort": "Zimbabwe",
+      "anfangsbuchstabe": "Z"
+    },
+    {
+      "wort": "Afghanistan",
+      "anfangsbuchstabe": "A"
+    },
+    {
+      "wort": "Bahamas",
+      "anfangsbuchstabe": "B"
+    },
+    {
+      "wort": "Barbados",
+      "anfangsbuchstabe": "B"
+    },
+    {
+      "wort": "Brunei",
+      "anfangsbuchstabe": "B"
+    },
+    {
+      "wort": "Burundi",
+      "anfangsbuchstabe": "B"
+    },
+    {
+      "wort": "Burkina Faso",
+      "anfangsbuchstabe": "B"
+    },
+    {
+      "wort": "Dschibuti",
+      "anfangsbuchstabe": "D"
+    },
+    {
+      "wort": "Eswatini",
+      "anfangsbuchstabe": "E"
+    },
+    {
+      "wort": "Gambia",
+      "anfangsbuchstabe": "G"
+    },
+    {
+      "wort": "Grenada",
+      "anfangsbuchstabe": "G"
+    },
+    {
+      "wort": "Guyana",
+      "anfangsbuchstabe": "G"
+    },
+    {
+      "wort": "Komoren",
+      "anfangsbuchstabe": "K"
+    },
+    {
+      "wort": "Kongo",
+      "anfangsbuchstabe": "K"
+    },
+    {
+      "wort": "Lesotho",
+      "anfangsbuchstabe": "L"
+    },
+    {
+      "wort": "Liechtenstein",
+      "anfangsbuchstabe": "L"
+    },
+    {
+      "wort": "Malawi",
+      "anfangsbuchstabe": "M"
+    },
+    {
+      "wort": "Malediven",
+      "anfangsbuchstabe": "M"
+    },
+    {
+      "wort": "Mauritius",
+      "anfangsbuchstabe": "M"
+    },
+    {
+      "wort": "Montenegro",
+      "anfangsbuchstabe": "M"
+    },
+    {
+      "wort": "Myanmar",
+      "anfangsbuchstabe": "M"
+    },
+    {
+      "wort": "Nordkorea",
+      "anfangsbuchstabe": "N"
+    },
+    {
+      "wort": "Nordmazedonien",
+      "anfangsbuchstabe": "N"
+    },
+    {
+      "wort": "Palau",
+      "anfangsbuchstabe": "P"
+    },
+    {
+      "wort": "Samoa",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "San Marino",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "Seychellen",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "Sri Lanka",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "Südkorea",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "Südsudan",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "Suriname",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "Tadschikistan",
+      "anfangsbuchstabe": "T"
+    },
+    {
+      "wort": "Tonga",
+      "anfangsbuchstabe": "T"
+    },
+    {
+      "wort": "Trinidad",
+      "anfangsbuchstabe": "T"
+    },
+    {
+      "wort": "Tuvalu",
+      "anfangsbuchstabe": "T"
+    },
+    {
+      "wort": "Vatikan",
+      "anfangsbuchstabe": "V"
+    },
+    {
+      "wort": "Weißrussland",
+      "anfangsbuchstabe": "W"
+    }
+  ]
+}

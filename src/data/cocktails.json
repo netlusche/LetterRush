@@ -1,0 +1,265 @@
+{
+  "kategorie": "Cocktails & Getränke",
+  "eintraege": [
+    {
+      "wort": "Aperol",
+      "anfangsbuchstabe": "A"
+    },
+    {
+      "wort": "Americano",
+      "anfangsbuchstabe": "A"
+    },
+    {
+      "wort": "Apfelschorle",
+      "anfangsbuchstabe": "A"
+    },
+    {
+      "wort": "Bellini",
+      "anfangsbuchstabe": "B"
+    },
+    {
+      "wort": "Bier",
+      "anfangsbuchstabe": "B"
+    },
+    {
+      "wort": "Bloody Mary",
+      "anfangsbuchstabe": "B"
+    },
+    {
+      "wort": "Brandy",
+      "anfangsbuchstabe": "B"
+    },
+    {
+      "wort": "Batida",
+      "anfangsbuchstabe": "B"
+    },
+    {
+      "wort": "Caipirinha",
+      "anfangsbuchstabe": "C"
+    },
+    {
+      "wort": "Cola",
+      "anfangsbuchstabe": "C"
+    },
+    {
+      "wort": "Cosmopolitan",
+      "anfangsbuchstabe": "C"
+    },
+    {
+      "wort": "Cuba Libre",
+      "anfangsbuchstabe": "C"
+    },
+    {
+      "wort": "Campari",
+      "anfangsbuchstabe": "C"
+    },
+    {
+      "wort": "Cidre",
+      "anfangsbuchstabe": "C"
+    },
+    {
+      "wort": "Daiquiri",
+      "anfangsbuchstabe": "D"
+    },
+    {
+      "wort": "Eierlikör",
+      "anfangsbuchstabe": "E"
+    },
+    {
+      "wort": "Espresso",
+      "anfangsbuchstabe": "E"
+    },
+    {
+      "wort": "Eistee",
+      "anfangsbuchstabe": "E"
+    },
+    {
+      "wort": "Fanta",
+      "anfangsbuchstabe": "F"
+    },
+    {
+      "wort": "Feigling",
+      "anfangsbuchstabe": "F"
+    },
+    {
+      "wort": "Gin",
+      "anfangsbuchstabe": "G"
+    },
+    {
+      "wort": "Glühwein",
+      "anfangsbuchstabe": "G"
+    },
+    {
+      "wort": "Grog",
+      "anfangsbuchstabe": "G"
+    },
+    {
+      "wort": "Gimlet",
+      "anfangsbuchstabe": "G"
+    },
+    {
+      "wort": "Hugo",
+      "anfangsbuchstabe": "H"
+    },
+    {
+      "wort": "Highball",
+      "anfangsbuchstabe": "H"
+    },
+    {
+      "wort": "Irish Coffee",
+      "anfangsbuchstabe": "I"
+    },
+    {
+      "wort": "Julep",
+      "anfangsbuchstabe": "J"
+    },
+    {
+      "wort": "Kaffee",
+      "anfangsbuchstabe": "K"
+    },
+    {
+      "wort": "Kakao",
+      "anfangsbuchstabe": "K"
+    },
+    {
+      "wort": "Kir Royal",
+      "anfangsbuchstabe": "K"
+    },
+    {
+      "wort": "Korn",
+      "anfangsbuchstabe": "K"
+    },
+    {
+      "wort": "Limonade",
+      "anfangsbuchstabe": "L"
+    },
+    {
+      "wort": "Likör",
+      "anfangsbuchstabe": "L"
+    },
+    {
+      "wort": "Long Island",
+      "anfangsbuchstabe": "L"
+    },
+    {
+      "wort": "Lillet",
+      "anfangsbuchstabe": "L"
+    },
+    {
+      "wort": "Margarita",
+      "anfangsbuchstabe": "M"
+    },
+    {
+      "wort": "Martini",
+      "anfangsbuchstabe": "M"
+    },
+    {
+      "wort": "Mojito",
+      "anfangsbuchstabe": "M"
+    },
+    {
+      "wort": "Moscow Mule",
+      "anfangsbuchstabe": "M"
+    },
+    {
+      "wort": "Mai Tai",
+      "anfangsbuchstabe": "M"
+    },
+    {
+      "wort": "Mimosa",
+      "anfangsbuchstabe": "M"
+    },
+    {
+      "wort": "Milch",
+      "anfangsbuchstabe": "M"
+    },
+    {
+      "wort": "Negroni",
+      "anfangsbuchstabe": "N"
+    },
+    {
+      "wort": "Ouzo",
+      "anfangsbuchstabe": "O"
+    },
+    {
+      "wort": "Orangensaft",
+      "anfangsbuchstabe": "O"
+    },
+    {
+      "wort": "Pina Colada",
+      "anfangsbuchstabe": "P"
+    },
+    {
+      "wort": "Punsch",
+      "anfangsbuchstabe": "P"
+    },
+    {
+      "wort": "Prosecco",
+      "anfangsbuchstabe": "P"
+    },
+    {
+      "wort": "Radler",
+      "anfangsbuchstabe": "R"
+    },
+    {
+      "wort": "Rum",
+      "anfangsbuchstabe": "R"
+    },
+    {
+      "wort": "Sangria",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "Sekt",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "Spritz",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "Saft",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "Sherry",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "Schnaps",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "Tequila",
+      "anfangsbuchstabe": "T"
+    },
+    {
+      "wort": "Tee",
+      "anfangsbuchstabe": "T"
+    },
+    {
+      "wort": "Tonic",
+      "anfangsbuchstabe": "T"
+    },
+    {
+      "wort": "Wodka",
+      "anfangsbuchstabe": "W"
+    },
+    {
+      "wort": "Wein",
+      "anfangsbuchstabe": "W"
+    },
+    {
+      "wort": "Wermut",
+      "anfangsbuchstabe": "W"
+    },
+    {
+      "wort": "Whisky",
+      "anfangsbuchstabe": "W"
+    },
+    {
+      "wort": "Wasser",
+      "anfangsbuchstabe": "W"
+    }
+  ]
+}

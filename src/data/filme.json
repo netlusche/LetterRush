@@ -1,0 +1,769 @@
+{
+  "kategorie": "Filme & Serien",
+  "eintraege": [
+    {
+      "wort": "Avatar",
+      "anfangsbuchstabe": "A"
+    },
+    {
+      "wort": "Aladdin",
+      "anfangsbuchstabe": "A"
+    },
+    {
+      "wort": "Alien",
+      "anfangsbuchstabe": "A"
+    },
+    {
+      "wort": "Amelie",
+      "anfangsbuchstabe": "A"
+    },
+    {
+      "wort": "Argo",
+      "anfangsbuchstabe": "A"
+    },
+    {
+      "wort": "Arrival",
+      "anfangsbuchstabe": "A"
+    },
+    {
+      "wort": "Avengers",
+      "anfangsbuchstabe": "A"
+    },
+    {
+      "wort": "Babylon",
+      "anfangsbuchstabe": "B"
+    },
+    {
+      "wort": "Bambi",
+      "anfangsbuchstabe": "B"
+    },
+    {
+      "wort": "Batman",
+      "anfangsbuchstabe": "B"
+    },
+    {
+      "wort": "Braveheart",
+      "anfangsbuchstabe": "B"
+    },
+    {
+      "wort": "Breaking Bad",
+      "anfangsbuchstabe": "B"
+    },
+    {
+      "wort": "Bridgerton",
+      "anfangsbuchstabe": "B"
+    },
+    {
+      "wort": "Barbie",
+      "anfangsbuchstabe": "B"
+    },
+    {
+      "wort": "Cars",
+      "anfangsbuchstabe": "C"
+    },
+    {
+      "wort": "Casino",
+      "anfangsbuchstabe": "C"
+    },
+    {
+      "wort": "Chernobyl",
+      "anfangsbuchstabe": "C"
+    },
+    {
+      "wort": "Coco",
+      "anfangsbuchstabe": "C"
+    },
+    {
+      "wort": "Constantine",
+      "anfangsbuchstabe": "C"
+    },
+    {
+      "wort": "Dallas",
+      "anfangsbuchstabe": "D"
+    },
+    {
+      "wort": "Dexter",
+      "anfangsbuchstabe": "D"
+    },
+    {
+      "wort": "Dracula",
+      "anfangsbuchstabe": "D"
+    },
+    {
+      "wort": "Dune",
+      "anfangsbuchstabe": "D"
+    },
+    {
+      "wort": "Dumbo",
+      "anfangsbuchstabe": "D"
+    },
+    {
+      "wort": "Deadpool",
+      "anfangsbuchstabe": "D"
+    },
+    {
+      "wort": "Elementary",
+      "anfangsbuchstabe": "E"
+    },
+    {
+      "wort": "Emily",
+      "anfangsbuchstabe": "E"
+    },
+    {
+      "wort": "Encanto",
+      "anfangsbuchstabe": "E"
+    },
+    {
+      "wort": "Euphoria",
+      "anfangsbuchstabe": "E"
+    },
+    {
+      "wort": "Expendables",
+      "anfangsbuchstabe": "E"
+    },
+    {
+      "wort": "Fargo",
+      "anfangsbuchstabe": "F"
+    },
+    {
+      "wort": "Fitzek",
+      "anfangsbuchstabe": "F"
+    },
+    {
+      "wort": "Frozen",
+      "anfangsbuchstabe": "F"
+    },
+    {
+      "wort": "Friends",
+      "anfangsbuchstabe": "F"
+    },
+    {
+      "wort": "Frasier",
+      "anfangsbuchstabe": "F"
+    },
+    {
+      "wort": "Footloose",
+      "anfangsbuchstabe": "F"
+    },
+    {
+      "wort": "Gladiator",
+      "anfangsbuchstabe": "G"
+    },
+    {
+      "wort": "Glee",
+      "anfangsbuchstabe": "G"
+    },
+    {
+      "wort": "Gomorrha",
+      "anfangsbuchstabe": "G"
+    },
+    {
+      "wort": "Grease",
+      "anfangsbuchstabe": "G"
+    },
+    {
+      "wort": "Gremlins",
+      "anfangsbuchstabe": "G"
+    },
+    {
+      "wort": "Hancock",
+      "anfangsbuchstabe": "H"
+    },
+    {
+      "wort": "Hannibal",
+      "anfangsbuchstabe": "H"
+    },
+    {
+      "wort": "Hercules",
+      "anfangsbuchstabe": "H"
+    },
+    {
+      "wort": "Heidi",
+      "anfangsbuchstabe": "H"
+    },
+    {
+      "wort": "Homeland",
+      "anfangsbuchstabe": "H"
+    },
+    {
+      "wort": "House",
+      "anfangsbuchstabe": "H"
+    },
+    {
+      "wort": "Inception",
+      "anfangsbuchstabe": "I"
+    },
+    {
+      "wort": "Interstellar",
+      "anfangsbuchstabe": "I"
+    },
+    {
+      "wort": "It",
+      "anfangsbuchstabe": "I"
+    },
+    {
+      "wort": "Inferno",
+      "anfangsbuchstabe": "I"
+    },
+    {
+      "wort": "Jaws",
+      "anfangsbuchstabe": "J"
+    },
+    {
+      "wort": "Joker",
+      "anfangsbuchstabe": "J"
+    },
+    {
+      "wort": "Jumanji",
+      "anfangsbuchstabe": "J"
+    },
+    {
+      "wort": "Juno",
+      "anfangsbuchstabe": "J"
+    },
+    {
+      "wort": "Kingsman",
+      "anfangsbuchstabe": "K"
+    },
+    {
+      "wort": "Knives Out",
+      "anfangsbuchstabe": "K"
+    },
+    {
+      "wort": "King Kong",
+      "anfangsbuchstabe": "K"
+    },
+    {
+      "wort": "Lassie",
+      "anfangsbuchstabe": "L"
+    },
+    {
+      "wort": "Lincoln",
+      "anfangsbuchstabe": "L"
+    },
+    {
+      "wort": "Logan",
+      "anfangsbuchstabe": "L"
+    },
+    {
+      "wort": "Lucifer",
+      "anfangsbuchstabe": "L"
+    },
+    {
+      "wort": "Luther",
+      "anfangsbuchstabe": "L"
+    },
+    {
+      "wort": "Matrix",
+      "anfangsbuchstabe": "M"
+    },
+    {
+      "wort": "Memento",
+      "anfangsbuchstabe": "M"
+    },
+    {
+      "wort": "Minions",
+      "anfangsbuchstabe": "M"
+    },
+    {
+      "wort": "Moana",
+      "anfangsbuchstabe": "M"
+    },
+    {
+      "wort": "Mulan",
+      "anfangsbuchstabe": "M"
+    },
+    {
+      "wort": "Mindhunter",
+      "anfangsbuchstabe": "M"
+    },
+    {
+      "wort": "Narcos",
+      "anfangsbuchstabe": "N"
+    },
+    {
+      "wort": "Nemo",
+      "anfangsbuchstabe": "N"
+    },
+    {
+      "wort": "Nosferatu",
+      "anfangsbuchstabe": "N"
+    },
+    {
+      "wort": "Nightcrawler",
+      "anfangsbuchstabe": "N"
+    },
+    {
+      "wort": "Oblivion",
+      "anfangsbuchstabe": "O"
+    },
+    {
+      "wort": "Outlander",
+      "anfangsbuchstabe": "O"
+    },
+    {
+      "wort": "Ozark",
+      "anfangsbuchstabe": "O"
+    },
+    {
+      "wort": "Oppenheimer",
+      "anfangsbuchstabe": "O"
+    },
+    {
+      "wort": "Parasite",
+      "anfangsbuchstabe": "P"
+    },
+    {
+      "wort": "Pinocchio",
+      "anfangsbuchstabe": "P"
+    },
+    {
+      "wort": "Predator",
+      "anfangsbuchstabe": "P"
+    },
+    {
+      "wort": "Prometheus",
+      "anfangsbuchstabe": "P"
+    },
+    {
+      "wort": "Psycho",
+      "anfangsbuchstabe": "P"
+    },
+    {
+      "wort": "Quantum",
+      "anfangsbuchstabe": "Q"
+    },
+    {
+      "wort": "Queen",
+      "anfangsbuchstabe": "Q"
+    },
+    {
+      "wort": "Rambo",
+      "anfangsbuchstabe": "R"
+    },
+    {
+      "wort": "Ratatouille",
+      "anfangsbuchstabe": "R"
+    },
+    {
+      "wort": "Rocky",
+      "anfangsbuchstabe": "R"
+    },
+    {
+      "wort": "Riverdale",
+      "anfangsbuchstabe": "R"
+    },
+    {
+      "wort": "Rome",
+      "anfangsbuchstabe": "R"
+    },
+    {
+      "wort": "Scarface",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "Schindlers Liste",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "Shameless",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "Sherlock",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "Shrek",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "Suits",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "Spartacus",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "Tarzan",
+      "anfangsbuchstabe": "T"
+    },
+    {
+      "wort": "Tenet",
+      "anfangsbuchstabe": "T"
+    },
+    {
+      "wort": "Terminator",
+      "anfangsbuchstabe": "T"
+    },
+    {
+      "wort": "Titanic",
+      "anfangsbuchstabe": "T"
+    },
+    {
+      "wort": "Tribute",
+      "anfangsbuchstabe": "T"
+    },
+    {
+      "wort": "Twilight",
+      "anfangsbuchstabe": "T"
+    },
+    {
+      "wort": "Up",
+      "anfangsbuchstabe": "U"
+    },
+    {
+      "wort": "Underworld",
+      "anfangsbuchstabe": "U"
+    },
+    {
+      "wort": "Uncharted",
+      "anfangsbuchstabe": "U"
+    },
+    {
+      "wort": "Vikings",
+      "anfangsbuchstabe": "V"
+    },
+    {
+      "wort": "Venom",
+      "anfangsbuchstabe": "V"
+    },
+    {
+      "wort": "Vertigo",
+      "anfangsbuchstabe": "V"
+    },
+    {
+      "wort": "Vendetta",
+      "anfangsbuchstabe": "V"
+    },
+    {
+      "wort": "Wednesday",
+      "anfangsbuchstabe": "W"
+    },
+    {
+      "wort": "Westworld",
+      "anfangsbuchstabe": "W"
+    },
+    {
+      "wort": "Wonka",
+      "anfangsbuchstabe": "W"
+    },
+    {
+      "wort": "Watchmen",
+      "anfangsbuchstabe": "W"
+    },
+    {
+      "wort": "Zoolander",
+      "anfangsbuchstabe": "Z"
+    },
+    {
+      "wort": "Zorro",
+      "anfangsbuchstabe": "Z"
+    },
+    {
+      "wort": "Zoo",
+      "anfangsbuchstabe": "Z"
+    },
+    {
+      "wort": "Aquaman",
+      "anfangsbuchstabe": "A"
+    },
+    {
+      "wort": "Annabelle",
+      "anfangsbuchstabe": "A"
+    },
+    {
+      "wort": "American Pie",
+      "anfangsbuchstabe": "A"
+    },
+    {
+      "wort": "Ant-Man",
+      "anfangsbuchstabe": "A"
+    },
+    {
+      "wort": "Beetlejuice",
+      "anfangsbuchstabe": "B"
+    },
+    {
+      "wort": "Bourne",
+      "anfangsbuchstabe": "B"
+    },
+    {
+      "wort": "Borat",
+      "anfangsbuchstabe": "B"
+    },
+    {
+      "wort": "Birdman",
+      "anfangsbuchstabe": "B"
+    },
+    {
+      "wort": "Blade",
+      "anfangsbuchstabe": "B"
+    },
+    {
+      "wort": "Chicago",
+      "anfangsbuchstabe": "C"
+    },
+    {
+      "wort": "Coraline",
+      "anfangsbuchstabe": "C"
+    },
+    {
+      "wort": "Cinderella",
+      "anfangsbuchstabe": "C"
+    },
+    {
+      "wort": "Django",
+      "anfangsbuchstabe": "D"
+    },
+    {
+      "wort": "Daredevil",
+      "anfangsbuchstabe": "D"
+    },
+    {
+      "wort": "Demolition",
+      "anfangsbuchstabe": "D"
+    },
+    {
+      "wort": "Elf",
+      "anfangsbuchstabe": "E"
+    },
+    {
+      "wort": "Elvis",
+      "anfangsbuchstabe": "E"
+    },
+    {
+      "wort": "Enola",
+      "anfangsbuchstabe": "E"
+    },
+    {
+      "wort": "Equalizer",
+      "anfangsbuchstabe": "E"
+    },
+    {
+      "wort": "Fallout",
+      "anfangsbuchstabe": "F"
+    },
+    {
+      "wort": "Falcon",
+      "anfangsbuchstabe": "F"
+    },
+    {
+      "wort": "Fight Club",
+      "anfangsbuchstabe": "F"
+    },
+    {
+      "wort": "Ghostbusters",
+      "anfangsbuchstabe": "G"
+    },
+    {
+      "wort": "Gravity",
+      "anfangsbuchstabe": "G"
+    },
+    {
+      "wort": "Goodfellas",
+      "anfangsbuchstabe": "G"
+    },
+    {
+      "wort": "Gotham",
+      "anfangsbuchstabe": "G"
+    },
+    {
+      "wort": "Halloween",
+      "anfangsbuchstabe": "H"
+    },
+    {
+      "wort": "Hellboy",
+      "anfangsbuchstabe": "H"
+    },
+    {
+      "wort": "Hitch",
+      "anfangsbuchstabe": "H"
+    },
+    {
+      "wort": "Highlander",
+      "anfangsbuchstabe": "H"
+    },
+    {
+      "wort": "Insidious",
+      "anfangsbuchstabe": "I"
+    },
+    {
+      "wort": "Interview",
+      "anfangsbuchstabe": "I"
+    },
+    {
+      "wort": "Iron Man",
+      "anfangsbuchstabe": "I"
+    },
+    {
+      "wort": "Jurassic Park",
+      "anfangsbuchstabe": "J"
+    },
+    {
+      "wort": "John Wick",
+      "anfangsbuchstabe": "J"
+    },
+    {
+      "wort": "Kingdom",
+      "anfangsbuchstabe": "K"
+    },
+    {
+      "wort": "Kill Bill",
+      "anfangsbuchstabe": "K"
+    },
+    {
+      "wort": "Lost",
+      "anfangsbuchstabe": "L"
+    },
+    {
+      "wort": "Looper",
+      "anfangsbuchstabe": "L"
+    },
+    {
+      "wort": "Locke",
+      "anfangsbuchstabe": "L"
+    },
+    {
+      "wort": "Maleficent",
+      "anfangsbuchstabe": "M"
+    },
+    {
+      "wort": "Mandalorian",
+      "anfangsbuchstabe": "M"
+    },
+    {
+      "wort": "Megamind",
+      "anfangsbuchstabe": "M"
+    },
+    {
+      "wort": "Moonlight",
+      "anfangsbuchstabe": "M"
+    },
+    {
+      "wort": "Narnia",
+      "anfangsbuchstabe": "N"
+    },
+    {
+      "wort": "Nightmare",
+      "anfangsbuchstabe": "N"
+    },
+    {
+      "wort": "Notting Hill",
+      "anfangsbuchstabe": "N"
+    },
+    {
+      "wort": "Oldboy",
+      "anfangsbuchstabe": "O"
+    },
+    {
+      "wort": "Obi-Wan",
+      "anfangsbuchstabe": "O"
+    },
+    {
+      "wort": "Pulp Fiction",
+      "anfangsbuchstabe": "P"
+    },
+    {
+      "wort": "Pocahontas",
+      "anfangsbuchstabe": "P"
+    },
+    {
+      "wort": "Paddington",
+      "anfangsbuchstabe": "P"
+    },
+    {
+      "wort": "Peacemaker",
+      "anfangsbuchstabe": "P"
+    },
+    {
+      "wort": "Ratched",
+      "anfangsbuchstabe": "R"
+    },
+    {
+      "wort": "Ronin",
+      "anfangsbuchstabe": "R"
+    },
+    {
+      "wort": "Robocop",
+      "anfangsbuchstabe": "R"
+    },
+    {
+      "wort": "Skyfall",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "Stranger Things",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "Squid Game",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "Severance",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "Snowpiercer",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "Succession",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "Trainspotting",
+      "anfangsbuchstabe": "T"
+    },
+    {
+      "wort": "Top Gun",
+      "anfangsbuchstabe": "T"
+    },
+    {
+      "wort": "Taxi",
+      "anfangsbuchstabe": "T"
+    },
+    {
+      "wort": "Unforgiven",
+      "anfangsbuchstabe": "U"
+    },
+    {
+      "wort": "Vivarium",
+      "anfangsbuchstabe": "V"
+    },
+    {
+      "wort": "Wandavision",
+      "anfangsbuchstabe": "W"
+    },
+    {
+      "wort": "Warrior",
+      "anfangsbuchstabe": "W"
+    },
+    {
+      "wort": "X-Men",
+      "anfangsbuchstabe": "X"
+    },
+    {
+      "wort": "Xena",
+      "anfangsbuchstabe": "X"
+    },
+    {
+      "wort": "Yellowstone",
+      "anfangsbuchstabe": "Y"
+    },
+    {
+      "wort": "Yesterday",
+      "anfangsbuchstabe": "Y"
+    },
+    {
+      "wort": "Zombieland",
+      "anfangsbuchstabe": "Z"
+    },
+    {
+      "wort": "Zodiac",
+      "anfangsbuchstabe": "Z"
+    }
+  ]
+}

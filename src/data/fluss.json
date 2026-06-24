@@ -1,0 +1,465 @@
+{
+  "kategorie": "Fluss",
+  "eintraege": [
+    {
+      "wort": "Aare",
+      "anfangsbuchstabe": "A"
+    },
+    {
+      "wort": "Amazonas",
+      "anfangsbuchstabe": "A"
+    },
+    {
+      "wort": "Amur",
+      "anfangsbuchstabe": "A"
+    },
+    {
+      "wort": "Aller",
+      "anfangsbuchstabe": "A"
+    },
+    {
+      "wort": "Adige",
+      "anfangsbuchstabe": "A"
+    },
+    {
+      "wort": "Alster",
+      "anfangsbuchstabe": "A"
+    },
+    {
+      "wort": "Brahmaputra",
+      "anfangsbuchstabe": "B"
+    },
+    {
+      "wort": "Bug",
+      "anfangsbuchstabe": "B"
+    },
+    {
+      "wort": "Bober",
+      "anfangsbuchstabe": "B"
+    },
+    {
+      "wort": "Brenta",
+      "anfangsbuchstabe": "B"
+    },
+    {
+      "wort": "Berezina",
+      "anfangsbuchstabe": "B"
+    },
+    {
+      "wort": "Donau",
+      "anfangsbuchstabe": "D"
+    },
+    {
+      "wort": "Dnjepr",
+      "anfangsbuchstabe": "D"
+    },
+    {
+      "wort": "Drau",
+      "anfangsbuchstabe": "D"
+    },
+    {
+      "wort": "Don",
+      "anfangsbuchstabe": "D"
+    },
+    {
+      "wort": "Dordogne",
+      "anfangsbuchstabe": "D"
+    },
+    {
+      "wort": "Elbe",
+      "anfangsbuchstabe": "E"
+    },
+    {
+      "wort": "Ems",
+      "anfangsbuchstabe": "E"
+    },
+    {
+      "wort": "Euphrat",
+      "anfangsbuchstabe": "E"
+    },
+    {
+      "wort": "Ebro",
+      "anfangsbuchstabe": "E"
+    },
+    {
+      "wort": "Emscher",
+      "anfangsbuchstabe": "E"
+    },
+    {
+      "wort": "Ganges",
+      "anfangsbuchstabe": "G"
+    },
+    {
+      "wort": "Garonne",
+      "anfangsbuchstabe": "G"
+    },
+    {
+      "wort": "Gironde",
+      "anfangsbuchstabe": "G"
+    },
+    {
+      "wort": "Havel",
+      "anfangsbuchstabe": "H"
+    },
+    {
+      "wort": "Indus",
+      "anfangsbuchstabe": "I"
+    },
+    {
+      "wort": "Inn",
+      "anfangsbuchstabe": "I"
+    },
+    {
+      "wort": "Isar",
+      "anfangsbuchstabe": "I"
+    },
+    {
+      "wort": "Iller",
+      "anfangsbuchstabe": "I"
+    },
+    {
+      "wort": "Jangtse",
+      "anfangsbuchstabe": "J"
+    },
+    {
+      "wort": "Jordan",
+      "anfangsbuchstabe": "J"
+    },
+    {
+      "wort": "Jenissei",
+      "anfangsbuchstabe": "J"
+    },
+    {
+      "wort": "Kongo",
+      "anfangsbuchstabe": "K"
+    },
+    {
+      "wort": "Klamath",
+      "anfangsbuchstabe": "K"
+    },
+    {
+      "wort": "Lech",
+      "anfangsbuchstabe": "L"
+    },
+    {
+      "wort": "Leine",
+      "anfangsbuchstabe": "L"
+    },
+    {
+      "wort": "Loire",
+      "anfangsbuchstabe": "L"
+    },
+    {
+      "wort": "Lena",
+      "anfangsbuchstabe": "L"
+    },
+    {
+      "wort": "Limpopo",
+      "anfangsbuchstabe": "L"
+    },
+    {
+      "wort": "Main",
+      "anfangsbuchstabe": "M"
+    },
+    {
+      "wort": "Memel",
+      "anfangsbuchstabe": "M"
+    },
+    {
+      "wort": "Mosel",
+      "anfangsbuchstabe": "M"
+    },
+    {
+      "wort": "Mississippi",
+      "anfangsbuchstabe": "M"
+    },
+    {
+      "wort": "Missouri",
+      "anfangsbuchstabe": "M"
+    },
+    {
+      "wort": "Murray",
+      "anfangsbuchstabe": "M"
+    },
+    {
+      "wort": "Mekong",
+      "anfangsbuchstabe": "M"
+    },
+    {
+      "wort": "Maas",
+      "anfangsbuchstabe": "M"
+    },
+    {
+      "wort": "Neckar",
+      "anfangsbuchstabe": "N"
+    },
+    {
+      "wort": "Nil",
+      "anfangsbuchstabe": "N"
+    },
+    {
+      "wort": "Niger",
+      "anfangsbuchstabe": "N"
+    },
+    {
+      "wort": "Newa",
+      "anfangsbuchstabe": "N"
+    },
+    {
+      "wort": "Nahe",
+      "anfangsbuchstabe": "N"
+    },
+    {
+      "wort": "Oder",
+      "anfangsbuchstabe": "O"
+    },
+    {
+      "wort": "Orinoko",
+      "anfangsbuchstabe": "O"
+    },
+    {
+      "wort": "Ob",
+      "anfangsbuchstabe": "O"
+    },
+    {
+      "wort": "Paraná",
+      "anfangsbuchstabe": "P"
+    },
+    {
+      "wort": "Po",
+      "anfangsbuchstabe": "P"
+    },
+    {
+      "wort": "Pregel",
+      "anfangsbuchstabe": "P"
+    },
+    {
+      "wort": "Peene",
+      "anfangsbuchstabe": "P"
+    },
+    {
+      "wort": "Pilica",
+      "anfangsbuchstabe": "P"
+    },
+    {
+      "wort": "Rhein",
+      "anfangsbuchstabe": "R"
+    },
+    {
+      "wort": "Rhone",
+      "anfangsbuchstabe": "R"
+    },
+    {
+      "wort": "Ruhr",
+      "anfangsbuchstabe": "R"
+    },
+    {
+      "wort": "Reuss",
+      "anfangsbuchstabe": "R"
+    },
+    {
+      "wort": "Saale",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "Seine",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "Spree",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "Sambesi",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "Syrdarja",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "Save",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "Tiber",
+      "anfangsbuchstabe": "T"
+    },
+    {
+      "wort": "Themse",
+      "anfangsbuchstabe": "T"
+    },
+    {
+      "wort": "Tigris",
+      "anfangsbuchstabe": "T"
+    },
+    {
+      "wort": "Theiß",
+      "anfangsbuchstabe": "T"
+    },
+    {
+      "wort": "Tejo",
+      "anfangsbuchstabe": "T"
+    },
+    {
+      "wort": "Trave",
+      "anfangsbuchstabe": "T"
+    },
+    {
+      "wort": "Ural",
+      "anfangsbuchstabe": "U"
+    },
+    {
+      "wort": "Ussuri",
+      "anfangsbuchstabe": "U"
+    },
+    {
+      "wort": "Volga",
+      "anfangsbuchstabe": "V"
+    },
+    {
+      "wort": "Weichsel",
+      "anfangsbuchstabe": "W"
+    },
+    {
+      "wort": "Werra",
+      "anfangsbuchstabe": "W"
+    },
+    {
+      "wort": "Weser",
+      "anfangsbuchstabe": "W"
+    },
+    {
+      "wort": "Wolga",
+      "anfangsbuchstabe": "W"
+    },
+    {
+      "wort": "Wupper",
+      "anfangsbuchstabe": "W"
+    },
+    {
+      "wort": "Alz",
+      "anfangsbuchstabe": "A"
+    },
+    {
+      "wort": "Arno",
+      "anfangsbuchstabe": "A"
+    },
+    {
+      "wort": "Düssel",
+      "anfangsbuchstabe": "D"
+    },
+    {
+      "wort": "Eider",
+      "anfangsbuchstabe": "E"
+    },
+    {
+      "wort": "Enns",
+      "anfangsbuchstabe": "E"
+    },
+    {
+      "wort": "Fulda",
+      "anfangsbuchstabe": "F"
+    },
+    {
+      "wort": "Gera",
+      "anfangsbuchstabe": "G"
+    },
+    {
+      "wort": "Guadalquivir",
+      "anfangsbuchstabe": "G"
+    },
+    {
+      "wort": "Glan",
+      "anfangsbuchstabe": "G"
+    },
+    {
+      "wort": "Irtysch",
+      "anfangsbuchstabe": "I"
+    },
+    {
+      "wort": "Kocher",
+      "anfangsbuchstabe": "K"
+    },
+    {
+      "wort": "Kinzig",
+      "anfangsbuchstabe": "K"
+    },
+    {
+      "wort": "Kura",
+      "anfangsbuchstabe": "K"
+    },
+    {
+      "wort": "Lahn",
+      "anfangsbuchstabe": "L"
+    },
+    {
+      "wort": "Lippe",
+      "anfangsbuchstabe": "L"
+    },
+    {
+      "wort": "Loisach",
+      "anfangsbuchstabe": "L"
+    },
+    {
+      "wort": "Murg",
+      "anfangsbuchstabe": "M"
+    },
+    {
+      "wort": "Mur",
+      "anfangsbuchstabe": "M"
+    },
+    {
+      "wort": "Mulde",
+      "anfangsbuchstabe": "M"
+    },
+    {
+      "wort": "Marne",
+      "anfangsbuchstabe": "M"
+    },
+    {
+      "wort": "Naab",
+      "anfangsbuchstabe": "N"
+    },
+    {
+      "wort": "Nidda",
+      "anfangsbuchstabe": "N"
+    },
+    {
+      "wort": "Ouse",
+      "anfangsbuchstabe": "O"
+    },
+    {
+      "wort": "Okavango",
+      "anfangsbuchstabe": "O"
+    },
+    {
+      "wort": "Regen",
+      "anfangsbuchstabe": "R"
+    },
+    {
+      "wort": "Rur",
+      "anfangsbuchstabe": "R"
+    },
+    {
+      "wort": "Sieg",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "Saar",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "Sauer",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "Tarim",
+      "anfangsbuchstabe": "T"
+    },
+    {
+      "wort": "Wümme",
+      "anfangsbuchstabe": "W"
+    }
+  ]
+}

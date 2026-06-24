@@ -1,0 +1,813 @@
+{
+  "kategorie": "Beruf",
+  "eintraege": [
+    {
+      "wort": "Apotheker",
+      "anfangsbuchstabe": "A"
+    },
+    {
+      "wort": "Architekt",
+      "anfangsbuchstabe": "A"
+    },
+    {
+      "wort": "Arzt",
+      "anfangsbuchstabe": "A"
+    },
+    {
+      "wort": "Anwalt",
+      "anfangsbuchstabe": "A"
+    },
+    {
+      "wort": "Astronaut",
+      "anfangsbuchstabe": "A"
+    },
+    {
+      "wort": "Augenarzt",
+      "anfangsbuchstabe": "A"
+    },
+    {
+      "wort": "Bäcker",
+      "anfangsbuchstabe": "B"
+    },
+    {
+      "wort": "Bauer",
+      "anfangsbuchstabe": "B"
+    },
+    {
+      "wort": "Bibliothekar",
+      "anfangsbuchstabe": "B"
+    },
+    {
+      "wort": "Buchhalter",
+      "anfangsbuchstabe": "B"
+    },
+    {
+      "wort": "Busfahrer",
+      "anfangsbuchstabe": "B"
+    },
+    {
+      "wort": "Briefträger",
+      "anfangsbuchstabe": "B"
+    },
+    {
+      "wort": "Barkeeper",
+      "anfangsbuchstabe": "B"
+    },
+    {
+      "wort": "Chirurg",
+      "anfangsbuchstabe": "C"
+    },
+    {
+      "wort": "Chemiker",
+      "anfangsbuchstabe": "C"
+    },
+    {
+      "wort": "Choreograf",
+      "anfangsbuchstabe": "C"
+    },
+    {
+      "wort": "Dachdecker",
+      "anfangsbuchstabe": "D"
+    },
+    {
+      "wort": "Designer",
+      "anfangsbuchstabe": "D"
+    },
+    {
+      "wort": "Detektiv",
+      "anfangsbuchstabe": "D"
+    },
+    {
+      "wort": "Dolmetscher",
+      "anfangsbuchstabe": "D"
+    },
+    {
+      "wort": "Dozent",
+      "anfangsbuchstabe": "D"
+    },
+    {
+      "wort": "Elektriker",
+      "anfangsbuchstabe": "E"
+    },
+    {
+      "wort": "Erzieher",
+      "anfangsbuchstabe": "E"
+    },
+    {
+      "wort": "Ingenieur",
+      "anfangsbuchstabe": "I"
+    },
+    {
+      "wort": "Fahrlehrer",
+      "anfangsbuchstabe": "F"
+    },
+    {
+      "wort": "Fischer",
+      "anfangsbuchstabe": "F"
+    },
+    {
+      "wort": "Florist",
+      "anfangsbuchstabe": "F"
+    },
+    {
+      "wort": "Förster",
+      "anfangsbuchstabe": "F"
+    },
+    {
+      "wort": "Fotograf",
+      "anfangsbuchstabe": "F"
+    },
+    {
+      "wort": "Friseur",
+      "anfangsbuchstabe": "F"
+    },
+    {
+      "wort": "Feuerwehrmann",
+      "anfangsbuchstabe": "F"
+    },
+    {
+      "wort": "Gärtner",
+      "anfangsbuchstabe": "G"
+    },
+    {
+      "wort": "Geologe",
+      "anfangsbuchstabe": "G"
+    },
+    {
+      "wort": "Goldschmied",
+      "anfangsbuchstabe": "G"
+    },
+    {
+      "wort": "Grafiker",
+      "anfangsbuchstabe": "G"
+    },
+    {
+      "wort": "Hebamme",
+      "anfangsbuchstabe": "H"
+    },
+    {
+      "wort": "Heizungsbauer",
+      "anfangsbuchstabe": "H"
+    },
+    {
+      "wort": "Hausmeister",
+      "anfangsbuchstabe": "H"
+    },
+    {
+      "wort": "Hotelier",
+      "anfangsbuchstabe": "H"
+    },
+    {
+      "wort": "Imker",
+      "anfangsbuchstabe": "I"
+    },
+    {
+      "wort": "Informatiker",
+      "anfangsbuchstabe": "I"
+    },
+    {
+      "wort": "Installateur",
+      "anfangsbuchstabe": "I"
+    },
+    {
+      "wort": "Journalist",
+      "anfangsbuchstabe": "J"
+    },
+    {
+      "wort": "Jurist",
+      "anfangsbuchstabe": "J"
+    },
+    {
+      "wort": "Juwelier",
+      "anfangsbuchstabe": "J"
+    },
+    {
+      "wort": "Kassierer",
+      "anfangsbuchstabe": "K"
+    },
+    {
+      "wort": "Kellner",
+      "anfangsbuchstabe": "K"
+    },
+    {
+      "wort": "Koch",
+      "anfangsbuchstabe": "K"
+    },
+    {
+      "wort": "Kosmetiker",
+      "anfangsbuchstabe": "K"
+    },
+    {
+      "wort": "Krankenpfleger",
+      "anfangsbuchstabe": "K"
+    },
+    {
+      "wort": "Künstler",
+      "anfangsbuchstabe": "K"
+    },
+    {
+      "wort": "Kapitän",
+      "anfangsbuchstabe": "K"
+    },
+    {
+      "wort": "Lehrer",
+      "anfangsbuchstabe": "L"
+    },
+    {
+      "wort": "Lokführer",
+      "anfangsbuchstabe": "L"
+    },
+    {
+      "wort": "Logopäde",
+      "anfangsbuchstabe": "L"
+    },
+    {
+      "wort": "Landwirt",
+      "anfangsbuchstabe": "L"
+    },
+    {
+      "wort": "Lektor",
+      "anfangsbuchstabe": "L"
+    },
+    {
+      "wort": "Maler",
+      "anfangsbuchstabe": "M"
+    },
+    {
+      "wort": "Maurer",
+      "anfangsbuchstabe": "M"
+    },
+    {
+      "wort": "Mechaniker",
+      "anfangsbuchstabe": "M"
+    },
+    {
+      "wort": "Metzger",
+      "anfangsbuchstabe": "M"
+    },
+    {
+      "wort": "Moderator",
+      "anfangsbuchstabe": "M"
+    },
+    {
+      "wort": "Musiker",
+      "anfangsbuchstabe": "M"
+    },
+    {
+      "wort": "Maskenbildner",
+      "anfangsbuchstabe": "M"
+    },
+    {
+      "wort": "Notar",
+      "anfangsbuchstabe": "N"
+    },
+    {
+      "wort": "Notfallsanitäter",
+      "anfangsbuchstabe": "N"
+    },
+    {
+      "wort": "Optiker",
+      "anfangsbuchstabe": "O"
+    },
+    {
+      "wort": "Ökonom",
+      "anfangsbuchstabe": "O"
+    },
+    {
+      "wort": "Pfarrer",
+      "anfangsbuchstabe": "P"
+    },
+    {
+      "wort": "Physiker",
+      "anfangsbuchstabe": "P"
+    },
+    {
+      "wort": "Pilot",
+      "anfangsbuchstabe": "P"
+    },
+    {
+      "wort": "Polizist",
+      "anfangsbuchstabe": "P"
+    },
+    {
+      "wort": "Politiker",
+      "anfangsbuchstabe": "P"
+    },
+    {
+      "wort": "Professor",
+      "anfangsbuchstabe": "P"
+    },
+    {
+      "wort": "Psychologe",
+      "anfangsbuchstabe": "P"
+    },
+    {
+      "wort": "Richter",
+      "anfangsbuchstabe": "R"
+    },
+    {
+      "wort": "Rechtsanwalt",
+      "anfangsbuchstabe": "R"
+    },
+    {
+      "wort": "Reinigungskraft",
+      "anfangsbuchstabe": "R"
+    },
+    {
+      "wort": "Schauspieler",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "Schlosser",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "Schneider",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "Schreiner",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "Sekretär",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "Steuerberater",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "Stewardess",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "Tänzer",
+      "anfangsbuchstabe": "T"
+    },
+    {
+      "wort": "Taxifahrer",
+      "anfangsbuchstabe": "T"
+    },
+    {
+      "wort": "Tierarzt",
+      "anfangsbuchstabe": "T"
+    },
+    {
+      "wort": "Tischler",
+      "anfangsbuchstabe": "T"
+    },
+    {
+      "wort": "Trainer",
+      "anfangsbuchstabe": "T"
+    },
+    {
+      "wort": "Techniker",
+      "anfangsbuchstabe": "T"
+    },
+    {
+      "wort": "Uhrmacher",
+      "anfangsbuchstabe": "U"
+    },
+    {
+      "wort": "Übersetzer",
+      "anfangsbuchstabe": "U"
+    },
+    {
+      "wort": "Unternehmer",
+      "anfangsbuchstabe": "U"
+    },
+    {
+      "wort": "Verkäufer",
+      "anfangsbuchstabe": "V"
+    },
+    {
+      "wort": "Verleger",
+      "anfangsbuchstabe": "V"
+    },
+    {
+      "wort": "Visagist",
+      "anfangsbuchstabe": "V"
+    },
+    {
+      "wort": "Winzer",
+      "anfangsbuchstabe": "W"
+    },
+    {
+      "wort": "Wissenschaftler",
+      "anfangsbuchstabe": "W"
+    },
+    {
+      "wort": "Zahnarzt",
+      "anfangsbuchstabe": "Z"
+    },
+    {
+      "wort": "Zimmermann",
+      "anfangsbuchstabe": "Z"
+    },
+    {
+      "wort": "Zöllner",
+      "anfangsbuchstabe": "Z"
+    },
+    {
+      "wort": "Anästhesist",
+      "anfangsbuchstabe": "A"
+    },
+    {
+      "wort": "Altenpfleger",
+      "anfangsbuchstabe": "A"
+    },
+    {
+      "wort": "Animateur",
+      "anfangsbuchstabe": "A"
+    },
+    {
+      "wort": "Autor",
+      "anfangsbuchstabe": "A"
+    },
+    {
+      "wort": "Bademeister",
+      "anfangsbuchstabe": "B"
+    },
+    {
+      "wort": "Bankkaufmann",
+      "anfangsbuchstabe": "B"
+    },
+    {
+      "wort": "Barista",
+      "anfangsbuchstabe": "B"
+    },
+    {
+      "wort": "Bauleiter",
+      "anfangsbuchstabe": "B"
+    },
+    {
+      "wort": "Berater",
+      "anfangsbuchstabe": "B"
+    },
+    {
+      "wort": "Bestatter",
+      "anfangsbuchstabe": "B"
+    },
+    {
+      "wort": "Bürokaufmann",
+      "anfangsbuchstabe": "B"
+    },
+    {
+      "wort": "Controller",
+      "anfangsbuchstabe": "C"
+    },
+    {
+      "wort": "Croupier",
+      "anfangsbuchstabe": "C"
+    },
+    {
+      "wort": "Coach",
+      "anfangsbuchstabe": "C"
+    },
+    {
+      "wort": "Datenanalyst",
+      "anfangsbuchstabe": "D"
+    },
+    {
+      "wort": "Diakon",
+      "anfangsbuchstabe": "D"
+    },
+    {
+      "wort": "Disponent",
+      "anfangsbuchstabe": "D"
+    },
+    {
+      "wort": "Drogist",
+      "anfangsbuchstabe": "D"
+    },
+    {
+      "wort": "Ergotherapeut",
+      "anfangsbuchstabe": "E"
+    },
+    {
+      "wort": "Eventmanager",
+      "anfangsbuchstabe": "E"
+    },
+    {
+      "wort": "Elektroniker",
+      "anfangsbuchstabe": "E"
+    },
+    {
+      "wort": "Facharzt",
+      "anfangsbuchstabe": "F"
+    },
+    {
+      "wort": "Fahrer",
+      "anfangsbuchstabe": "F"
+    },
+    {
+      "wort": "Filmemacher",
+      "anfangsbuchstabe": "F"
+    },
+    {
+      "wort": "Finanzberater",
+      "anfangsbuchstabe": "F"
+    },
+    {
+      "wort": "Fleischer",
+      "anfangsbuchstabe": "F"
+    },
+    {
+      "wort": "Flugbegleiter",
+      "anfangsbuchstabe": "F"
+    },
+    {
+      "wort": "Fremdenführer",
+      "anfangsbuchstabe": "F"
+    },
+    {
+      "wort": "Gerichtsvollzieher",
+      "anfangsbuchstabe": "G"
+    },
+    {
+      "wort": "Glaser",
+      "anfangsbuchstabe": "G"
+    },
+    {
+      "wort": "Grafikdesigner",
+      "anfangsbuchstabe": "G"
+    },
+    {
+      "wort": "Gutachter",
+      "anfangsbuchstabe": "G"
+    },
+    {
+      "wort": "Handwerker",
+      "anfangsbuchstabe": "H"
+    },
+    {
+      "wort": "Hausarzt",
+      "anfangsbuchstabe": "H"
+    },
+    {
+      "wort": "Heilpraktiker",
+      "anfangsbuchstabe": "H"
+    },
+    {
+      "wort": "Historiker",
+      "anfangsbuchstabe": "H"
+    },
+    {
+      "wort": "Hufschmied",
+      "anfangsbuchstabe": "H"
+    },
+    {
+      "wort": "Hutmacher",
+      "anfangsbuchstabe": "H"
+    },
+    {
+      "wort": "Illustrator",
+      "anfangsbuchstabe": "I"
+    },
+    {
+      "wort": "Immobilienmakler",
+      "anfangsbuchstabe": "I"
+    },
+    {
+      "wort": "Internist",
+      "anfangsbuchstabe": "I"
+    },
+    {
+      "wort": "Jäger",
+      "anfangsbuchstabe": "J"
+    },
+    {
+      "wort": "Justizbeamter",
+      "anfangsbuchstabe": "J"
+    },
+    {
+      "wort": "Kameramann",
+      "anfangsbuchstabe": "K"
+    },
+    {
+      "wort": "Kardiologe",
+      "anfangsbuchstabe": "K"
+    },
+    {
+      "wort": "Kinderarzt",
+      "anfangsbuchstabe": "K"
+    },
+    {
+      "wort": "Konditor",
+      "anfangsbuchstabe": "K"
+    },
+    {
+      "wort": "Kontrolleur",
+      "anfangsbuchstabe": "K"
+    },
+    {
+      "wort": "Kurier",
+      "anfangsbuchstabe": "K"
+    },
+    {
+      "wort": "Laborant",
+      "anfangsbuchstabe": "L"
+    },
+    {
+      "wort": "Lagerist",
+      "anfangsbuchstabe": "L"
+    },
+    {
+      "wort": "Landschaftsgärtner",
+      "anfangsbuchstabe": "L"
+    },
+    {
+      "wort": "Logistiker",
+      "anfangsbuchstabe": "L"
+    },
+    {
+      "wort": "Makler",
+      "anfangsbuchstabe": "M"
+    },
+    {
+      "wort": "Manager",
+      "anfangsbuchstabe": "M"
+    },
+    {
+      "wort": "Masseur",
+      "anfangsbuchstabe": "M"
+    },
+    {
+      "wort": "Mechatroniker",
+      "anfangsbuchstabe": "M"
+    },
+    {
+      "wort": "Metallbauer",
+      "anfangsbuchstabe": "M"
+    },
+    {
+      "wort": "Müller",
+      "anfangsbuchstabe": "M"
+    },
+    {
+      "wort": "Naturwissenschaftler",
+      "anfangsbuchstabe": "N"
+    },
+    {
+      "wort": "Netzwerktechniker",
+      "anfangsbuchstabe": "N"
+    },
+    {
+      "wort": "Neurologe",
+      "anfangsbuchstabe": "N"
+    },
+    {
+      "wort": "Onkologe",
+      "anfangsbuchstabe": "O"
+    },
+    {
+      "wort": "Operator",
+      "anfangsbuchstabe": "O"
+    },
+    {
+      "wort": "Orthopäde",
+      "anfangsbuchstabe": "O"
+    },
+    {
+      "wort": "Pädagoge",
+      "anfangsbuchstabe": "P"
+    },
+    {
+      "wort": "Paketbote",
+      "anfangsbuchstabe": "P"
+    },
+    {
+      "wort": "Pflegekraft",
+      "anfangsbuchstabe": "P"
+    },
+    {
+      "wort": "Physiotherapeut",
+      "anfangsbuchstabe": "P"
+    },
+    {
+      "wort": "Programmierer",
+      "anfangsbuchstabe": "P"
+    },
+    {
+      "wort": "Projektleiter",
+      "anfangsbuchstabe": "P"
+    },
+    {
+      "wort": "Qualitätsprüfer",
+      "anfangsbuchstabe": "Q"
+    },
+    {
+      "wort": "Radiologe",
+      "anfangsbuchstabe": "R"
+    },
+    {
+      "wort": "Redakteur",
+      "anfangsbuchstabe": "R"
+    },
+    {
+      "wort": "Reiseleiter",
+      "anfangsbuchstabe": "R"
+    },
+    {
+      "wort": "Rettungssanitäter",
+      "anfangsbuchstabe": "R"
+    },
+    {
+      "wort": "Sanitäter",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "Schornsteinfeger",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "Softwareentwickler",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "Sozialarbeiter",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "Statiker",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "Stuckateur",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "Tankwart",
+      "anfangsbuchstabe": "T"
+    },
+    {
+      "wort": "Tätowierer",
+      "anfangsbuchstabe": "T"
+    },
+    {
+      "wort": "Texter",
+      "anfangsbuchstabe": "T"
+    },
+    {
+      "wort": "Tontechniker",
+      "anfangsbuchstabe": "T"
+    },
+    {
+      "wort": "Übungsleiter",
+      "anfangsbuchstabe": "U"
+    },
+    {
+      "wort": "Umweltberater",
+      "anfangsbuchstabe": "U"
+    },
+    {
+      "wort": "Verfahrenstechniker",
+      "anfangsbuchstabe": "V"
+    },
+    {
+      "wort": "Vermesser",
+      "anfangsbuchstabe": "V"
+    },
+    {
+      "wort": "Verwalter",
+      "anfangsbuchstabe": "V"
+    },
+    {
+      "wort": "Veterinär",
+      "anfangsbuchstabe": "V"
+    },
+    {
+      "wort": "Wachmann",
+      "anfangsbuchstabe": "W"
+    },
+    {
+      "wort": "Webdesigner",
+      "anfangsbuchstabe": "W"
+    },
+    {
+      "wort": "Werbetexter",
+      "anfangsbuchstabe": "W"
+    },
+    {
+      "wort": "Werkzeugmacher",
+      "anfangsbuchstabe": "W"
+    },
+    {
+      "wort": "Wirt",
+      "anfangsbuchstabe": "W"
+    },
+    {
+      "wort": "Zahntechniker",
+      "anfangsbuchstabe": "Z"
+    },
+    {
+      "wort": "Zerspaner",
+      "anfangsbuchstabe": "Z"
+    },
+    {
+      "wort": "Zeichner",
+      "anfangsbuchstabe": "Z"
+    }
+  ]
+}

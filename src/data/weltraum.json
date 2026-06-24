@@ -1,0 +1,329 @@
+{
+  "kategorie": "Weltraum & Astronomie",
+  "eintraege": [
+    {
+      "wort": "Andromeda",
+      "anfangsbuchstabe": "A"
+    },
+    {
+      "wort": "Apollo",
+      "anfangsbuchstabe": "A"
+    },
+    {
+      "wort": "Aldebaran",
+      "anfangsbuchstabe": "A"
+    },
+    {
+      "wort": "Antares",
+      "anfangsbuchstabe": "A"
+    },
+    {
+      "wort": "Asteroid",
+      "anfangsbuchstabe": "A"
+    },
+    {
+      "wort": "Astronaut",
+      "anfangsbuchstabe": "A"
+    },
+    {
+      "wort": "Armstrong",
+      "anfangsbuchstabe": "A"
+    },
+    {
+      "wort": "Aldrin",
+      "anfangsbuchstabe": "A"
+    },
+    {
+      "wort": "Beteigeuze",
+      "anfangsbuchstabe": "B"
+    },
+    {
+      "wort": "Big Bang",
+      "anfangsbuchstabe": "B"
+    },
+    {
+      "wort": "Bahn",
+      "anfangsbuchstabe": "B"
+    },
+    {
+      "wort": "Cassini",
+      "anfangsbuchstabe": "C"
+    },
+    {
+      "wort": "Ceres",
+      "anfangsbuchstabe": "C"
+    },
+    {
+      "wort": "Curiosity",
+      "anfangsbuchstabe": "C"
+    },
+    {
+      "wort": "Charon",
+      "anfangsbuchstabe": "C"
+    },
+    {
+      "wort": "Deimos",
+      "anfangsbuchstabe": "D"
+    },
+    {
+      "wort": "Draco",
+      "anfangsbuchstabe": "D"
+    },
+    {
+      "wort": "Erde",
+      "anfangsbuchstabe": "E"
+    },
+    {
+      "wort": "Europa",
+      "anfangsbuchstabe": "E"
+    },
+    {
+      "wort": "Enceladus",
+      "anfangsbuchstabe": "E"
+    },
+    {
+      "wort": "Fixstern",
+      "anfangsbuchstabe": "F"
+    },
+    {
+      "wort": "Fusion",
+      "anfangsbuchstabe": "F"
+    },
+    {
+      "wort": "Gagarin",
+      "anfangsbuchstabe": "G"
+    },
+    {
+      "wort": "Galaxie",
+      "anfangsbuchstabe": "G"
+    },
+    {
+      "wort": "Ganymed",
+      "anfangsbuchstabe": "G"
+    },
+    {
+      "wort": "Gravitation",
+      "anfangsbuchstabe": "G"
+    },
+    {
+      "wort": "Halley",
+      "anfangsbuchstabe": "H"
+    },
+    {
+      "wort": "Hubble",
+      "anfangsbuchstabe": "H"
+    },
+    {
+      "wort": "Horizont",
+      "anfangsbuchstabe": "H"
+    },
+    {
+      "wort": "Io",
+      "anfangsbuchstabe": "I"
+    },
+    {
+      "wort": "ISS",
+      "anfangsbuchstabe": "I"
+    },
+    {
+      "wort": "Jupiter",
+      "anfangsbuchstabe": "J"
+    },
+    {
+      "wort": "Juno",
+      "anfangsbuchstabe": "J"
+    },
+    {
+      "wort": "Komet",
+      "anfangsbuchstabe": "K"
+    },
+    {
+      "wort": "Kepler",
+      "anfangsbuchstabe": "K"
+    },
+    {
+      "wort": "Kosmonaut",
+      "anfangsbuchstabe": "K"
+    },
+    {
+      "wort": "Krater",
+      "anfangsbuchstabe": "K"
+    },
+    {
+      "wort": "Kallisto",
+      "anfangsbuchstabe": "K"
+    },
+    {
+      "wort": "Lichtjahr",
+      "anfangsbuchstabe": "L"
+    },
+    {
+      "wort": "Lyra",
+      "anfangsbuchstabe": "L"
+    },
+    {
+      "wort": "Leonid",
+      "anfangsbuchstabe": "L"
+    },
+    {
+      "wort": "Mars",
+      "anfangsbuchstabe": "M"
+    },
+    {
+      "wort": "Merkur",
+      "anfangsbuchstabe": "M"
+    },
+    {
+      "wort": "Mond",
+      "anfangsbuchstabe": "M"
+    },
+    {
+      "wort": "Meteor",
+      "anfangsbuchstabe": "M"
+    },
+    {
+      "wort": "Milchstraße",
+      "anfangsbuchstabe": "M"
+    },
+    {
+      "wort": "Mir",
+      "anfangsbuchstabe": "M"
+    },
+    {
+      "wort": "Nebel",
+      "anfangsbuchstabe": "N"
+    },
+    {
+      "wort": "Neptun",
+      "anfangsbuchstabe": "N"
+    },
+    {
+      "wort": "Nova",
+      "anfangsbuchstabe": "N"
+    },
+    {
+      "wort": "Orion",
+      "anfangsbuchstabe": "O"
+    },
+    {
+      "wort": "Orbit",
+      "anfangsbuchstabe": "O"
+    },
+    {
+      "wort": "Oort",
+      "anfangsbuchstabe": "O"
+    },
+    {
+      "wort": "Planet",
+      "anfangsbuchstabe": "P"
+    },
+    {
+      "wort": "Pluto",
+      "anfangsbuchstabe": "P"
+    },
+    {
+      "wort": "Polaris",
+      "anfangsbuchstabe": "P"
+    },
+    {
+      "wort": "Pulsar",
+      "anfangsbuchstabe": "P"
+    },
+    {
+      "wort": "Phobos",
+      "anfangsbuchstabe": "P"
+    },
+    {
+      "wort": "Pegasus",
+      "anfangsbuchstabe": "P"
+    },
+    {
+      "wort": "Quasar",
+      "anfangsbuchstabe": "Q"
+    },
+    {
+      "wort": "Rakete",
+      "anfangsbuchstabe": "R"
+    },
+    {
+      "wort": "Rigel",
+      "anfangsbuchstabe": "R"
+    },
+    {
+      "wort": "Raumstation",
+      "anfangsbuchstabe": "R"
+    },
+    {
+      "wort": "Saturn",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "Sonne",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "Sirius",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "Supernova",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "Satellit",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "Sputnik",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "Sojus",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "Stern",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "Teleskop",
+      "anfangsbuchstabe": "T"
+    },
+    {
+      "wort": "Titan",
+      "anfangsbuchstabe": "T"
+    },
+    {
+      "wort": "Triton",
+      "anfangsbuchstabe": "T"
+    },
+    {
+      "wort": "Trabant",
+      "anfangsbuchstabe": "T"
+    },
+    {
+      "wort": "Uranus",
+      "anfangsbuchstabe": "U"
+    },
+    {
+      "wort": "Urknall",
+      "anfangsbuchstabe": "U"
+    },
+    {
+      "wort": "Universum",
+      "anfangsbuchstabe": "U"
+    },
+    {
+      "wort": "Venus",
+      "anfangsbuchstabe": "V"
+    },
+    {
+      "wort": "Voyager",
+      "anfangsbuchstabe": "V"
+    },
+    {
+      "wort": "Vega",
+      "anfangsbuchstabe": "V"
+    }
+  ]
+}

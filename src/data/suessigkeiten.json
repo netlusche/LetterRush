@@ -1,0 +1,249 @@
+{
+  "kategorie": "Süßigkeiten & Snacks",
+  "eintraege": [
+    {
+      "wort": "Apfelstrudel",
+      "anfangsbuchstabe": "A"
+    },
+    {
+      "wort": "Amicelli",
+      "anfangsbuchstabe": "A"
+    },
+    {
+      "wort": "Baiser",
+      "anfangsbuchstabe": "B"
+    },
+    {
+      "wort": "Berliner",
+      "anfangsbuchstabe": "B"
+    },
+    {
+      "wort": "Bonbon",
+      "anfangsbuchstabe": "B"
+    },
+    {
+      "wort": "Brezel",
+      "anfangsbuchstabe": "B"
+    },
+    {
+      "wort": "Brownie",
+      "anfangsbuchstabe": "B"
+    },
+    {
+      "wort": "Butterkeks",
+      "anfangsbuchstabe": "B"
+    },
+    {
+      "wort": "Chips",
+      "anfangsbuchstabe": "C"
+    },
+    {
+      "wort": "Cracker",
+      "anfangsbuchstabe": "C"
+    },
+    {
+      "wort": "Cupcake",
+      "anfangsbuchstabe": "C"
+    },
+    {
+      "wort": "Cookie",
+      "anfangsbuchstabe": "C"
+    },
+    {
+      "wort": "Donut",
+      "anfangsbuchstabe": "D"
+    },
+    {
+      "wort": "Dragee",
+      "anfangsbuchstabe": "D"
+    },
+    {
+      "wort": "Eis",
+      "anfangsbuchstabe": "E"
+    },
+    {
+      "wort": "Erdnuss",
+      "anfangsbuchstabe": "E"
+    },
+    {
+      "wort": "Fudge",
+      "anfangsbuchstabe": "F"
+    },
+    {
+      "wort": "Ferrero",
+      "anfangsbuchstabe": "F"
+    },
+    {
+      "wort": "Gummibärchen",
+      "anfangsbuchstabe": "G"
+    },
+    {
+      "wort": "Gebäck",
+      "anfangsbuchstabe": "G"
+    },
+    {
+      "wort": "Geleebanane",
+      "anfangsbuchstabe": "G"
+    },
+    {
+      "wort": "Haribo",
+      "anfangsbuchstabe": "H"
+    },
+    {
+      "wort": "Honig",
+      "anfangsbuchstabe": "H"
+    },
+    {
+      "wort": "Keks",
+      "anfangsbuchstabe": "K"
+    },
+    {
+      "wort": "Karamell",
+      "anfangsbuchstabe": "K"
+    },
+    {
+      "wort": "Kaugummi",
+      "anfangsbuchstabe": "K"
+    },
+    {
+      "wort": "Kekse",
+      "anfangsbuchstabe": "K"
+    },
+    {
+      "wort": "Kuchen",
+      "anfangsbuchstabe": "K"
+    },
+    {
+      "wort": "Lakritz",
+      "anfangsbuchstabe": "L"
+    },
+    {
+      "wort": "Lutscher",
+      "anfangsbuchstabe": "L"
+    },
+    {
+      "wort": "Lebkuchen",
+      "anfangsbuchstabe": "L"
+    },
+    {
+      "wort": "Lolli",
+      "anfangsbuchstabe": "L"
+    },
+    {
+      "wort": "Marzipan",
+      "anfangsbuchstabe": "M"
+    },
+    {
+      "wort": "Marshmallow",
+      "anfangsbuchstabe": "M"
+    },
+    {
+      "wort": "Muffin",
+      "anfangsbuchstabe": "M"
+    },
+    {
+      "wort": "Milka",
+      "anfangsbuchstabe": "M"
+    },
+    {
+      "wort": "Mars",
+      "anfangsbuchstabe": "M"
+    },
+    {
+      "wort": "Mandel",
+      "anfangsbuchstabe": "M"
+    },
+    {
+      "wort": "Nougat",
+      "anfangsbuchstabe": "N"
+    },
+    {
+      "wort": "Nutella",
+      "anfangsbuchstabe": "N"
+    },
+    {
+      "wort": "Nuss",
+      "anfangsbuchstabe": "N"
+    },
+    {
+      "wort": "Oreo",
+      "anfangsbuchstabe": "O"
+    },
+    {
+      "wort": "Praline",
+      "anfangsbuchstabe": "P"
+    },
+    {
+      "wort": "Popcorn",
+      "anfangsbuchstabe": "P"
+    },
+    {
+      "wort": "Pudding",
+      "anfangsbuchstabe": "P"
+    },
+    {
+      "wort": "Pralinen",
+      "anfangsbuchstabe": "P"
+    },
+    {
+      "wort": "Riegel",
+      "anfangsbuchstabe": "R"
+    },
+    {
+      "wort": "Schokolade",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "Snickers",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "Stollen",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "Smarties",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "Sahne",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "Toffee",
+      "anfangsbuchstabe": "T"
+    },
+    {
+      "wort": "Trüffel",
+      "anfangsbuchstabe": "T"
+    },
+    {
+      "wort": "Twix",
+      "anfangsbuchstabe": "T"
+    },
+    {
+      "wort": "Toblerone",
+      "anfangsbuchstabe": "T"
+    },
+    {
+      "wort": "Torte",
+      "anfangsbuchstabe": "T"
+    },
+    {
+      "wort": "Waffel",
+      "anfangsbuchstabe": "W"
+    },
+    {
+      "wort": "Weingummi",
+      "anfangsbuchstabe": "W"
+    },
+    {
+      "wort": "Zuckerwatte",
+      "anfangsbuchstabe": "Z"
+    },
+    {
+      "wort": "Zimtstern",
+      "anfangsbuchstabe": "Z"
+    }
+  ]
+}

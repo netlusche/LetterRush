@@ -1,0 +1,877 @@
+{
+  "kategorie": "Promis (Nachname)",
+  "eintraege": [
+    {
+      "wort": "Adele",
+      "anfangsbuchstabe": "A"
+    },
+    {
+      "wort": "Affleck",
+      "anfangsbuchstabe": "A"
+    },
+    {
+      "wort": "Aniston",
+      "anfangsbuchstabe": "A"
+    },
+    {
+      "wort": "Armstrong",
+      "anfangsbuchstabe": "A"
+    },
+    {
+      "wort": "Anderson",
+      "anfangsbuchstabe": "A"
+    },
+    {
+      "wort": "Banderas",
+      "anfangsbuchstabe": "B"
+    },
+    {
+      "wort": "Beckham",
+      "anfangsbuchstabe": "B"
+    },
+    {
+      "wort": "Bullock",
+      "anfangsbuchstabe": "B"
+    },
+    {
+      "wort": "Bowie",
+      "anfangsbuchstabe": "B"
+    },
+    {
+      "wort": "Brad",
+      "anfangsbuchstabe": "B"
+    },
+    {
+      "wort": "Bezos",
+      "anfangsbuchstabe": "B"
+    },
+    {
+      "wort": "Clooney",
+      "anfangsbuchstabe": "C"
+    },
+    {
+      "wort": "Cruise",
+      "anfangsbuchstabe": "C"
+    },
+    {
+      "wort": "Costner",
+      "anfangsbuchstabe": "C"
+    },
+    {
+      "wort": "Cumberbatch",
+      "anfangsbuchstabe": "C"
+    },
+    {
+      "wort": "Chaplin",
+      "anfangsbuchstabe": "C"
+    },
+    {
+      "wort": "DiCaprio",
+      "anfangsbuchstabe": "D"
+    },
+    {
+      "wort": "Damon",
+      "anfangsbuchstabe": "D"
+    },
+    {
+      "wort": "Depp",
+      "anfangsbuchstabe": "D"
+    },
+    {
+      "wort": "Diaz",
+      "anfangsbuchstabe": "D"
+    },
+    {
+      "wort": "Dench",
+      "anfangsbuchstabe": "D"
+    },
+    {
+      "wort": "Eastwood",
+      "anfangsbuchstabe": "E"
+    },
+    {
+      "wort": "Efron",
+      "anfangsbuchstabe": "E"
+    },
+    {
+      "wort": "Einstein",
+      "anfangsbuchstabe": "E"
+    },
+    {
+      "wort": "Eminem",
+      "anfangsbuchstabe": "E"
+    },
+    {
+      "wort": "Ferrell",
+      "anfangsbuchstabe": "F"
+    },
+    {
+      "wort": "Firth",
+      "anfangsbuchstabe": "F"
+    },
+    {
+      "wort": "Ford",
+      "anfangsbuchstabe": "F"
+    },
+    {
+      "wort": "Fox",
+      "anfangsbuchstabe": "F"
+    },
+    {
+      "wort": "Freeman",
+      "anfangsbuchstabe": "F"
+    },
+    {
+      "wort": "Gaga",
+      "anfangsbuchstabe": "G"
+    },
+    {
+      "wort": "Gates",
+      "anfangsbuchstabe": "G"
+    },
+    {
+      "wort": "Gosling",
+      "anfangsbuchstabe": "G"
+    },
+    {
+      "wort": "Gomez",
+      "anfangsbuchstabe": "G"
+    },
+    {
+      "wort": "Garbo",
+      "anfangsbuchstabe": "G"
+    },
+    {
+      "wort": "Hanks",
+      "anfangsbuchstabe": "H"
+    },
+    {
+      "wort": "Hardy",
+      "anfangsbuchstabe": "H"
+    },
+    {
+      "wort": "Hathaway",
+      "anfangsbuchstabe": "H"
+    },
+    {
+      "wort": "Hepburn",
+      "anfangsbuchstabe": "H"
+    },
+    {
+      "wort": "Hawking",
+      "anfangsbuchstabe": "H"
+    },
+    {
+      "wort": "Hopkins",
+      "anfangsbuchstabe": "H"
+    },
+    {
+      "wort": "Iglesias",
+      "anfangsbuchstabe": "I"
+    },
+    {
+      "wort": "Idris",
+      "anfangsbuchstabe": "I"
+    },
+    {
+      "wort": "Jackson",
+      "anfangsbuchstabe": "J"
+    },
+    {
+      "wort": "Jolie",
+      "anfangsbuchstabe": "J"
+    },
+    {
+      "wort": "Johansson",
+      "anfangsbuchstabe": "J"
+    },
+    {
+      "wort": "Jordan",
+      "anfangsbuchstabe": "J"
+    },
+    {
+      "wort": "Jobs",
+      "anfangsbuchstabe": "J"
+    },
+    {
+      "wort": "Kidman",
+      "anfangsbuchstabe": "K"
+    },
+    {
+      "wort": "Kunis",
+      "anfangsbuchstabe": "K"
+    },
+    {
+      "wort": "Klum",
+      "anfangsbuchstabe": "K"
+    },
+    {
+      "wort": "Keaton",
+      "anfangsbuchstabe": "K"
+    },
+    {
+      "wort": "Kennedy",
+      "anfangsbuchstabe": "K"
+    },
+    {
+      "wort": "Lawrence",
+      "anfangsbuchstabe": "L"
+    },
+    {
+      "wort": "Lopez",
+      "anfangsbuchstabe": "L"
+    },
+    {
+      "wort": "Lincoln",
+      "anfangsbuchstabe": "L"
+    },
+    {
+      "wort": "Lennon",
+      "anfangsbuchstabe": "L"
+    },
+    {
+      "wort": "Levine",
+      "anfangsbuchstabe": "L"
+    },
+    {
+      "wort": "Madonna",
+      "anfangsbuchstabe": "M"
+    },
+    {
+      "wort": "Mandela",
+      "anfangsbuchstabe": "M"
+    },
+    {
+      "wort": "McGregor",
+      "anfangsbuchstabe": "M"
+    },
+    {
+      "wort": "Murphy",
+      "anfangsbuchstabe": "M"
+    },
+    {
+      "wort": "Musk",
+      "anfangsbuchstabe": "M"
+    },
+    {
+      "wort": "Murray",
+      "anfangsbuchstabe": "M"
+    },
+    {
+      "wort": "Newton",
+      "anfangsbuchstabe": "N"
+    },
+    {
+      "wort": "Nolan",
+      "anfangsbuchstabe": "N"
+    },
+    {
+      "wort": "Neeson",
+      "anfangsbuchstabe": "N"
+    },
+    {
+      "wort": "Nadal",
+      "anfangsbuchstabe": "N"
+    },
+    {
+      "wort": "Obama",
+      "anfangsbuchstabe": "O"
+    },
+    {
+      "wort": "Oldman",
+      "anfangsbuchstabe": "O"
+    },
+    {
+      "wort": "Owen",
+      "anfangsbuchstabe": "O"
+    },
+    {
+      "wort": "Osbourne",
+      "anfangsbuchstabe": "O"
+    },
+    {
+      "wort": "Pacino",
+      "anfangsbuchstabe": "P"
+    },
+    {
+      "wort": "Pattinson",
+      "anfangsbuchstabe": "P"
+    },
+    {
+      "wort": "Pitt",
+      "anfangsbuchstabe": "P"
+    },
+    {
+      "wort": "Portman",
+      "anfangsbuchstabe": "P"
+    },
+    {
+      "wort": "Presley",
+      "anfangsbuchstabe": "P"
+    },
+    {
+      "wort": "Picasso",
+      "anfangsbuchstabe": "P"
+    },
+    {
+      "wort": "Queen Latifah",
+      "anfangsbuchstabe": "Q"
+    },
+    {
+      "wort": "Roberts",
+      "anfangsbuchstabe": "R"
+    },
+    {
+      "wort": "Reeves",
+      "anfangsbuchstabe": "R"
+    },
+    {
+      "wort": "Ronaldo",
+      "anfangsbuchstabe": "R"
+    },
+    {
+      "wort": "Rihanna",
+      "anfangsbuchstabe": "R"
+    },
+    {
+      "wort": "Reagan",
+      "anfangsbuchstabe": "R"
+    },
+    {
+      "wort": "Schweiger",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "Scorsese",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "Smith",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "Spielberg",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "Stallone",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "Streep",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "Swift",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "Tarantino",
+      "anfangsbuchstabe": "T"
+    },
+    {
+      "wort": "Theron",
+      "anfangsbuchstabe": "T"
+    },
+    {
+      "wort": "Travolta",
+      "anfangsbuchstabe": "T"
+    },
+    {
+      "wort": "Timberlake",
+      "anfangsbuchstabe": "T"
+    },
+    {
+      "wort": "Tesla",
+      "anfangsbuchstabe": "T"
+    },
+    {
+      "wort": "Underwood",
+      "anfangsbuchstabe": "U"
+    },
+    {
+      "wort": "Ullmann",
+      "anfangsbuchstabe": "U"
+    },
+    {
+      "wort": "Vergara",
+      "anfangsbuchstabe": "V"
+    },
+    {
+      "wort": "Vega",
+      "anfangsbuchstabe": "V"
+    },
+    {
+      "wort": "Vader",
+      "anfangsbuchstabe": "V"
+    },
+    {
+      "wort": "Washington",
+      "anfangsbuchstabe": "W"
+    },
+    {
+      "wort": "Watson",
+      "anfangsbuchstabe": "W"
+    },
+    {
+      "wort": "Winslet",
+      "anfangsbuchstabe": "W"
+    },
+    {
+      "wort": "Williams",
+      "anfangsbuchstabe": "W"
+    },
+    {
+      "wort": "Wilson",
+      "anfangsbuchstabe": "W"
+    },
+    {
+      "wort": "Zellweger",
+      "anfangsbuchstabe": "Z"
+    },
+    {
+      "wort": "Zuckerberg",
+      "anfangsbuchstabe": "Z"
+    },
+    {
+      "wort": "Zidane",
+      "anfangsbuchstabe": "Z"
+    },
+    {
+      "wort": "Agassi",
+      "anfangsbuchstabe": "A"
+    },
+    {
+      "wort": "Ali",
+      "anfangsbuchstabe": "A"
+    },
+    {
+      "wort": "Allen",
+      "anfangsbuchstabe": "A"
+    },
+    {
+      "wort": "Bach",
+      "anfangsbuchstabe": "B"
+    },
+    {
+      "wort": "Baker",
+      "anfangsbuchstabe": "B"
+    },
+    {
+      "wort": "Ballack",
+      "anfangsbuchstabe": "B"
+    },
+    {
+      "wort": "Bardem",
+      "anfangsbuchstabe": "B"
+    },
+    {
+      "wort": "Beckenbauer",
+      "anfangsbuchstabe": "B"
+    },
+    {
+      "wort": "Brando",
+      "anfangsbuchstabe": "B"
+    },
+    {
+      "wort": "Bündchen",
+      "anfangsbuchstabe": "B"
+    },
+    {
+      "wort": "Biden",
+      "anfangsbuchstabe": "B"
+    },
+    {
+      "wort": "Cage",
+      "anfangsbuchstabe": "C"
+    },
+    {
+      "wort": "Carrey",
+      "anfangsbuchstabe": "C"
+    },
+    {
+      "wort": "Cavill",
+      "anfangsbuchstabe": "C"
+    },
+    {
+      "wort": "Churchill",
+      "anfangsbuchstabe": "C"
+    },
+    {
+      "wort": "Clinton",
+      "anfangsbuchstabe": "C"
+    },
+    {
+      "wort": "Connery",
+      "anfangsbuchstabe": "C"
+    },
+    {
+      "wort": "Cooper",
+      "anfangsbuchstabe": "C"
+    },
+    {
+      "wort": "Cruz",
+      "anfangsbuchstabe": "C"
+    },
+    {
+      "wort": "Dali",
+      "anfangsbuchstabe": "D"
+    },
+    {
+      "wort": "Dietrich",
+      "anfangsbuchstabe": "D"
+    },
+    {
+      "wort": "Douglas",
+      "anfangsbuchstabe": "D"
+    },
+    {
+      "wort": "Dujardin",
+      "anfangsbuchstabe": "D"
+    },
+    {
+      "wort": "Edison",
+      "anfangsbuchstabe": "E"
+    },
+    {
+      "wort": "Elba",
+      "anfangsbuchstabe": "E"
+    },
+    {
+      "wort": "Escobar",
+      "anfangsbuchstabe": "E"
+    },
+    {
+      "wort": "Federer",
+      "anfangsbuchstabe": "F"
+    },
+    {
+      "wort": "Fischer",
+      "anfangsbuchstabe": "F"
+    },
+    {
+      "wort": "Fonda",
+      "anfangsbuchstabe": "F"
+    },
+    {
+      "wort": "Foster",
+      "anfangsbuchstabe": "F"
+    },
+    {
+      "wort": "Franklin",
+      "anfangsbuchstabe": "F"
+    },
+    {
+      "wort": "Freud",
+      "anfangsbuchstabe": "F"
+    },
+    {
+      "wort": "Garland",
+      "anfangsbuchstabe": "G"
+    },
+    {
+      "wort": "Gable",
+      "anfangsbuchstabe": "G"
+    },
+    {
+      "wort": "Gandhi",
+      "anfangsbuchstabe": "G"
+    },
+    {
+      "wort": "Grant",
+      "anfangsbuchstabe": "G"
+    },
+    {
+      "wort": "Gyllenhaal",
+      "anfangsbuchstabe": "G"
+    },
+    {
+      "wort": "Hamilton",
+      "anfangsbuchstabe": "H"
+    },
+    {
+      "wort": "Harrison",
+      "anfangsbuchstabe": "H"
+    },
+    {
+      "wort": "Hemingway",
+      "anfangsbuchstabe": "H"
+    },
+    {
+      "wort": "Hendrix",
+      "anfangsbuchstabe": "H"
+    },
+    {
+      "wort": "Hitchcock",
+      "anfangsbuchstabe": "H"
+    },
+    {
+      "wort": "Hoffman",
+      "anfangsbuchstabe": "H"
+    },
+    {
+      "wort": "Hudson",
+      "anfangsbuchstabe": "H"
+    },
+    {
+      "wort": "Inarritu",
+      "anfangsbuchstabe": "I"
+    },
+    {
+      "wort": "Jackman",
+      "anfangsbuchstabe": "J"
+    },
+    {
+      "wort": "Jagger",
+      "anfangsbuchstabe": "J"
+    },
+    {
+      "wort": "Jenner",
+      "anfangsbuchstabe": "J"
+    },
+    {
+      "wort": "Jovovich",
+      "anfangsbuchstabe": "J"
+    },
+    {
+      "wort": "Kahn",
+      "anfangsbuchstabe": "K"
+    },
+    {
+      "wort": "Keitel",
+      "anfangsbuchstabe": "K"
+    },
+    {
+      "wort": "Kelly",
+      "anfangsbuchstabe": "K"
+    },
+    {
+      "wort": "King",
+      "anfangsbuchstabe": "K"
+    },
+    {
+      "wort": "Kingsley",
+      "anfangsbuchstabe": "K"
+    },
+    {
+      "wort": "Klitschko",
+      "anfangsbuchstabe": "K"
+    },
+    {
+      "wort": "Knightley",
+      "anfangsbuchstabe": "K"
+    },
+    {
+      "wort": "Lagerfeld",
+      "anfangsbuchstabe": "L"
+    },
+    {
+      "wort": "Lange",
+      "anfangsbuchstabe": "L"
+    },
+    {
+      "wort": "Lavigne",
+      "anfangsbuchstabe": "L"
+    },
+    {
+      "wort": "Lewis",
+      "anfangsbuchstabe": "L"
+    },
+    {
+      "wort": "Lohan",
+      "anfangsbuchstabe": "L"
+    },
+    {
+      "wort": "Macron",
+      "anfangsbuchstabe": "M"
+    },
+    {
+      "wort": "Maradona",
+      "anfangsbuchstabe": "M"
+    },
+    {
+      "wort": "Markle",
+      "anfangsbuchstabe": "M"
+    },
+    {
+      "wort": "Merkel",
+      "anfangsbuchstabe": "M"
+    },
+    {
+      "wort": "Messi",
+      "anfangsbuchstabe": "M"
+    },
+    {
+      "wort": "Monroe",
+      "anfangsbuchstabe": "M"
+    },
+    {
+      "wort": "Moore",
+      "anfangsbuchstabe": "M"
+    },
+    {
+      "wort": "Mozart",
+      "anfangsbuchstabe": "M"
+    },
+    {
+      "wort": "Navratilova",
+      "anfangsbuchstabe": "N"
+    },
+    {
+      "wort": "Newman",
+      "anfangsbuchstabe": "N"
+    },
+    {
+      "wort": "Nietzsche",
+      "anfangsbuchstabe": "N"
+    },
+    {
+      "wort": "Nixon",
+      "anfangsbuchstabe": "N"
+    },
+    {
+      "wort": "Norris",
+      "anfangsbuchstabe": "N"
+    },
+    {
+      "wort": "Onassis",
+      "anfangsbuchstabe": "O"
+    },
+    {
+      "wort": "Ono",
+      "anfangsbuchstabe": "O"
+    },
+    {
+      "wort": "Orwell",
+      "anfangsbuchstabe": "O"
+    },
+    {
+      "wort": "Pelé",
+      "anfangsbuchstabe": "P"
+    },
+    {
+      "wort": "Pratt",
+      "anfangsbuchstabe": "P"
+    },
+    {
+      "wort": "Putin",
+      "anfangsbuchstabe": "P"
+    },
+    {
+      "wort": "Quaid",
+      "anfangsbuchstabe": "Q"
+    },
+    {
+      "wort": "Redford",
+      "anfangsbuchstabe": "R"
+    },
+    {
+      "wort": "Rembrandt",
+      "anfangsbuchstabe": "R"
+    },
+    {
+      "wort": "Rowling",
+      "anfangsbuchstabe": "R"
+    },
+    {
+      "wort": "Ruffalo",
+      "anfangsbuchstabe": "R"
+    },
+    {
+      "wort": "Rushdie",
+      "anfangsbuchstabe": "R"
+    },
+    {
+      "wort": "Schumacher",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "Schwarzenegger",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "Shakespeare",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "Spacey",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "Stewart",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "Stone",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "Streisand",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "Thatcher",
+      "anfangsbuchstabe": "T"
+    },
+    {
+      "wort": "Thunberg",
+      "anfangsbuchstabe": "T"
+    },
+    {
+      "wort": "Tolkien",
+      "anfangsbuchstabe": "T"
+    },
+    {
+      "wort": "Trump",
+      "anfangsbuchstabe": "T"
+    },
+    {
+      "wort": "Turner",
+      "anfangsbuchstabe": "T"
+    },
+    {
+      "wort": "Tyson",
+      "anfangsbuchstabe": "T"
+    },
+    {
+      "wort": "Ustinov",
+      "anfangsbuchstabe": "U"
+    },
+    {
+      "wort": "Voltaire",
+      "anfangsbuchstabe": "V"
+    },
+    {
+      "wort": "Wahlberg",
+      "anfangsbuchstabe": "W"
+    },
+    {
+      "wort": "Wayne",
+      "anfangsbuchstabe": "W"
+    },
+    {
+      "wort": "Weisz",
+      "anfangsbuchstabe": "W"
+    },
+    {
+      "wort": "Welles",
+      "anfangsbuchstabe": "W"
+    },
+    {
+      "wort": "Winfrey",
+      "anfangsbuchstabe": "W"
+    },
+    {
+      "wort": "Witherspoon",
+      "anfangsbuchstabe": "W"
+    },
+    {
+      "wort": "Yousafzai",
+      "anfangsbuchstabe": "Y"
+    },
+    {
+      "wort": "Zappa",
+      "anfangsbuchstabe": "Z"
+    }
+  ]
+}

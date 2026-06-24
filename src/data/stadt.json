@@ -1,0 +1,1169 @@
+{
+  "kategorie": "Stadt",
+  "eintraege": [
+    {
+      "wort": "Aachen",
+      "anfangsbuchstabe": "A"
+    },
+    {
+      "wort": "Amsterdam",
+      "anfangsbuchstabe": "A"
+    },
+    {
+      "wort": "Augsburg",
+      "anfangsbuchstabe": "A"
+    },
+    {
+      "wort": "Ankara",
+      "anfangsbuchstabe": "A"
+    },
+    {
+      "wort": "Athen",
+      "anfangsbuchstabe": "A"
+    },
+    {
+      "wort": "Atlanta",
+      "anfangsbuchstabe": "A"
+    },
+    {
+      "wort": "Antwerpen",
+      "anfangsbuchstabe": "A"
+    },
+    {
+      "wort": "Aarhus",
+      "anfangsbuchstabe": "A"
+    },
+    {
+      "wort": "Alicante",
+      "anfangsbuchstabe": "A"
+    },
+    {
+      "wort": "Auckland",
+      "anfangsbuchstabe": "A"
+    },
+    {
+      "wort": "Berlin",
+      "anfangsbuchstabe": "B"
+    },
+    {
+      "wort": "Bremen",
+      "anfangsbuchstabe": "B"
+    },
+    {
+      "wort": "Bonn",
+      "anfangsbuchstabe": "B"
+    },
+    {
+      "wort": "Barcelona",
+      "anfangsbuchstabe": "B"
+    },
+    {
+      "wort": "Budapest",
+      "anfangsbuchstabe": "B"
+    },
+    {
+      "wort": "Bangkok",
+      "anfangsbuchstabe": "B"
+    },
+    {
+      "wort": "Brüssel",
+      "anfangsbuchstabe": "B"
+    },
+    {
+      "wort": "Boston",
+      "anfangsbuchstabe": "B"
+    },
+    {
+      "wort": "Bilbao",
+      "anfangsbuchstabe": "B"
+    },
+    {
+      "wort": "Bochum",
+      "anfangsbuchstabe": "B"
+    },
+    {
+      "wort": "Bielefeld",
+      "anfangsbuchstabe": "B"
+    },
+    {
+      "wort": "Brügge",
+      "anfangsbuchstabe": "B"
+    },
+    {
+      "wort": "Birmingham",
+      "anfangsbuchstabe": "B"
+    },
+    {
+      "wort": "Bordeaux",
+      "anfangsbuchstabe": "B"
+    },
+    {
+      "wort": "Brisbane",
+      "anfangsbuchstabe": "B"
+    },
+    {
+      "wort": "Chemnitz",
+      "anfangsbuchstabe": "C"
+    },
+    {
+      "wort": "Chicago",
+      "anfangsbuchstabe": "C"
+    },
+    {
+      "wort": "Cottbus",
+      "anfangsbuchstabe": "C"
+    },
+    {
+      "wort": "Cardiff",
+      "anfangsbuchstabe": "C"
+    },
+    {
+      "wort": "Coventry",
+      "anfangsbuchstabe": "C"
+    },
+    {
+      "wort": "Catania",
+      "anfangsbuchstabe": "C"
+    },
+    {
+      "wort": "Charlotte",
+      "anfangsbuchstabe": "C"
+    },
+    {
+      "wort": "Cleveland",
+      "anfangsbuchstabe": "C"
+    },
+    {
+      "wort": "Cannes",
+      "anfangsbuchstabe": "C"
+    },
+    {
+      "wort": "Dresden",
+      "anfangsbuchstabe": "D"
+    },
+    {
+      "wort": "Dortmund",
+      "anfangsbuchstabe": "D"
+    },
+    {
+      "wort": "Dublin",
+      "anfangsbuchstabe": "D"
+    },
+    {
+      "wort": "Dubai",
+      "anfangsbuchstabe": "D"
+    },
+    {
+      "wort": "Düsseldorf",
+      "anfangsbuchstabe": "D"
+    },
+    {
+      "wort": "Detroit",
+      "anfangsbuchstabe": "D"
+    },
+    {
+      "wort": "Delhi",
+      "anfangsbuchstabe": "D"
+    },
+    {
+      "wort": "Damaskus",
+      "anfangsbuchstabe": "D"
+    },
+    {
+      "wort": "Dakar",
+      "anfangsbuchstabe": "D"
+    },
+    {
+      "wort": "Dallas",
+      "anfangsbuchstabe": "D"
+    },
+    {
+      "wort": "Dover",
+      "anfangsbuchstabe": "D"
+    },
+    {
+      "wort": "Essen",
+      "anfangsbuchstabe": "E"
+    },
+    {
+      "wort": "Erfurt",
+      "anfangsbuchstabe": "E"
+    },
+    {
+      "wort": "Edinburgh",
+      "anfangsbuchstabe": "E"
+    },
+    {
+      "wort": "Eindhoven",
+      "anfangsbuchstabe": "E"
+    },
+    {
+      "wort": "Erlangen",
+      "anfangsbuchstabe": "E"
+    },
+    {
+      "wort": "Exeter",
+      "anfangsbuchstabe": "E"
+    },
+    {
+      "wort": "Frankfurt",
+      "anfangsbuchstabe": "F"
+    },
+    {
+      "wort": "Freiburg",
+      "anfangsbuchstabe": "F"
+    },
+    {
+      "wort": "Florenz",
+      "anfangsbuchstabe": "F"
+    },
+    {
+      "wort": "Faro",
+      "anfangsbuchstabe": "F"
+    },
+    {
+      "wort": "Fürth",
+      "anfangsbuchstabe": "F"
+    },
+    {
+      "wort": "Flensburg",
+      "anfangsbuchstabe": "F"
+    },
+    {
+      "wort": "Genf",
+      "anfangsbuchstabe": "G"
+    },
+    {
+      "wort": "Glasgow",
+      "anfangsbuchstabe": "G"
+    },
+    {
+      "wort": "Graz",
+      "anfangsbuchstabe": "G"
+    },
+    {
+      "wort": "Göteborg",
+      "anfangsbuchstabe": "G"
+    },
+    {
+      "wort": "Granada",
+      "anfangsbuchstabe": "G"
+    },
+    {
+      "wort": "Gera",
+      "anfangsbuchstabe": "G"
+    },
+    {
+      "wort": "Gent",
+      "anfangsbuchstabe": "G"
+    },
+    {
+      "wort": "Gdansk",
+      "anfangsbuchstabe": "G"
+    },
+    {
+      "wort": "Hamburg",
+      "anfangsbuchstabe": "H"
+    },
+    {
+      "wort": "Hannover",
+      "anfangsbuchstabe": "H"
+    },
+    {
+      "wort": "Helsinki",
+      "anfangsbuchstabe": "H"
+    },
+    {
+      "wort": "Houston",
+      "anfangsbuchstabe": "H"
+    },
+    {
+      "wort": "Halle",
+      "anfangsbuchstabe": "H"
+    },
+    {
+      "wort": "Heidelberg",
+      "anfangsbuchstabe": "H"
+    },
+    {
+      "wort": "Hongkong",
+      "anfangsbuchstabe": "H"
+    },
+    {
+      "wort": "Heilbronn",
+      "anfangsbuchstabe": "H"
+    },
+    {
+      "wort": "Innsbruck",
+      "anfangsbuchstabe": "I"
+    },
+    {
+      "wort": "Istanbul",
+      "anfangsbuchstabe": "I"
+    },
+    {
+      "wort": "Indianapolis",
+      "anfangsbuchstabe": "I"
+    },
+    {
+      "wort": "Ingolstadt",
+      "anfangsbuchstabe": "I"
+    },
+    {
+      "wort": "Jena",
+      "anfangsbuchstabe": "J"
+    },
+    {
+      "wort": "Jerusalem",
+      "anfangsbuchstabe": "J"
+    },
+    {
+      "wort": "Jakarta",
+      "anfangsbuchstabe": "J"
+    },
+    {
+      "wort": "Johannesburg",
+      "anfangsbuchstabe": "J"
+    },
+    {
+      "wort": "Köln",
+      "anfangsbuchstabe": "K"
+    },
+    {
+      "wort": "Kiel",
+      "anfangsbuchstabe": "K"
+    },
+    {
+      "wort": "Kassel",
+      "anfangsbuchstabe": "K"
+    },
+    {
+      "wort": "Karlsruhe",
+      "anfangsbuchstabe": "K"
+    },
+    {
+      "wort": "Kopenhagen",
+      "anfangsbuchstabe": "K"
+    },
+    {
+      "wort": "Kairo",
+      "anfangsbuchstabe": "K"
+    },
+    {
+      "wort": "Kyoto",
+      "anfangsbuchstabe": "K"
+    },
+    {
+      "wort": "Krakau",
+      "anfangsbuchstabe": "K"
+    },
+    {
+      "wort": "Konstanz",
+      "anfangsbuchstabe": "K"
+    },
+    {
+      "wort": "Kapstadt",
+      "anfangsbuchstabe": "K"
+    },
+    {
+      "wort": "Leipzig",
+      "anfangsbuchstabe": "L"
+    },
+    {
+      "wort": "London",
+      "anfangsbuchstabe": "L"
+    },
+    {
+      "wort": "Lissabon",
+      "anfangsbuchstabe": "L"
+    },
+    {
+      "wort": "Lyon",
+      "anfangsbuchstabe": "L"
+    },
+    {
+      "wort": "Lübeck",
+      "anfangsbuchstabe": "L"
+    },
+    {
+      "wort": "Linz",
+      "anfangsbuchstabe": "L"
+    },
+    {
+      "wort": "Lima",
+      "anfangsbuchstabe": "L"
+    },
+    {
+      "wort": "Liverpool",
+      "anfangsbuchstabe": "L"
+    },
+    {
+      "wort": "Lille",
+      "anfangsbuchstabe": "L"
+    },
+    {
+      "wort": "Luxemburg",
+      "anfangsbuchstabe": "L"
+    },
+    {
+      "wort": "München",
+      "anfangsbuchstabe": "M"
+    },
+    {
+      "wort": "Mainz",
+      "anfangsbuchstabe": "M"
+    },
+    {
+      "wort": "Mannheim",
+      "anfangsbuchstabe": "M"
+    },
+    {
+      "wort": "Madrid",
+      "anfangsbuchstabe": "M"
+    },
+    {
+      "wort": "Mailand",
+      "anfangsbuchstabe": "M"
+    },
+    {
+      "wort": "Moskau",
+      "anfangsbuchstabe": "M"
+    },
+    {
+      "wort": "Marseille",
+      "anfangsbuchstabe": "M"
+    },
+    {
+      "wort": "Manchester",
+      "anfangsbuchstabe": "M"
+    },
+    {
+      "wort": "Melbourne",
+      "anfangsbuchstabe": "M"
+    },
+    {
+      "wort": "Miami",
+      "anfangsbuchstabe": "M"
+    },
+    {
+      "wort": "Montreal",
+      "anfangsbuchstabe": "M"
+    },
+    {
+      "wort": "Nürnberg",
+      "anfangsbuchstabe": "N"
+    },
+    {
+      "wort": "Neapel",
+      "anfangsbuchstabe": "N"
+    },
+    {
+      "wort": "Nizza",
+      "anfangsbuchstabe": "N"
+    },
+    {
+      "wort": "Nantes",
+      "anfangsbuchstabe": "N"
+    },
+    {
+      "wort": "Nairobi",
+      "anfangsbuchstabe": "N"
+    },
+    {
+      "wort": "Nagoya",
+      "anfangsbuchstabe": "N"
+    },
+    {
+      "wort": "Nottingham",
+      "anfangsbuchstabe": "N"
+    },
+    {
+      "wort": "Osnabrück",
+      "anfangsbuchstabe": "O"
+    },
+    {
+      "wort": "Oslo",
+      "anfangsbuchstabe": "O"
+    },
+    {
+      "wort": "Ottawa",
+      "anfangsbuchstabe": "O"
+    },
+    {
+      "wort": "Oxford",
+      "anfangsbuchstabe": "O"
+    },
+    {
+      "wort": "Orlando",
+      "anfangsbuchstabe": "O"
+    },
+    {
+      "wort": "Osaka",
+      "anfangsbuchstabe": "O"
+    },
+    {
+      "wort": "Odense",
+      "anfangsbuchstabe": "O"
+    },
+    {
+      "wort": "Paris",
+      "anfangsbuchstabe": "P"
+    },
+    {
+      "wort": "Potsdam",
+      "anfangsbuchstabe": "P"
+    },
+    {
+      "wort": "Prag",
+      "anfangsbuchstabe": "P"
+    },
+    {
+      "wort": "Porto",
+      "anfangsbuchstabe": "P"
+    },
+    {
+      "wort": "Peking",
+      "anfangsbuchstabe": "P"
+    },
+    {
+      "wort": "Pisa",
+      "anfangsbuchstabe": "P"
+    },
+    {
+      "wort": "Portland",
+      "anfangsbuchstabe": "P"
+    },
+    {
+      "wort": "Palermo",
+      "anfangsbuchstabe": "P"
+    },
+    {
+      "wort": "Perth",
+      "anfangsbuchstabe": "P"
+    },
+    {
+      "wort": "Quito",
+      "anfangsbuchstabe": "Q"
+    },
+    {
+      "wort": "Rom",
+      "anfangsbuchstabe": "R"
+    },
+    {
+      "wort": "Rostock",
+      "anfangsbuchstabe": "R"
+    },
+    {
+      "wort": "Rotterdam",
+      "anfangsbuchstabe": "R"
+    },
+    {
+      "wort": "Riga",
+      "anfangsbuchstabe": "R"
+    },
+    {
+      "wort": "Reykjavik",
+      "anfangsbuchstabe": "R"
+    },
+    {
+      "wort": "Rennes",
+      "anfangsbuchstabe": "R"
+    },
+    {
+      "wort": "Regensburg",
+      "anfangsbuchstabe": "R"
+    },
+    {
+      "wort": "Stuttgart",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "Stockholm",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "Salzburg",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "Sevilla",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "Sydney",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "Seattle",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "Singapur",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "Sapporo",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "Strasbourg",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "Saarbrücken",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "Toulouse",
+      "anfangsbuchstabe": "T"
+    },
+    {
+      "wort": "Turin",
+      "anfangsbuchstabe": "T"
+    },
+    {
+      "wort": "Tokio",
+      "anfangsbuchstabe": "T"
+    },
+    {
+      "wort": "Toronto",
+      "anfangsbuchstabe": "T"
+    },
+    {
+      "wort": "Trier",
+      "anfangsbuchstabe": "T"
+    },
+    {
+      "wort": "Tampere",
+      "anfangsbuchstabe": "T"
+    },
+    {
+      "wort": "Tunis",
+      "anfangsbuchstabe": "T"
+    },
+    {
+      "wort": "Ulm",
+      "anfangsbuchstabe": "U"
+    },
+    {
+      "wort": "Uppsala",
+      "anfangsbuchstabe": "U"
+    },
+    {
+      "wort": "Utrecht",
+      "anfangsbuchstabe": "U"
+    },
+    {
+      "wort": "Udine",
+      "anfangsbuchstabe": "U"
+    },
+    {
+      "wort": "Venedig",
+      "anfangsbuchstabe": "V"
+    },
+    {
+      "wort": "Valencia",
+      "anfangsbuchstabe": "V"
+    },
+    {
+      "wort": "Vancouver",
+      "anfangsbuchstabe": "V"
+    },
+    {
+      "wort": "Verona",
+      "anfangsbuchstabe": "V"
+    },
+    {
+      "wort": "Vilnius",
+      "anfangsbuchstabe": "V"
+    },
+    {
+      "wort": "Wien",
+      "anfangsbuchstabe": "W"
+    },
+    {
+      "wort": "Warschau",
+      "anfangsbuchstabe": "W"
+    },
+    {
+      "wort": "Washington",
+      "anfangsbuchstabe": "W"
+    },
+    {
+      "wort": "Wuppertal",
+      "anfangsbuchstabe": "W"
+    },
+    {
+      "wort": "Wolfsburg",
+      "anfangsbuchstabe": "W"
+    },
+    {
+      "wort": "Würzburg",
+      "anfangsbuchstabe": "W"
+    },
+    {
+      "wort": "Wellington",
+      "anfangsbuchstabe": "W"
+    },
+    {
+      "wort": "Zürich",
+      "anfangsbuchstabe": "Z"
+    },
+    {
+      "wort": "Zagreb",
+      "anfangsbuchstabe": "Z"
+    },
+    {
+      "wort": "Zaragoza",
+      "anfangsbuchstabe": "Z"
+    },
+    {
+      "wort": "Zwickau",
+      "anfangsbuchstabe": "Z"
+    },
+    {
+      "wort": "Almería",
+      "anfangsbuchstabe": "A"
+    },
+    {
+      "wort": "Antalya",
+      "anfangsbuchstabe": "A"
+    },
+    {
+      "wort": "Astana",
+      "anfangsbuchstabe": "A"
+    },
+    {
+      "wort": "Accra",
+      "anfangsbuchstabe": "A"
+    },
+    {
+      "wort": "Adelaide",
+      "anfangsbuchstabe": "A"
+    },
+    {
+      "wort": "Algier",
+      "anfangsbuchstabe": "A"
+    },
+    {
+      "wort": "Abu Dhabi",
+      "anfangsbuchstabe": "A"
+    },
+    {
+      "wort": "Basel",
+      "anfangsbuchstabe": "B"
+    },
+    {
+      "wort": "Bergen",
+      "anfangsbuchstabe": "B"
+    },
+    {
+      "wort": "Bratislava",
+      "anfangsbuchstabe": "B"
+    },
+    {
+      "wort": "Bukarest",
+      "anfangsbuchstabe": "B"
+    },
+    {
+      "wort": "Belgrad",
+      "anfangsbuchstabe": "B"
+    },
+    {
+      "wort": "Beirut",
+      "anfangsbuchstabe": "B"
+    },
+    {
+      "wort": "Bogotá",
+      "anfangsbuchstabe": "B"
+    },
+    {
+      "wort": "Buenos Aires",
+      "anfangsbuchstabe": "B"
+    },
+    {
+      "wort": "Brno",
+      "anfangsbuchstabe": "B"
+    },
+    {
+      "wort": "Baku",
+      "anfangsbuchstabe": "B"
+    },
+    {
+      "wort": "Córdoba",
+      "anfangsbuchstabe": "C"
+    },
+    {
+      "wort": "Calgary",
+      "anfangsbuchstabe": "C"
+    },
+    {
+      "wort": "Canberra",
+      "anfangsbuchstabe": "C"
+    },
+    {
+      "wort": "Caracas",
+      "anfangsbuchstabe": "C"
+    },
+    {
+      "wort": "Casablanca",
+      "anfangsbuchstabe": "C"
+    },
+    {
+      "wort": "Cusco",
+      "anfangsbuchstabe": "C"
+    },
+    {
+      "wort": "Dijon",
+      "anfangsbuchstabe": "D"
+    },
+    {
+      "wort": "Darwin",
+      "anfangsbuchstabe": "D"
+    },
+    {
+      "wort": "Daegu",
+      "anfangsbuchstabe": "D"
+    },
+    {
+      "wort": "Davos",
+      "anfangsbuchstabe": "D"
+    },
+    {
+      "wort": "Dnipro",
+      "anfangsbuchstabe": "D"
+    },
+    {
+      "wort": "Eisenach",
+      "anfangsbuchstabe": "E"
+    },
+    {
+      "wort": "Enschede",
+      "anfangsbuchstabe": "E"
+    },
+    {
+      "wort": "El Paso",
+      "anfangsbuchstabe": "E"
+    },
+    {
+      "wort": "Esbjerg",
+      "anfangsbuchstabe": "E"
+    },
+    {
+      "wort": "Fortaleza",
+      "anfangsbuchstabe": "F"
+    },
+    {
+      "wort": "Fukuoka",
+      "anfangsbuchstabe": "F"
+    },
+    {
+      "wort": "Funchal",
+      "anfangsbuchstabe": "F"
+    },
+    {
+      "wort": "Grenoble",
+      "anfangsbuchstabe": "G"
+    },
+    {
+      "wort": "Groningen",
+      "anfangsbuchstabe": "G"
+    },
+    {
+      "wort": "Guadalajara",
+      "anfangsbuchstabe": "G"
+    },
+    {
+      "wort": "Guangzhou",
+      "anfangsbuchstabe": "G"
+    },
+    {
+      "wort": "Gizeh",
+      "anfangsbuchstabe": "G"
+    },
+    {
+      "wort": "Den Haag",
+      "anfangsbuchstabe": "D"
+    },
+    {
+      "wort": "Havanna",
+      "anfangsbuchstabe": "H"
+    },
+    {
+      "wort": "Hanoi",
+      "anfangsbuchstabe": "H"
+    },
+    {
+      "wort": "Hiroshima",
+      "anfangsbuchstabe": "H"
+    },
+    {
+      "wort": "Hobart",
+      "anfangsbuchstabe": "H"
+    },
+    {
+      "wort": "Ibiza",
+      "anfangsbuchstabe": "I"
+    },
+    {
+      "wort": "Izmir",
+      "anfangsbuchstabe": "I"
+    },
+    {
+      "wort": "Irkutsk",
+      "anfangsbuchstabe": "I"
+    },
+    {
+      "wort": "Jaipur",
+      "anfangsbuchstabe": "J"
+    },
+    {
+      "wort": "Jeddah",
+      "anfangsbuchstabe": "J"
+    },
+    {
+      "wort": "Jönköping",
+      "anfangsbuchstabe": "J"
+    },
+    {
+      "wort": "Kaunas",
+      "anfangsbuchstabe": "K"
+    },
+    {
+      "wort": "Kharkiv",
+      "anfangsbuchstabe": "K"
+    },
+    {
+      "wort": "Kuala Lumpur",
+      "anfangsbuchstabe": "K"
+    },
+    {
+      "wort": "Kunming",
+      "anfangsbuchstabe": "K"
+    },
+    {
+      "wort": "Kawasaki",
+      "anfangsbuchstabe": "K"
+    },
+    {
+      "wort": "Lausanne",
+      "anfangsbuchstabe": "L"
+    },
+    {
+      "wort": "Leeds",
+      "anfangsbuchstabe": "L"
+    },
+    {
+      "wort": "Ljubljana",
+      "anfangsbuchstabe": "L"
+    },
+    {
+      "wort": "Luzern",
+      "anfangsbuchstabe": "L"
+    },
+    {
+      "wort": "Las Palmas",
+      "anfangsbuchstabe": "L"
+    },
+    {
+      "wort": "Magdeburg",
+      "anfangsbuchstabe": "M"
+    },
+    {
+      "wort": "Malmö",
+      "anfangsbuchstabe": "M"
+    },
+    {
+      "wort": "Marrakesch",
+      "anfangsbuchstabe": "M"
+    },
+    {
+      "wort": "Minsk",
+      "anfangsbuchstabe": "M"
+    },
+    {
+      "wort": "Montevideo",
+      "anfangsbuchstabe": "M"
+    },
+    {
+      "wort": "Mumbai",
+      "anfangsbuchstabe": "M"
+    },
+    {
+      "wort": "Memphis",
+      "anfangsbuchstabe": "M"
+    },
+    {
+      "wort": "Newcastle",
+      "anfangsbuchstabe": "N"
+    },
+    {
+      "wort": "Nagasaki",
+      "anfangsbuchstabe": "N"
+    },
+    {
+      "wort": "Nashville",
+      "anfangsbuchstabe": "N"
+    },
+    {
+      "wort": "Narva",
+      "anfangsbuchstabe": "N"
+    },
+    {
+      "wort": "Odessa",
+      "anfangsbuchstabe": "O"
+    },
+    {
+      "wort": "Oberhausen",
+      "anfangsbuchstabe": "O"
+    },
+    {
+      "wort": "Oran",
+      "anfangsbuchstabe": "O"
+    },
+    {
+      "wort": "Pforzheim",
+      "anfangsbuchstabe": "P"
+    },
+    {
+      "wort": "Phoenix",
+      "anfangsbuchstabe": "P"
+    },
+    {
+      "wort": "Pittsburgh",
+      "anfangsbuchstabe": "P"
+    },
+    {
+      "wort": "Plovdiv",
+      "anfangsbuchstabe": "P"
+    },
+    {
+      "wort": "Pretoria",
+      "anfangsbuchstabe": "P"
+    },
+    {
+      "wort": "Pune",
+      "anfangsbuchstabe": "P"
+    },
+    {
+      "wort": "Recife",
+      "anfangsbuchstabe": "R"
+    },
+    {
+      "wort": "Riad",
+      "anfangsbuchstabe": "R"
+    },
+    {
+      "wort": "Rabat",
+      "anfangsbuchstabe": "R"
+    },
+    {
+      "wort": "Rijeka",
+      "anfangsbuchstabe": "R"
+    },
+    {
+      "wort": "Ravenna",
+      "anfangsbuchstabe": "R"
+    },
+    {
+      "wort": "Santiago",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "Shanghai",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "Sofia",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "Split",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "San Diego",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "Szeged",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "Surabaya",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "Taipeh",
+      "anfangsbuchstabe": "T"
+    },
+    {
+      "wort": "Tallinn",
+      "anfangsbuchstabe": "T"
+    },
+    {
+      "wort": "Tiflis",
+      "anfangsbuchstabe": "T"
+    },
+    {
+      "wort": "Tirana",
+      "anfangsbuchstabe": "T"
+    },
+    {
+      "wort": "Toledo",
+      "anfangsbuchstabe": "T"
+    },
+    {
+      "wort": "Tromsø",
+      "anfangsbuchstabe": "T"
+    },
+    {
+      "wort": "Ufa",
+      "anfangsbuchstabe": "U"
+    },
+    {
+      "wort": "Umeå",
+      "anfangsbuchstabe": "U"
+    },
+    {
+      "wort": "Valparaíso",
+      "anfangsbuchstabe": "V"
+    },
+    {
+      "wort": "Varna",
+      "anfangsbuchstabe": "V"
+    },
+    {
+      "wort": "Vigo",
+      "anfangsbuchstabe": "V"
+    },
+    {
+      "wort": "Vladivostok",
+      "anfangsbuchstabe": "V"
+    },
+    {
+      "wort": "Wismar",
+      "anfangsbuchstabe": "W"
+    },
+    {
+      "wort": "Winterthur",
+      "anfangsbuchstabe": "W"
+    },
+    {
+      "wort": "Wroclaw",
+      "anfangsbuchstabe": "W"
+    },
+    {
+      "wort": "Yokohama",
+      "anfangsbuchstabe": "Y"
+    },
+    {
+      "wort": "York",
+      "anfangsbuchstabe": "Y"
+    },
+    {
+      "wort": "Zhengzhou",
+      "anfangsbuchstabe": "Z"
+    }
+  ]
+}

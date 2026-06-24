@@ -1,0 +1,885 @@
+{
+  "kategorie": "Tier",
+  "eintraege": [
+    {
+      "wort": "Affe",
+      "anfangsbuchstabe": "A"
+    },
+    {
+      "wort": "Adler",
+      "anfangsbuchstabe": "A"
+    },
+    {
+      "wort": "Ameise",
+      "anfangsbuchstabe": "A"
+    },
+    {
+      "wort": "Antilope",
+      "anfangsbuchstabe": "A"
+    },
+    {
+      "wort": "Alpaka",
+      "anfangsbuchstabe": "A"
+    },
+    {
+      "wort": "Auerhahn",
+      "anfangsbuchstabe": "A"
+    },
+    {
+      "wort": "Axolotl",
+      "anfangsbuchstabe": "A"
+    },
+    {
+      "wort": "Bär",
+      "anfangsbuchstabe": "B"
+    },
+    {
+      "wort": "Biber",
+      "anfangsbuchstabe": "B"
+    },
+    {
+      "wort": "Büffel",
+      "anfangsbuchstabe": "B"
+    },
+    {
+      "wort": "Biene",
+      "anfangsbuchstabe": "B"
+    },
+    {
+      "wort": "Blauwal",
+      "anfangsbuchstabe": "B"
+    },
+    {
+      "wort": "Bussard",
+      "anfangsbuchstabe": "B"
+    },
+    {
+      "wort": "Buntspecht",
+      "anfangsbuchstabe": "B"
+    },
+    {
+      "wort": "Brachvogel",
+      "anfangsbuchstabe": "B"
+    },
+    {
+      "wort": "Chamäleon",
+      "anfangsbuchstabe": "C"
+    },
+    {
+      "wort": "Chinchilla",
+      "anfangsbuchstabe": "C"
+    },
+    {
+      "wort": "Cobra",
+      "anfangsbuchstabe": "C"
+    },
+    {
+      "wort": "Dachs",
+      "anfangsbuchstabe": "D"
+    },
+    {
+      "wort": "Delfin",
+      "anfangsbuchstabe": "D"
+    },
+    {
+      "wort": "Dromedar",
+      "anfangsbuchstabe": "D"
+    },
+    {
+      "wort": "Drossel",
+      "anfangsbuchstabe": "D"
+    },
+    {
+      "wort": "Eisbär",
+      "anfangsbuchstabe": "E"
+    },
+    {
+      "wort": "Elch",
+      "anfangsbuchstabe": "E"
+    },
+    {
+      "wort": "Elefant",
+      "anfangsbuchstabe": "E"
+    },
+    {
+      "wort": "Ente",
+      "anfangsbuchstabe": "E"
+    },
+    {
+      "wort": "Esel",
+      "anfangsbuchstabe": "E"
+    },
+    {
+      "wort": "Eule",
+      "anfangsbuchstabe": "E"
+    },
+    {
+      "wort": "Eichhörnchen",
+      "anfangsbuchstabe": "E"
+    },
+    {
+      "wort": "Eidechse",
+      "anfangsbuchstabe": "E"
+    },
+    {
+      "wort": "Fasan",
+      "anfangsbuchstabe": "F"
+    },
+    {
+      "wort": "Fledermaus",
+      "anfangsbuchstabe": "F"
+    },
+    {
+      "wort": "Fliege",
+      "anfangsbuchstabe": "F"
+    },
+    {
+      "wort": "Forelle",
+      "anfangsbuchstabe": "F"
+    },
+    {
+      "wort": "Frosch",
+      "anfangsbuchstabe": "F"
+    },
+    {
+      "wort": "Fuchs",
+      "anfangsbuchstabe": "F"
+    },
+    {
+      "wort": "Falke",
+      "anfangsbuchstabe": "F"
+    },
+    {
+      "wort": "Gans",
+      "anfangsbuchstabe": "G"
+    },
+    {
+      "wort": "Gazelle",
+      "anfangsbuchstabe": "G"
+    },
+    {
+      "wort": "Gecko",
+      "anfangsbuchstabe": "G"
+    },
+    {
+      "wort": "Giraffe",
+      "anfangsbuchstabe": "G"
+    },
+    {
+      "wort": "Gorilla",
+      "anfangsbuchstabe": "G"
+    },
+    {
+      "wort": "Grille",
+      "anfangsbuchstabe": "G"
+    },
+    {
+      "wort": "Gepard",
+      "anfangsbuchstabe": "G"
+    },
+    {
+      "wort": "Hai",
+      "anfangsbuchstabe": "H"
+    },
+    {
+      "wort": "Hamster",
+      "anfangsbuchstabe": "H"
+    },
+    {
+      "wort": "Hase",
+      "anfangsbuchstabe": "H"
+    },
+    {
+      "wort": "Hecht",
+      "anfangsbuchstabe": "H"
+    },
+    {
+      "wort": "Hirsch",
+      "anfangsbuchstabe": "H"
+    },
+    {
+      "wort": "Hummel",
+      "anfangsbuchstabe": "H"
+    },
+    {
+      "wort": "Hund",
+      "anfangsbuchstabe": "H"
+    },
+    {
+      "wort": "Huhn",
+      "anfangsbuchstabe": "H"
+    },
+    {
+      "wort": "Igel",
+      "anfangsbuchstabe": "I"
+    },
+    {
+      "wort": "Iltis",
+      "anfangsbuchstabe": "I"
+    },
+    {
+      "wort": "Ibis",
+      "anfangsbuchstabe": "I"
+    },
+    {
+      "wort": "Jaguar",
+      "anfangsbuchstabe": "J"
+    },
+    {
+      "wort": "Kaninchen",
+      "anfangsbuchstabe": "K"
+    },
+    {
+      "wort": "Kamel",
+      "anfangsbuchstabe": "K"
+    },
+    {
+      "wort": "Katze",
+      "anfangsbuchstabe": "K"
+    },
+    {
+      "wort": "Krokodil",
+      "anfangsbuchstabe": "K"
+    },
+    {
+      "wort": "Koala",
+      "anfangsbuchstabe": "K"
+    },
+    {
+      "wort": "Kojote",
+      "anfangsbuchstabe": "K"
+    },
+    {
+      "wort": "Kuh",
+      "anfangsbuchstabe": "K"
+    },
+    {
+      "wort": "Krähe",
+      "anfangsbuchstabe": "K"
+    },
+    {
+      "wort": "Karpfen",
+      "anfangsbuchstabe": "K"
+    },
+    {
+      "wort": "Lachs",
+      "anfangsbuchstabe": "L"
+    },
+    {
+      "wort": "Lama",
+      "anfangsbuchstabe": "L"
+    },
+    {
+      "wort": "Leopard",
+      "anfangsbuchstabe": "L"
+    },
+    {
+      "wort": "Libelle",
+      "anfangsbuchstabe": "L"
+    },
+    {
+      "wort": "Löwe",
+      "anfangsbuchstabe": "L"
+    },
+    {
+      "wort": "Luchs",
+      "anfangsbuchstabe": "L"
+    },
+    {
+      "wort": "Lerche",
+      "anfangsbuchstabe": "L"
+    },
+    {
+      "wort": "Maus",
+      "anfangsbuchstabe": "M"
+    },
+    {
+      "wort": "Marder",
+      "anfangsbuchstabe": "M"
+    },
+    {
+      "wort": "Murmeltier",
+      "anfangsbuchstabe": "M"
+    },
+    {
+      "wort": "Maulwurf",
+      "anfangsbuchstabe": "M"
+    },
+    {
+      "wort": "Makrele",
+      "anfangsbuchstabe": "M"
+    },
+    {
+      "wort": "Möwe",
+      "anfangsbuchstabe": "M"
+    },
+    {
+      "wort": "Molch",
+      "anfangsbuchstabe": "M"
+    },
+    {
+      "wort": "Nashorn",
+      "anfangsbuchstabe": "N"
+    },
+    {
+      "wort": "Natter",
+      "anfangsbuchstabe": "N"
+    },
+    {
+      "wort": "Nilpferd",
+      "anfangsbuchstabe": "N"
+    },
+    {
+      "wort": "Nerz",
+      "anfangsbuchstabe": "N"
+    },
+    {
+      "wort": "Ochse",
+      "anfangsbuchstabe": "O"
+    },
+    {
+      "wort": "Otter",
+      "anfangsbuchstabe": "O"
+    },
+    {
+      "wort": "Orang-Utan",
+      "anfangsbuchstabe": "O"
+    },
+    {
+      "wort": "Oktopus",
+      "anfangsbuchstabe": "O"
+    },
+    {
+      "wort": "Panther",
+      "anfangsbuchstabe": "P"
+    },
+    {
+      "wort": "Pony",
+      "anfangsbuchstabe": "P"
+    },
+    {
+      "wort": "Papagei",
+      "anfangsbuchstabe": "P"
+    },
+    {
+      "wort": "Puma",
+      "anfangsbuchstabe": "P"
+    },
+    {
+      "wort": "Pinguin",
+      "anfangsbuchstabe": "P"
+    },
+    {
+      "wort": "Pferd",
+      "anfangsbuchstabe": "P"
+    },
+    {
+      "wort": "Pelikan",
+      "anfangsbuchstabe": "P"
+    },
+    {
+      "wort": "Qualle",
+      "anfangsbuchstabe": "Q"
+    },
+    {
+      "wort": "Rabe",
+      "anfangsbuchstabe": "R"
+    },
+    {
+      "wort": "Ratte",
+      "anfangsbuchstabe": "R"
+    },
+    {
+      "wort": "Reh",
+      "anfangsbuchstabe": "R"
+    },
+    {
+      "wort": "Robbe",
+      "anfangsbuchstabe": "R"
+    },
+    {
+      "wort": "Rotkehlchen",
+      "anfangsbuchstabe": "R"
+    },
+    {
+      "wort": "Schaf",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "Schwein",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "Schlange",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "Seehund",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "Storch",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "Specht",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "Spinne",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "Salamander",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "Tiger",
+      "anfangsbuchstabe": "T"
+    },
+    {
+      "wort": "Taube",
+      "anfangsbuchstabe": "T"
+    },
+    {
+      "wort": "Tintenfisch",
+      "anfangsbuchstabe": "T"
+    },
+    {
+      "wort": "Tukan",
+      "anfangsbuchstabe": "T"
+    },
+    {
+      "wort": "Truthahn",
+      "anfangsbuchstabe": "T"
+    },
+    {
+      "wort": "Uhu",
+      "anfangsbuchstabe": "U"
+    },
+    {
+      "wort": "Unke",
+      "anfangsbuchstabe": "U"
+    },
+    {
+      "wort": "Wal",
+      "anfangsbuchstabe": "W"
+    },
+    {
+      "wort": "Vielfraß",
+      "anfangsbuchstabe": "V"
+    },
+    {
+      "wort": "Vogel",
+      "anfangsbuchstabe": "V"
+    },
+    {
+      "wort": "Viper",
+      "anfangsbuchstabe": "V"
+    },
+    {
+      "wort": "Wespe",
+      "anfangsbuchstabe": "W"
+    },
+    {
+      "wort": "Wiesel",
+      "anfangsbuchstabe": "W"
+    },
+    {
+      "wort": "Wolf",
+      "anfangsbuchstabe": "W"
+    },
+    {
+      "wort": "Waschbär",
+      "anfangsbuchstabe": "W"
+    },
+    {
+      "wort": "Wildschwein",
+      "anfangsbuchstabe": "W"
+    },
+    {
+      "wort": "Zebra",
+      "anfangsbuchstabe": "Z"
+    },
+    {
+      "wort": "Ziege",
+      "anfangsbuchstabe": "Z"
+    },
+    {
+      "wort": "Zander",
+      "anfangsbuchstabe": "Z"
+    },
+    {
+      "wort": "Aal",
+      "anfangsbuchstabe": "A"
+    },
+    {
+      "wort": "Albatros",
+      "anfangsbuchstabe": "A"
+    },
+    {
+      "wort": "Auster",
+      "anfangsbuchstabe": "A"
+    },
+    {
+      "wort": "Ara",
+      "anfangsbuchstabe": "A"
+    },
+    {
+      "wort": "Anakonda",
+      "anfangsbuchstabe": "A"
+    },
+    {
+      "wort": "Bachstelze",
+      "anfangsbuchstabe": "B"
+    },
+    {
+      "wort": "Buchfink",
+      "anfangsbuchstabe": "B"
+    },
+    {
+      "wort": "Brieftaube",
+      "anfangsbuchstabe": "B"
+    },
+    {
+      "wort": "Bulldogge",
+      "anfangsbuchstabe": "B"
+    },
+    {
+      "wort": "Bachforelle",
+      "anfangsbuchstabe": "B"
+    },
+    {
+      "wort": "Chihuahua",
+      "anfangsbuchstabe": "C"
+    },
+    {
+      "wort": "Dackel",
+      "anfangsbuchstabe": "D"
+    },
+    {
+      "wort": "Dohle",
+      "anfangsbuchstabe": "D"
+    },
+    {
+      "wort": "Dorsch",
+      "anfangsbuchstabe": "D"
+    },
+    {
+      "wort": "Distelfink",
+      "anfangsbuchstabe": "D"
+    },
+    {
+      "wort": "Eichelhäher",
+      "anfangsbuchstabe": "E"
+    },
+    {
+      "wort": "Eisvogel",
+      "anfangsbuchstabe": "E"
+    },
+    {
+      "wort": "Erdmännchen",
+      "anfangsbuchstabe": "E"
+    },
+    {
+      "wort": "Emu",
+      "anfangsbuchstabe": "E"
+    },
+    {
+      "wort": "Eber",
+      "anfangsbuchstabe": "E"
+    },
+    {
+      "wort": "Flamingo",
+      "anfangsbuchstabe": "F"
+    },
+    {
+      "wort": "Feldhase",
+      "anfangsbuchstabe": "F"
+    },
+    {
+      "wort": "Fink",
+      "anfangsbuchstabe": "F"
+    },
+    {
+      "wort": "Fohlen",
+      "anfangsbuchstabe": "F"
+    },
+    {
+      "wort": "Flusspferd",
+      "anfangsbuchstabe": "F"
+    },
+    {
+      "wort": "Goldfisch",
+      "anfangsbuchstabe": "G"
+    },
+    {
+      "wort": "Grasmücke",
+      "anfangsbuchstabe": "G"
+    },
+    {
+      "wort": "Gimpel",
+      "anfangsbuchstabe": "G"
+    },
+    {
+      "wort": "Gnu",
+      "anfangsbuchstabe": "G"
+    },
+    {
+      "wort": "Habicht",
+      "anfangsbuchstabe": "H"
+    },
+    {
+      "wort": "Hering",
+      "anfangsbuchstabe": "H"
+    },
+    {
+      "wort": "Heuschrecke",
+      "anfangsbuchstabe": "H"
+    },
+    {
+      "wort": "Hummer",
+      "anfangsbuchstabe": "H"
+    },
+    {
+      "wort": "Hyäne",
+      "anfangsbuchstabe": "H"
+    },
+    {
+      "wort": "Hornisse",
+      "anfangsbuchstabe": "H"
+    },
+    {
+      "wort": "Husky",
+      "anfangsbuchstabe": "H"
+    },
+    {
+      "wort": "Impala",
+      "anfangsbuchstabe": "I"
+    },
+    {
+      "wort": "Jako",
+      "anfangsbuchstabe": "J"
+    },
+    {
+      "wort": "Kabeljau",
+      "anfangsbuchstabe": "K"
+    },
+    {
+      "wort": "Kakadu",
+      "anfangsbuchstabe": "K"
+    },
+    {
+      "wort": "Kolibri",
+      "anfangsbuchstabe": "K"
+    },
+    {
+      "wort": "Kondor",
+      "anfangsbuchstabe": "K"
+    },
+    {
+      "wort": "Krebs",
+      "anfangsbuchstabe": "K"
+    },
+    {
+      "wort": "Kröte",
+      "anfangsbuchstabe": "K"
+    },
+    {
+      "wort": "Käfer",
+      "anfangsbuchstabe": "K"
+    },
+    {
+      "wort": "Kiebitz",
+      "anfangsbuchstabe": "K"
+    },
+    {
+      "wort": "Languste",
+      "anfangsbuchstabe": "L"
+    },
+    {
+      "wort": "Leguan",
+      "anfangsbuchstabe": "L"
+    },
+    {
+      "wort": "Lemming",
+      "anfangsbuchstabe": "L"
+    },
+    {
+      "wort": "Lurch",
+      "anfangsbuchstabe": "L"
+    },
+    {
+      "wort": "Laubfrosch",
+      "anfangsbuchstabe": "L"
+    },
+    {
+      "wort": "Mantarochen",
+      "anfangsbuchstabe": "M"
+    },
+    {
+      "wort": "Marienkäfer",
+      "anfangsbuchstabe": "M"
+    },
+    {
+      "wort": "Meise",
+      "anfangsbuchstabe": "M"
+    },
+    {
+      "wort": "Mufflon",
+      "anfangsbuchstabe": "M"
+    },
+    {
+      "wort": "Mücke",
+      "anfangsbuchstabe": "M"
+    },
+    {
+      "wort": "Muräne",
+      "anfangsbuchstabe": "M"
+    },
+    {
+      "wort": "Nachtigall",
+      "anfangsbuchstabe": "N"
+    },
+    {
+      "wort": "Narwal",
+      "anfangsbuchstabe": "N"
+    },
+    {
+      "wort": "Nacktschnecke",
+      "anfangsbuchstabe": "N"
+    },
+    {
+      "wort": "Ohrwurm",
+      "anfangsbuchstabe": "O"
+    },
+    {
+      "wort": "Orca",
+      "anfangsbuchstabe": "O"
+    },
+    {
+      "wort": "Ozelot",
+      "anfangsbuchstabe": "O"
+    },
+    {
+      "wort": "Pavian",
+      "anfangsbuchstabe": "P"
+    },
+    {
+      "wort": "Pfau",
+      "anfangsbuchstabe": "P"
+    },
+    {
+      "wort": "Python",
+      "anfangsbuchstabe": "P"
+    },
+    {
+      "wort": "Plattfisch",
+      "anfangsbuchstabe": "P"
+    },
+    {
+      "wort": "Quokka",
+      "anfangsbuchstabe": "Q"
+    },
+    {
+      "wort": "Rentier",
+      "anfangsbuchstabe": "R"
+    },
+    {
+      "wort": "Rochen",
+      "anfangsbuchstabe": "R"
+    },
+    {
+      "wort": "Regenwurm",
+      "anfangsbuchstabe": "R"
+    },
+    {
+      "wort": "Reiher",
+      "anfangsbuchstabe": "R"
+    },
+    {
+      "wort": "Schildkröte",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "Schnecke",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "Schwan",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "Seeadler",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "Seestern",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "Spatz",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "Star",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "Stier",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "Tapir",
+      "anfangsbuchstabe": "T"
+    },
+    {
+      "wort": "Tarantel",
+      "anfangsbuchstabe": "T"
+    },
+    {
+      "wort": "Thunfisch",
+      "anfangsbuchstabe": "T"
+    },
+    {
+      "wort": "Uakari",
+      "anfangsbuchstabe": "U"
+    },
+    {
+      "wort": "Vogelspinne",
+      "anfangsbuchstabe": "V"
+    },
+    {
+      "wort": "Wachtel",
+      "anfangsbuchstabe": "W"
+    },
+    {
+      "wort": "Waran",
+      "anfangsbuchstabe": "W"
+    },
+    {
+      "wort": "Widder",
+      "anfangsbuchstabe": "W"
+    },
+    {
+      "wort": "Wisent",
+      "anfangsbuchstabe": "W"
+    },
+    {
+      "wort": "Wombat",
+      "anfangsbuchstabe": "W"
+    },
+    {
+      "wort": "Zecke",
+      "anfangsbuchstabe": "Z"
+    },
+    {
+      "wort": "Ziesel",
+      "anfangsbuchstabe": "Z"
+    },
+    {
+      "wort": "Zikade",
+      "anfangsbuchstabe": "Z"
+    }
+  ]
+}

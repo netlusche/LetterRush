@@ -1,0 +1,413 @@
+{
+  "kategorie": "Chemische Elemente",
+  "eintraege": [
+    {
+      "wort": "Aluminium",
+      "anfangsbuchstabe": "A"
+    },
+    {
+      "wort": "Argon",
+      "anfangsbuchstabe": "A"
+    },
+    {
+      "wort": "Arsen",
+      "anfangsbuchstabe": "A"
+    },
+    {
+      "wort": "Astat",
+      "anfangsbuchstabe": "A"
+    },
+    {
+      "wort": "Actinium",
+      "anfangsbuchstabe": "A"
+    },
+    {
+      "wort": "Americium",
+      "anfangsbuchstabe": "A"
+    },
+    {
+      "wort": "Antimon",
+      "anfangsbuchstabe": "A"
+    },
+    {
+      "wort": "Barium",
+      "anfangsbuchstabe": "B"
+    },
+    {
+      "wort": "Beryllium",
+      "anfangsbuchstabe": "B"
+    },
+    {
+      "wort": "Bismut",
+      "anfangsbuchstabe": "B"
+    },
+    {
+      "wort": "Blei",
+      "anfangsbuchstabe": "B"
+    },
+    {
+      "wort": "Bor",
+      "anfangsbuchstabe": "B"
+    },
+    {
+      "wort": "Brom",
+      "anfangsbuchstabe": "B"
+    },
+    {
+      "wort": "Cadmium",
+      "anfangsbuchstabe": "C"
+    },
+    {
+      "wort": "Cer",
+      "anfangsbuchstabe": "C"
+    },
+    {
+      "wort": "Chlor",
+      "anfangsbuchstabe": "C"
+    },
+    {
+      "wort": "Chrom",
+      "anfangsbuchstabe": "C"
+    },
+    {
+      "wort": "Cäsium",
+      "anfangsbuchstabe": "C"
+    },
+    {
+      "wort": "Curium",
+      "anfangsbuchstabe": "C"
+    },
+    {
+      "wort": "Dysprosium",
+      "anfangsbuchstabe": "D"
+    },
+    {
+      "wort": "Eisen",
+      "anfangsbuchstabe": "E"
+    },
+    {
+      "wort": "Erbium",
+      "anfangsbuchstabe": "E"
+    },
+    {
+      "wort": "Europium",
+      "anfangsbuchstabe": "E"
+    },
+    {
+      "wort": "Einsteinium",
+      "anfangsbuchstabe": "E"
+    },
+    {
+      "wort": "Fluor",
+      "anfangsbuchstabe": "F"
+    },
+    {
+      "wort": "Francium",
+      "anfangsbuchstabe": "F"
+    },
+    {
+      "wort": "Fermium",
+      "anfangsbuchstabe": "F"
+    },
+    {
+      "wort": "Gold",
+      "anfangsbuchstabe": "G"
+    },
+    {
+      "wort": "Gallium",
+      "anfangsbuchstabe": "G"
+    },
+    {
+      "wort": "Germanium",
+      "anfangsbuchstabe": "G"
+    },
+    {
+      "wort": "Gadolinium",
+      "anfangsbuchstabe": "G"
+    },
+    {
+      "wort": "Helium",
+      "anfangsbuchstabe": "H"
+    },
+    {
+      "wort": "Holmium",
+      "anfangsbuchstabe": "H"
+    },
+    {
+      "wort": "Hafnium",
+      "anfangsbuchstabe": "H"
+    },
+    {
+      "wort": "Hassium",
+      "anfangsbuchstabe": "H"
+    },
+    {
+      "wort": "Indium",
+      "anfangsbuchstabe": "I"
+    },
+    {
+      "wort": "Iridium",
+      "anfangsbuchstabe": "I"
+    },
+    {
+      "wort": "Iod",
+      "anfangsbuchstabe": "I"
+    },
+    {
+      "wort": "Jod",
+      "anfangsbuchstabe": "J"
+    },
+    {
+      "wort": "Kohlenstoff",
+      "anfangsbuchstabe": "K"
+    },
+    {
+      "wort": "Kalium",
+      "anfangsbuchstabe": "K"
+    },
+    {
+      "wort": "Kalzium",
+      "anfangsbuchstabe": "K"
+    },
+    {
+      "wort": "Kobalt",
+      "anfangsbuchstabe": "K"
+    },
+    {
+      "wort": "Kupfer",
+      "anfangsbuchstabe": "K"
+    },
+    {
+      "wort": "Krypton",
+      "anfangsbuchstabe": "K"
+    },
+    {
+      "wort": "Kadmium",
+      "anfangsbuchstabe": "K"
+    },
+    {
+      "wort": "Lithium",
+      "anfangsbuchstabe": "L"
+    },
+    {
+      "wort": "Lanthan",
+      "anfangsbuchstabe": "L"
+    },
+    {
+      "wort": "Lutetium",
+      "anfangsbuchstabe": "L"
+    },
+    {
+      "wort": "Lawrencium",
+      "anfangsbuchstabe": "L"
+    },
+    {
+      "wort": "Magnesium",
+      "anfangsbuchstabe": "M"
+    },
+    {
+      "wort": "Mangan",
+      "anfangsbuchstabe": "M"
+    },
+    {
+      "wort": "Molybdän",
+      "anfangsbuchstabe": "M"
+    },
+    {
+      "wort": "Mendelevium",
+      "anfangsbuchstabe": "M"
+    },
+    {
+      "wort": "Natrium",
+      "anfangsbuchstabe": "N"
+    },
+    {
+      "wort": "Neon",
+      "anfangsbuchstabe": "N"
+    },
+    {
+      "wort": "Nickel",
+      "anfangsbuchstabe": "N"
+    },
+    {
+      "wort": "Niob",
+      "anfangsbuchstabe": "N"
+    },
+    {
+      "wort": "Neptunium",
+      "anfangsbuchstabe": "N"
+    },
+    {
+      "wort": "Neodym",
+      "anfangsbuchstabe": "N"
+    },
+    {
+      "wort": "Osmium",
+      "anfangsbuchstabe": "O"
+    },
+    {
+      "wort": "Sauerstoff",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "Phosphor",
+      "anfangsbuchstabe": "P"
+    },
+    {
+      "wort": "Platin",
+      "anfangsbuchstabe": "P"
+    },
+    {
+      "wort": "Palladium",
+      "anfangsbuchstabe": "P"
+    },
+    {
+      "wort": "Plutonium",
+      "anfangsbuchstabe": "P"
+    },
+    {
+      "wort": "Polonium",
+      "anfangsbuchstabe": "P"
+    },
+    {
+      "wort": "Promethium",
+      "anfangsbuchstabe": "P"
+    },
+    {
+      "wort": "Praseodym",
+      "anfangsbuchstabe": "P"
+    },
+    {
+      "wort": "Quecksilber",
+      "anfangsbuchstabe": "Q"
+    },
+    {
+      "wort": "Radon",
+      "anfangsbuchstabe": "R"
+    },
+    {
+      "wort": "Radium",
+      "anfangsbuchstabe": "R"
+    },
+    {
+      "wort": "Rubidium",
+      "anfangsbuchstabe": "R"
+    },
+    {
+      "wort": "Rhodium",
+      "anfangsbuchstabe": "R"
+    },
+    {
+      "wort": "Ruthenium",
+      "anfangsbuchstabe": "R"
+    },
+    {
+      "wort": "Rhenium",
+      "anfangsbuchstabe": "R"
+    },
+    {
+      "wort": "Schwefel",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "Silizium",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "Silber",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "Scandium",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "Selen",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "Strontium",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "Samarium",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "Titan",
+      "anfangsbuchstabe": "T"
+    },
+    {
+      "wort": "Tellur",
+      "anfangsbuchstabe": "T"
+    },
+    {
+      "wort": "Tantal",
+      "anfangsbuchstabe": "T"
+    },
+    {
+      "wort": "Technetium",
+      "anfangsbuchstabe": "T"
+    },
+    {
+      "wort": "Thallium",
+      "anfangsbuchstabe": "T"
+    },
+    {
+      "wort": "Thorium",
+      "anfangsbuchstabe": "T"
+    },
+    {
+      "wort": "Thulium",
+      "anfangsbuchstabe": "T"
+    },
+    {
+      "wort": "Terbium",
+      "anfangsbuchstabe": "T"
+    },
+    {
+      "wort": "Uran",
+      "anfangsbuchstabe": "U"
+    },
+    {
+      "wort": "Vanadium",
+      "anfangsbuchstabe": "V"
+    },
+    {
+      "wort": "Wasserstoff",
+      "anfangsbuchstabe": "W"
+    },
+    {
+      "wort": "Wolfram",
+      "anfangsbuchstabe": "W"
+    },
+    {
+      "wort": "Xenon",
+      "anfangsbuchstabe": "X"
+    },
+    {
+      "wort": "Yttrium",
+      "anfangsbuchstabe": "Y"
+    },
+    {
+      "wort": "Ytterbium",
+      "anfangsbuchstabe": "Y"
+    },
+    {
+      "wort": "Zink",
+      "anfangsbuchstabe": "Z"
+    },
+    {
+      "wort": "Zinn",
+      "anfangsbuchstabe": "Z"
+    },
+    {
+      "wort": "Zirconium",
+      "anfangsbuchstabe": "Z"
+    },
+    {
+      "wort": "Stickstoff",
+      "anfangsbuchstabe": "S"
+    }
+  ]
+}

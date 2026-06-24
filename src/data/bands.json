@@ -1,0 +1,817 @@
+{
+  "kategorie": "Bands & Musiker",
+  "eintraege": [
+    {
+      "wort": "ABBA",
+      "anfangsbuchstabe": "A"
+    },
+    {
+      "wort": "Adele",
+      "anfangsbuchstabe": "A"
+    },
+    {
+      "wort": "Aerosmith",
+      "anfangsbuchstabe": "A"
+    },
+    {
+      "wort": "Anastacia",
+      "anfangsbuchstabe": "A"
+    },
+    {
+      "wort": "Avicii",
+      "anfangsbuchstabe": "A"
+    },
+    {
+      "wort": "Apache",
+      "anfangsbuchstabe": "A"
+    },
+    {
+      "wort": "Beatles",
+      "anfangsbuchstabe": "B"
+    },
+    {
+      "wort": "Beyoncé",
+      "anfangsbuchstabe": "B"
+    },
+    {
+      "wort": "Blur",
+      "anfangsbuchstabe": "B"
+    },
+    {
+      "wort": "Beethoven",
+      "anfangsbuchstabe": "B"
+    },
+    {
+      "wort": "Bonez",
+      "anfangsbuchstabe": "B"
+    },
+    {
+      "wort": "Bushido",
+      "anfangsbuchstabe": "B"
+    },
+    {
+      "wort": "Clueso",
+      "anfangsbuchstabe": "C"
+    },
+    {
+      "wort": "Coldplay",
+      "anfangsbuchstabe": "C"
+    },
+    {
+      "wort": "Cro",
+      "anfangsbuchstabe": "C"
+    },
+    {
+      "wort": "Camila",
+      "anfangsbuchstabe": "C"
+    },
+    {
+      "wort": "Cure",
+      "anfangsbuchstabe": "C"
+    },
+    {
+      "wort": "Creed",
+      "anfangsbuchstabe": "C"
+    },
+    {
+      "wort": "Deichkind",
+      "anfangsbuchstabe": "D"
+    },
+    {
+      "wort": "Depeche Mode",
+      "anfangsbuchstabe": "D"
+    },
+    {
+      "wort": "Drake",
+      "anfangsbuchstabe": "D"
+    },
+    {
+      "wort": "Dido",
+      "anfangsbuchstabe": "D"
+    },
+    {
+      "wort": "Doors",
+      "anfangsbuchstabe": "D"
+    },
+    {
+      "wort": "Disturbed",
+      "anfangsbuchstabe": "D"
+    },
+    {
+      "wort": "Eminem",
+      "anfangsbuchstabe": "E"
+    },
+    {
+      "wort": "Eros Ramazzotti",
+      "anfangsbuchstabe": "E"
+    },
+    {
+      "wort": "Europe",
+      "anfangsbuchstabe": "E"
+    },
+    {
+      "wort": "Enya",
+      "anfangsbuchstabe": "E"
+    },
+    {
+      "wort": "Eagles",
+      "anfangsbuchstabe": "E"
+    },
+    {
+      "wort": "Falco",
+      "anfangsbuchstabe": "F"
+    },
+    {
+      "wort": "Farin",
+      "anfangsbuchstabe": "F"
+    },
+    {
+      "wort": "Fanta Vier",
+      "anfangsbuchstabe": "F"
+    },
+    {
+      "wort": "Foreigner",
+      "anfangsbuchstabe": "F"
+    },
+    {
+      "wort": "Feist",
+      "anfangsbuchstabe": "F"
+    },
+    {
+      "wort": "Genesis",
+      "anfangsbuchstabe": "G"
+    },
+    {
+      "wort": "Gorillaz",
+      "anfangsbuchstabe": "G"
+    },
+    {
+      "wort": "Grönemeyer",
+      "anfangsbuchstabe": "G"
+    },
+    {
+      "wort": "Glasperlenspiel",
+      "anfangsbuchstabe": "G"
+    },
+    {
+      "wort": "Green Day",
+      "anfangsbuchstabe": "G"
+    },
+    {
+      "wort": "Helene Fischer",
+      "anfangsbuchstabe": "H"
+    },
+    {
+      "wort": "Herbert",
+      "anfangsbuchstabe": "H"
+    },
+    {
+      "wort": "Halsey",
+      "anfangsbuchstabe": "H"
+    },
+    {
+      "wort": "Haftbefehl",
+      "anfangsbuchstabe": "H"
+    },
+    {
+      "wort": "Hozier",
+      "anfangsbuchstabe": "H"
+    },
+    {
+      "wort": "Imagine Dragons",
+      "anfangsbuchstabe": "I"
+    },
+    {
+      "wort": "Inxs",
+      "anfangsbuchstabe": "I"
+    },
+    {
+      "wort": "Incubus",
+      "anfangsbuchstabe": "I"
+    },
+    {
+      "wort": "Jay-Z",
+      "anfangsbuchstabe": "J"
+    },
+    {
+      "wort": "Joris",
+      "anfangsbuchstabe": "J"
+    },
+    {
+      "wort": "Justin Bieber",
+      "anfangsbuchstabe": "J"
+    },
+    {
+      "wort": "Juli",
+      "anfangsbuchstabe": "J"
+    },
+    {
+      "wort": "Jamiroquai",
+      "anfangsbuchstabe": "J"
+    },
+    {
+      "wort": "Kraftwerk",
+      "anfangsbuchstabe": "K"
+    },
+    {
+      "wort": "Kontra K",
+      "anfangsbuchstabe": "K"
+    },
+    {
+      "wort": "Katy Perry",
+      "anfangsbuchstabe": "K"
+    },
+    {
+      "wort": "Kiss",
+      "anfangsbuchstabe": "K"
+    },
+    {
+      "wort": "Kygo",
+      "anfangsbuchstabe": "K"
+    },
+    {
+      "wort": "Kasalla",
+      "anfangsbuchstabe": "K"
+    },
+    {
+      "wort": "Lady Gaga",
+      "anfangsbuchstabe": "L"
+    },
+    {
+      "wort": "Linkin Park",
+      "anfangsbuchstabe": "L"
+    },
+    {
+      "wort": "Lorde",
+      "anfangsbuchstabe": "L"
+    },
+    {
+      "wort": "Lindemann",
+      "anfangsbuchstabe": "L"
+    },
+    {
+      "wort": "Luniz",
+      "anfangsbuchstabe": "L"
+    },
+    {
+      "wort": "Madonna",
+      "anfangsbuchstabe": "M"
+    },
+    {
+      "wort": "Maroon",
+      "anfangsbuchstabe": "M"
+    },
+    {
+      "wort": "Metallica",
+      "anfangsbuchstabe": "M"
+    },
+    {
+      "wort": "Muse",
+      "anfangsbuchstabe": "M"
+    },
+    {
+      "wort": "Marteria",
+      "anfangsbuchstabe": "M"
+    },
+    {
+      "wort": "Mark Forster",
+      "anfangsbuchstabe": "M"
+    },
+    {
+      "wort": "Nena",
+      "anfangsbuchstabe": "N"
+    },
+    {
+      "wort": "Nickelback",
+      "anfangsbuchstabe": "N"
+    },
+    {
+      "wort": "Nirvana",
+      "anfangsbuchstabe": "N"
+    },
+    {
+      "wort": "Nelly",
+      "anfangsbuchstabe": "N"
+    },
+    {
+      "wort": "Nightwish",
+      "anfangsbuchstabe": "N"
+    },
+    {
+      "wort": "Oasis",
+      "anfangsbuchstabe": "O"
+    },
+    {
+      "wort": "OneRepublic",
+      "anfangsbuchstabe": "O"
+    },
+    {
+      "wort": "Outkast",
+      "anfangsbuchstabe": "O"
+    },
+    {
+      "wort": "Offspring",
+      "anfangsbuchstabe": "O"
+    },
+    {
+      "wort": "Pink",
+      "anfangsbuchstabe": "P"
+    },
+    {
+      "wort": "Placebo",
+      "anfangsbuchstabe": "P"
+    },
+    {
+      "wort": "Prince",
+      "anfangsbuchstabe": "P"
+    },
+    {
+      "wort": "Pur",
+      "anfangsbuchstabe": "P"
+    },
+    {
+      "wort": "Pixies",
+      "anfangsbuchstabe": "P"
+    },
+    {
+      "wort": "Queen",
+      "anfangsbuchstabe": "Q"
+    },
+    {
+      "wort": "Quavo",
+      "anfangsbuchstabe": "Q"
+    },
+    {
+      "wort": "Rammstein",
+      "anfangsbuchstabe": "R"
+    },
+    {
+      "wort": "Rihanna",
+      "anfangsbuchstabe": "R"
+    },
+    {
+      "wort": "Rea Garvey",
+      "anfangsbuchstabe": "R"
+    },
+    {
+      "wort": "Roxette",
+      "anfangsbuchstabe": "R"
+    },
+    {
+      "wort": "Ramones",
+      "anfangsbuchstabe": "R"
+    },
+    {
+      "wort": "Santana",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "Seeed",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "Shakira",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "Sido",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "Sting",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "Scooter",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "Tokio Hotel",
+      "anfangsbuchstabe": "T"
+    },
+    {
+      "wort": "Toto",
+      "anfangsbuchstabe": "T"
+    },
+    {
+      "wort": "Travis",
+      "anfangsbuchstabe": "T"
+    },
+    {
+      "wort": "Tina Turner",
+      "anfangsbuchstabe": "T"
+    },
+    {
+      "wort": "Twenty One Pilots",
+      "anfangsbuchstabe": "T"
+    },
+    {
+      "wort": "U2",
+      "anfangsbuchstabe": "U"
+    },
+    {
+      "wort": "Usher",
+      "anfangsbuchstabe": "U"
+    },
+    {
+      "wort": "Udo Lindenberg",
+      "anfangsbuchstabe": "U"
+    },
+    {
+      "wort": "Volbeat",
+      "anfangsbuchstabe": "V"
+    },
+    {
+      "wort": "Van Halen",
+      "anfangsbuchstabe": "V"
+    },
+    {
+      "wort": "Vega",
+      "anfangsbuchstabe": "V"
+    },
+    {
+      "wort": "Westernhagen",
+      "anfangsbuchstabe": "W"
+    },
+    {
+      "wort": "Weeknd",
+      "anfangsbuchstabe": "W"
+    },
+    {
+      "wort": "Wham",
+      "anfangsbuchstabe": "W"
+    },
+    {
+      "wort": "Wir sind Helden",
+      "anfangsbuchstabe": "W"
+    },
+    {
+      "wort": "Xavier Naidoo",
+      "anfangsbuchstabe": "X"
+    },
+    {
+      "wort": "Yello",
+      "anfangsbuchstabe": "Y"
+    },
+    {
+      "wort": "Yusuf",
+      "anfangsbuchstabe": "Y"
+    },
+    {
+      "wort": "Zaz",
+      "anfangsbuchstabe": "Z"
+    },
+    {
+      "wort": "Zucchero",
+      "anfangsbuchstabe": "Z"
+    },
+    {
+      "wort": "ZZ Top",
+      "anfangsbuchstabe": "Z"
+    },
+    {
+      "wort": "AC/DC",
+      "anfangsbuchstabe": "A"
+    },
+    {
+      "wort": "a-ha",
+      "anfangsbuchstabe": "A"
+    },
+    {
+      "wort": "Alicia Keys",
+      "anfangsbuchstabe": "A"
+    },
+    {
+      "wort": "Amy Winehouse",
+      "anfangsbuchstabe": "A"
+    },
+    {
+      "wort": "Arctic Monkeys",
+      "anfangsbuchstabe": "A"
+    },
+    {
+      "wort": "Annenmaykantereit",
+      "anfangsbuchstabe": "A"
+    },
+    {
+      "wort": "Beach Boys",
+      "anfangsbuchstabe": "B"
+    },
+    {
+      "wort": "Billie Eilish",
+      "anfangsbuchstabe": "B"
+    },
+    {
+      "wort": "Bon Jovi",
+      "anfangsbuchstabe": "B"
+    },
+    {
+      "wort": "Bryan Adams",
+      "anfangsbuchstabe": "B"
+    },
+    {
+      "wort": "Blink-182",
+      "anfangsbuchstabe": "B"
+    },
+    {
+      "wort": "Calvin Harris",
+      "anfangsbuchstabe": "C"
+    },
+    {
+      "wort": "Chris Brown",
+      "anfangsbuchstabe": "C"
+    },
+    {
+      "wort": "Cardi B",
+      "anfangsbuchstabe": "C"
+    },
+    {
+      "wort": "Cher",
+      "anfangsbuchstabe": "C"
+    },
+    {
+      "wort": "Casper",
+      "anfangsbuchstabe": "C"
+    },
+    {
+      "wort": "Daft Punk",
+      "anfangsbuchstabe": "D"
+    },
+    {
+      "wort": "Die Toten Hosen",
+      "anfangsbuchstabe": "D"
+    },
+    {
+      "wort": "Die Ärzte",
+      "anfangsbuchstabe": "D"
+    },
+    {
+      "wort": "Dua Lipa",
+      "anfangsbuchstabe": "D"
+    },
+    {
+      "wort": "Ed Sheeran",
+      "anfangsbuchstabe": "E"
+    },
+    {
+      "wort": "Elton John",
+      "anfangsbuchstabe": "E"
+    },
+    {
+      "wort": "Eric Clapton",
+      "anfangsbuchstabe": "E"
+    },
+    {
+      "wort": "Fettes Brot",
+      "anfangsbuchstabe": "F"
+    },
+    {
+      "wort": "Fleetwood Mac",
+      "anfangsbuchstabe": "F"
+    },
+    {
+      "wort": "Foo Fighters",
+      "anfangsbuchstabe": "F"
+    },
+    {
+      "wort": "Frank Sinatra",
+      "anfangsbuchstabe": "F"
+    },
+    {
+      "wort": "Florence",
+      "anfangsbuchstabe": "F"
+    },
+    {
+      "wort": "George Michael",
+      "anfangsbuchstabe": "G"
+    },
+    {
+      "wort": "Gentleman",
+      "anfangsbuchstabe": "G"
+    },
+    {
+      "wort": "Gloria Gaynor",
+      "anfangsbuchstabe": "G"
+    },
+    {
+      "wort": "Guns N Roses",
+      "anfangsbuchstabe": "G"
+    },
+    {
+      "wort": "Hans Zimmer",
+      "anfangsbuchstabe": "H"
+    },
+    {
+      "wort": "Harry Styles",
+      "anfangsbuchstabe": "H"
+    },
+    {
+      "wort": "Helloween",
+      "anfangsbuchstabe": "H"
+    },
+    {
+      "wort": "Heino",
+      "anfangsbuchstabe": "H"
+    },
+    {
+      "wort": "Iggy Pop",
+      "anfangsbuchstabe": "I"
+    },
+    {
+      "wort": "Iron Maiden",
+      "anfangsbuchstabe": "I"
+    },
+    {
+      "wort": "James Brown",
+      "anfangsbuchstabe": "J"
+    },
+    {
+      "wort": "Jan Delay",
+      "anfangsbuchstabe": "J"
+    },
+    {
+      "wort": "John Legend",
+      "anfangsbuchstabe": "J"
+    },
+    {
+      "wort": "Johnny Cash",
+      "anfangsbuchstabe": "J"
+    },
+    {
+      "wort": "Joy Division",
+      "anfangsbuchstabe": "J"
+    },
+    {
+      "wort": "Kanye West",
+      "anfangsbuchstabe": "K"
+    },
+    {
+      "wort": "Kelly Family",
+      "anfangsbuchstabe": "K"
+    },
+    {
+      "wort": "Kendrick Lamar",
+      "anfangsbuchstabe": "K"
+    },
+    {
+      "wort": "Katie Melua",
+      "anfangsbuchstabe": "K"
+    },
+    {
+      "wort": "Lana Del Rey",
+      "anfangsbuchstabe": "L"
+    },
+    {
+      "wort": "Led Zeppelin",
+      "anfangsbuchstabe": "L"
+    },
+    {
+      "wort": "Lionel Richie",
+      "anfangsbuchstabe": "L"
+    },
+    {
+      "wort": "Lil Nas",
+      "anfangsbuchstabe": "L"
+    },
+    {
+      "wort": "Mando Diao",
+      "anfangsbuchstabe": "M"
+    },
+    {
+      "wort": "Marilyn Manson",
+      "anfangsbuchstabe": "M"
+    },
+    {
+      "wort": "Massive Attack",
+      "anfangsbuchstabe": "M"
+    },
+    {
+      "wort": "Michael Jackson",
+      "anfangsbuchstabe": "M"
+    },
+    {
+      "wort": "Miley Cyrus",
+      "anfangsbuchstabe": "M"
+    },
+    {
+      "wort": "Nas",
+      "anfangsbuchstabe": "N"
+    },
+    {
+      "wort": "Nelly Furtado",
+      "anfangsbuchstabe": "N"
+    },
+    {
+      "wort": "Nico",
+      "anfangsbuchstabe": "N"
+    },
+    {
+      "wort": "OK Go",
+      "anfangsbuchstabe": "O"
+    },
+    {
+      "wort": "Of Monsters",
+      "anfangsbuchstabe": "O"
+    },
+    {
+      "wort": "Pet Shop Boys",
+      "anfangsbuchstabe": "P"
+    },
+    {
+      "wort": "Phil Collins",
+      "anfangsbuchstabe": "P"
+    },
+    {
+      "wort": "Post Malone",
+      "anfangsbuchstabe": "P"
+    },
+    {
+      "wort": "Peter Maffay",
+      "anfangsbuchstabe": "P"
+    },
+    {
+      "wort": "Radiohead",
+      "anfangsbuchstabe": "R"
+    },
+    {
+      "wort": "Red Hot Chili Peppers",
+      "anfangsbuchstabe": "R"
+    },
+    {
+      "wort": "Robbie Williams",
+      "anfangsbuchstabe": "R"
+    },
+    {
+      "wort": "Rio Reiser",
+      "anfangsbuchstabe": "R"
+    },
+    {
+      "wort": "Simon & Garfunkel",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "Snoop Dogg",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "Sportfreunde Stiller",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "Sia",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "Sarah Connor",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "Taylor Swift",
+      "anfangsbuchstabe": "T"
+    },
+    {
+      "wort": "Tracy Chapman",
+      "anfangsbuchstabe": "T"
+    },
+    {
+      "wort": "The Police",
+      "anfangsbuchstabe": "T"
+    },
+    {
+      "wort": "Tom Petty",
+      "anfangsbuchstabe": "T"
+    },
+    {
+      "wort": "Udo Jürgens",
+      "anfangsbuchstabe": "U"
+    },
+    {
+      "wort": "Underworld",
+      "anfangsbuchstabe": "U"
+    },
+    {
+      "wort": "Van Morrison",
+      "anfangsbuchstabe": "V"
+    },
+    {
+      "wort": "Vanessa Mai",
+      "anfangsbuchstabe": "V"
+    },
+    {
+      "wort": "Whitney Houston",
+      "anfangsbuchstabe": "W"
+    },
+    {
+      "wort": "Wincent Weiss",
+      "anfangsbuchstabe": "W"
+    },
+    {
+      "wort": "Wanda",
+      "anfangsbuchstabe": "W"
+    },
+    {
+      "wort": "Years & Years",
+      "anfangsbuchstabe": "Y"
+    }
+  ]
+}

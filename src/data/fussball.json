@@ -1,0 +1,665 @@
+{
+  "kategorie": "Fußballvereine",
+  "eintraege": [
+    {
+      "wort": "Ajax",
+      "anfangsbuchstabe": "A"
+    },
+    {
+      "wort": "Arsenal",
+      "anfangsbuchstabe": "A"
+    },
+    {
+      "wort": "Atletico",
+      "anfangsbuchstabe": "A"
+    },
+    {
+      "wort": "Atalanta",
+      "anfangsbuchstabe": "A"
+    },
+    {
+      "wort": "Augsburg",
+      "anfangsbuchstabe": "A"
+    },
+    {
+      "wort": "Aston Villa",
+      "anfangsbuchstabe": "A"
+    },
+    {
+      "wort": "Barcelona",
+      "anfangsbuchstabe": "B"
+    },
+    {
+      "wort": "Bayern",
+      "anfangsbuchstabe": "B"
+    },
+    {
+      "wort": "Benfica",
+      "anfangsbuchstabe": "B"
+    },
+    {
+      "wort": "Bologna",
+      "anfangsbuchstabe": "B"
+    },
+    {
+      "wort": "Brentford",
+      "anfangsbuchstabe": "B"
+    },
+    {
+      "wort": "Brighton",
+      "anfangsbuchstabe": "B"
+    },
+    {
+      "wort": "Bremen",
+      "anfangsbuchstabe": "B"
+    },
+    {
+      "wort": "Bochum",
+      "anfangsbuchstabe": "B"
+    },
+    {
+      "wort": "Celtic",
+      "anfangsbuchstabe": "C"
+    },
+    {
+      "wort": "Chelsea",
+      "anfangsbuchstabe": "C"
+    },
+    {
+      "wort": "Cottbus",
+      "anfangsbuchstabe": "C"
+    },
+    {
+      "wort": "Cagliari",
+      "anfangsbuchstabe": "C"
+    },
+    {
+      "wort": "Dortmund",
+      "anfangsbuchstabe": "D"
+    },
+    {
+      "wort": "Darmstadt",
+      "anfangsbuchstabe": "D"
+    },
+    {
+      "wort": "Dynamo",
+      "anfangsbuchstabe": "D"
+    },
+    {
+      "wort": "Dundee",
+      "anfangsbuchstabe": "D"
+    },
+    {
+      "wort": "Eintracht",
+      "anfangsbuchstabe": "E"
+    },
+    {
+      "wort": "Empoli",
+      "anfangsbuchstabe": "E"
+    },
+    {
+      "wort": "Everton",
+      "anfangsbuchstabe": "E"
+    },
+    {
+      "wort": "Elche",
+      "anfangsbuchstabe": "E"
+    },
+    {
+      "wort": "Fenerbahce",
+      "anfangsbuchstabe": "F"
+    },
+    {
+      "wort": "Fiorentina",
+      "anfangsbuchstabe": "F"
+    },
+    {
+      "wort": "Freiburg",
+      "anfangsbuchstabe": "F"
+    },
+    {
+      "wort": "Fulham",
+      "anfangsbuchstabe": "F"
+    },
+    {
+      "wort": "Frankfurt",
+      "anfangsbuchstabe": "F"
+    },
+    {
+      "wort": "Galatasaray",
+      "anfangsbuchstabe": "G"
+    },
+    {
+      "wort": "Genua",
+      "anfangsbuchstabe": "G"
+    },
+    {
+      "wort": "Getafe",
+      "anfangsbuchstabe": "G"
+    },
+    {
+      "wort": "Gladbach",
+      "anfangsbuchstabe": "G"
+    },
+    {
+      "wort": "Granada",
+      "anfangsbuchstabe": "G"
+    },
+    {
+      "wort": "Hamburg",
+      "anfangsbuchstabe": "H"
+    },
+    {
+      "wort": "Hertha",
+      "anfangsbuchstabe": "H"
+    },
+    {
+      "wort": "Hoffenheim",
+      "anfangsbuchstabe": "H"
+    },
+    {
+      "wort": "Heidenheim",
+      "anfangsbuchstabe": "H"
+    },
+    {
+      "wort": "Hull",
+      "anfangsbuchstabe": "H"
+    },
+    {
+      "wort": "Inter",
+      "anfangsbuchstabe": "I"
+    },
+    {
+      "wort": "Ipswich",
+      "anfangsbuchstabe": "I"
+    },
+    {
+      "wort": "Juventus",
+      "anfangsbuchstabe": "J"
+    },
+    {
+      "wort": "Köln",
+      "anfangsbuchstabe": "K"
+    },
+    {
+      "wort": "Kaiserslautern",
+      "anfangsbuchstabe": "K"
+    },
+    {
+      "wort": "Karlsruhe",
+      "anfangsbuchstabe": "K"
+    },
+    {
+      "wort": "Lazio",
+      "anfangsbuchstabe": "L"
+    },
+    {
+      "wort": "Leeds",
+      "anfangsbuchstabe": "L"
+    },
+    {
+      "wort": "Leipzig",
+      "anfangsbuchstabe": "L"
+    },
+    {
+      "wort": "Leverkusen",
+      "anfangsbuchstabe": "L"
+    },
+    {
+      "wort": "Lille",
+      "anfangsbuchstabe": "L"
+    },
+    {
+      "wort": "Liverpool",
+      "anfangsbuchstabe": "L"
+    },
+    {
+      "wort": "Lyon",
+      "anfangsbuchstabe": "L"
+    },
+    {
+      "wort": "Mainz",
+      "anfangsbuchstabe": "M"
+    },
+    {
+      "wort": "Mailand",
+      "anfangsbuchstabe": "M"
+    },
+    {
+      "wort": "Malaga",
+      "anfangsbuchstabe": "M"
+    },
+    {
+      "wort": "Marseille",
+      "anfangsbuchstabe": "M"
+    },
+    {
+      "wort": "Monaco",
+      "anfangsbuchstabe": "M"
+    },
+    {
+      "wort": "Mönchengladbach",
+      "anfangsbuchstabe": "M"
+    },
+    {
+      "wort": "Nantes",
+      "anfangsbuchstabe": "N"
+    },
+    {
+      "wort": "Napoli",
+      "anfangsbuchstabe": "N"
+    },
+    {
+      "wort": "Newcastle",
+      "anfangsbuchstabe": "N"
+    },
+    {
+      "wort": "Norwich",
+      "anfangsbuchstabe": "N"
+    },
+    {
+      "wort": "Nürnberg",
+      "anfangsbuchstabe": "N"
+    },
+    {
+      "wort": "Osasuna",
+      "anfangsbuchstabe": "O"
+    },
+    {
+      "wort": "Olympiakos",
+      "anfangsbuchstabe": "O"
+    },
+    {
+      "wort": "Paderborn",
+      "anfangsbuchstabe": "P"
+    },
+    {
+      "wort": "Palermo",
+      "anfangsbuchstabe": "P"
+    },
+    {
+      "wort": "Parma",
+      "anfangsbuchstabe": "P"
+    },
+    {
+      "wort": "PSG",
+      "anfangsbuchstabe": "P"
+    },
+    {
+      "wort": "Porto",
+      "anfangsbuchstabe": "P"
+    },
+    {
+      "wort": "Piräus",
+      "anfangsbuchstabe": "P"
+    },
+    {
+      "wort": "Real Madrid",
+      "anfangsbuchstabe": "R"
+    },
+    {
+      "wort": "Roma",
+      "anfangsbuchstabe": "R"
+    },
+    {
+      "wort": "Rangers",
+      "anfangsbuchstabe": "R"
+    },
+    {
+      "wort": "Rostock",
+      "anfangsbuchstabe": "R"
+    },
+    {
+      "wort": "Rennes",
+      "anfangsbuchstabe": "R"
+    },
+    {
+      "wort": "Sassuolo",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "Schalke",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "Sevilla",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "Sociedad",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "Sporting",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "Stuttgart",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "Sunderland",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "Tottenham",
+      "anfangsbuchstabe": "T"
+    },
+    {
+      "wort": "Torino",
+      "anfangsbuchstabe": "T"
+    },
+    {
+      "wort": "Trabzonspor",
+      "anfangsbuchstabe": "T"
+    },
+    {
+      "wort": "Udinese",
+      "anfangsbuchstabe": "U"
+    },
+    {
+      "wort": "Union Berlin",
+      "anfangsbuchstabe": "U"
+    },
+    {
+      "wort": "Ulm",
+      "anfangsbuchstabe": "U"
+    },
+    {
+      "wort": "Valencia",
+      "anfangsbuchstabe": "V"
+    },
+    {
+      "wort": "Villarreal",
+      "anfangsbuchstabe": "V"
+    },
+    {
+      "wort": "Verona",
+      "anfangsbuchstabe": "V"
+    },
+    {
+      "wort": "Watford",
+      "anfangsbuchstabe": "W"
+    },
+    {
+      "wort": "Werder",
+      "anfangsbuchstabe": "W"
+    },
+    {
+      "wort": "Wolfsburg",
+      "anfangsbuchstabe": "W"
+    },
+    {
+      "wort": "Wolverhampton",
+      "anfangsbuchstabe": "W"
+    },
+    {
+      "wort": "Wigan",
+      "anfangsbuchstabe": "W"
+    },
+    {
+      "wort": "Zenit",
+      "anfangsbuchstabe": "Z"
+    },
+    {
+      "wort": "Zwickau",
+      "anfangsbuchstabe": "Z"
+    },
+    {
+      "wort": "Athletic Bilbao",
+      "anfangsbuchstabe": "A"
+    },
+    {
+      "wort": "Anderlecht",
+      "anfangsbuchstabe": "A"
+    },
+    {
+      "wort": "Alaves",
+      "anfangsbuchstabe": "A"
+    },
+    {
+      "wort": "AEK Athen",
+      "anfangsbuchstabe": "A"
+    },
+    {
+      "wort": "Antwerp",
+      "anfangsbuchstabe": "A"
+    },
+    {
+      "wort": "Betis",
+      "anfangsbuchstabe": "B"
+    },
+    {
+      "wort": "Birmingham",
+      "anfangsbuchstabe": "B"
+    },
+    {
+      "wort": "Blackburn",
+      "anfangsbuchstabe": "B"
+    },
+    {
+      "wort": "Braga",
+      "anfangsbuchstabe": "B"
+    },
+    {
+      "wort": "Burnley",
+      "anfangsbuchstabe": "B"
+    },
+    {
+      "wort": "Basel",
+      "anfangsbuchstabe": "B"
+    },
+    {
+      "wort": "Cádiz",
+      "anfangsbuchstabe": "C"
+    },
+    {
+      "wort": "Cremonese",
+      "anfangsbuchstabe": "C"
+    },
+    {
+      "wort": "Crystal Palace",
+      "anfangsbuchstabe": "C"
+    },
+    {
+      "wort": "Celta",
+      "anfangsbuchstabe": "C"
+    },
+    {
+      "wort": "Como",
+      "anfangsbuchstabe": "C"
+    },
+    {
+      "wort": "Dynamo Kiew",
+      "anfangsbuchstabe": "D"
+    },
+    {
+      "wort": "Deportivo",
+      "anfangsbuchstabe": "D"
+    },
+    {
+      "wort": "Den Haag",
+      "anfangsbuchstabe": "D"
+    },
+    {
+      "wort": "Espanyol",
+      "anfangsbuchstabe": "E"
+    },
+    {
+      "wort": "Excelsior",
+      "anfangsbuchstabe": "E"
+    },
+    {
+      "wort": "Feyenoord",
+      "anfangsbuchstabe": "F"
+    },
+    {
+      "wort": "Fortuna",
+      "anfangsbuchstabe": "F"
+    },
+    {
+      "wort": "Frosinone",
+      "anfangsbuchstabe": "F"
+    },
+    {
+      "wort": "Girona",
+      "anfangsbuchstabe": "G"
+    },
+    {
+      "wort": "Genk",
+      "anfangsbuchstabe": "G"
+    },
+    {
+      "wort": "Hannover",
+      "anfangsbuchstabe": "H"
+    },
+    {
+      "wort": "Hellas",
+      "anfangsbuchstabe": "H"
+    },
+    {
+      "wort": "Huddersfield",
+      "anfangsbuchstabe": "H"
+    },
+    {
+      "wort": "Hibernian",
+      "anfangsbuchstabe": "H"
+    },
+    {
+      "wort": "Independiente",
+      "anfangsbuchstabe": "I"
+    },
+    {
+      "wort": "Krasnodar",
+      "anfangsbuchstabe": "K"
+    },
+    {
+      "wort": "Lecce",
+      "anfangsbuchstabe": "L"
+    },
+    {
+      "wort": "Levante",
+      "anfangsbuchstabe": "L"
+    },
+    {
+      "wort": "Lens",
+      "anfangsbuchstabe": "L"
+    },
+    {
+      "wort": "Lokomotive",
+      "anfangsbuchstabe": "L"
+    },
+    {
+      "wort": "Mallorca",
+      "anfangsbuchstabe": "M"
+    },
+    {
+      "wort": "Metz",
+      "anfangsbuchstabe": "M"
+    },
+    {
+      "wort": "Middlesbrough",
+      "anfangsbuchstabe": "M"
+    },
+    {
+      "wort": "Montpellier",
+      "anfangsbuchstabe": "M"
+    },
+    {
+      "wort": "Millwall",
+      "anfangsbuchstabe": "M"
+    },
+    {
+      "wort": "Magdeburg",
+      "anfangsbuchstabe": "M"
+    },
+    {
+      "wort": "Nizza",
+      "anfangsbuchstabe": "N"
+    },
+    {
+      "wort": "Nottingham",
+      "anfangsbuchstabe": "N"
+    },
+    {
+      "wort": "Ostende",
+      "anfangsbuchstabe": "O"
+    },
+    {
+      "wort": "Partizan",
+      "anfangsbuchstabe": "P"
+    },
+    {
+      "wort": "PSV",
+      "anfangsbuchstabe": "P"
+    },
+    {
+      "wort": "Plymouth",
+      "anfangsbuchstabe": "P"
+    },
+    {
+      "wort": "Preston",
+      "anfangsbuchstabe": "P"
+    },
+    {
+      "wort": "Reims",
+      "anfangsbuchstabe": "R"
+    },
+    {
+      "wort": "River Plate",
+      "anfangsbuchstabe": "R"
+    },
+    {
+      "wort": "Rosenborg",
+      "anfangsbuchstabe": "R"
+    },
+    {
+      "wort": "Rostov",
+      "anfangsbuchstabe": "R"
+    },
+    {
+      "wort": "Sampdoria",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "St. Pauli",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "Sturm Graz",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "Salzburg",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "Saragossa",
+      "anfangsbuchstabe": "S"
+    },
+    {
+      "wort": "Toulouse",
+      "anfangsbuchstabe": "T"
+    },
+    {
+      "wort": "Twente",
+      "anfangsbuchstabe": "T"
+    },
+    {
+      "wort": "Valladolid",
+      "anfangsbuchstabe": "V"
+    },
+    {
+      "wort": "Venezia",
+      "anfangsbuchstabe": "V"
+    },
+    {
+      "wort": "West Ham",
+      "anfangsbuchstabe": "W"
+    },
+    {
+      "wort": "Wisla",
+      "anfangsbuchstabe": "W"
+    }
+  ]
+}
