@@ -3,6 +3,7 @@ import { useGame } from '../state/GameContext';
 import { translations } from '../i18n/translations';
 import { getCategoryLabel } from '../data/categories';
 import { Trophy, RotateCcw, Medal, Crown, Sparkles } from 'lucide-react';
+import { ShareFooter } from './ShareFooter';
 import confetti from 'canvas-confetti';
 import { getThemeConfettiColors } from '../utils/confettiColors';
 import { recordScores, HighscoreEntry } from '../services/highscores';
@@ -201,6 +202,8 @@ export const WinnerScreen: React.FC = () => {
           <span>{t.playAgain}</span>
         </button>
       </div>
+
+      <ShareFooter />
     </div>
   );
 };
