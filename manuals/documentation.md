@@ -268,7 +268,7 @@ See **`manuals/data.md`** for the full data system. In short:
 
 - `npm run build` runs `tsc` then `vite build` → static `dist/`.
 - **Versioning**: the start-screen footer shows `v{version}` imported from `package.json`; Vite inlines the value at build time, so every build reflects the current `package.json` version. To release, bump `"version"` in `package.json`, update the docs (this file, README, data.md) as needed, then build.
-- **Hosting**: any static host works (GitHub Pages, Netlify, Vercel, Strato, IONOS). `vercel.json` provides an SPA rewrite.
+- **Hosting**: any static host works (GitHub Pages, Netlify, Vercel, Strato, IONOS). `vercel.json` provides an SPA rewrite. `base: './'` makes every asset/manifest/SW path relative, so the app also runs from a **subdirectory** (e.g. `example.com/letterrush/`). Note: `og:image`/`twitter:image` are relative too; for best social-share previews set them to an absolute URL once the final domain is known.
 
 ---
 

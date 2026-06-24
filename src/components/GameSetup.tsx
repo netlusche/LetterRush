@@ -216,7 +216,7 @@ export const GameSetup: React.FC = () => {
       {/* Rounds */}
       <div className="setup-section">
         <h2 className="section-title"><Settings className="icon" /> {t.setupRounds}</h2>
-        <div className="options-grid horizontal">
+        <div className="options-grid" style={{ gridTemplateColumns: 'repeat(5, 1fr)' }}>
           {ROUND_OPTIONS.map((r) => (
             <button
               key={r}

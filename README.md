@@ -66,7 +66,7 @@ Serves the production build with Service Worker and manifest active.
 ```bash
 npm run build
 ```
-Outputs a static bundle to `dist/`. Because everything is client-side and the word data is bundled, **the app can be hosted on any static web server** — GitHub Pages, Netlify, Vercel, Strato, IONOS — with **zero backend**. The app version shown in the start-screen footer is taken from `package.json` and inlined at build time.
+Outputs a static bundle to `dist/`. Because everything is client-side and the word data is bundled, **the app can be hosted on any static web server** — GitHub Pages, Netlify, Vercel, Strato, IONOS — with **zero backend**. Thanks to `base: './'` it also works when served from a **subdirectory** (e.g. `example.com/letterrush/`). The app version shown in the start-screen footer is taken from `package.json` and inlined at build time.
 
 ### Regenerating Category Data
 The word lists in `src/data/*.json` are **generated** — do not edit them by hand:
